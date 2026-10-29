@@ -1,0 +1,2372 @@
+{
+ "pack": "hj-1b",
+ "source": "Lesson texts transcribed by hand from the scans; translations by Hanyu",
+ "lessons": [
+  {
+   "lesson": 16,
+   "zh": "你常去图书馆吗",
+   "pinyin": "Nǐ cháng qù túshūguǎn ma",
+   "en": "Do you often go to the library",
+   "fr": "Tu vas souvent à la bibliothèque ?",
+   "pdfPage": 19,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "我现在去图书馆，你跟我一起去，好吗？",
+       "pinyin": "Wǒ xiànzài qù túshūguǎn, nǐ gēn wǒ yìqǐ qù, hǎo ma?",
+       "en": "I'm going to the library now. Will you come with me?",
+       "fr": "Je vais à la bibliothèque maintenant. Tu viens avec moi ?",
+       "numbered": "wo3 xian4 zai4 qu4 tu2 shu1 guan3 ni3 gen1 wo3 yi4 qi3 qu4 hao3 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "好，咱们走吧。……你常去图书馆吗？",
+       "pinyin": "Hǎo, zánmen zǒu ba. …… Nǐ cháng qù túshūguǎn ma?",
+       "en": "OK, let's go. … Do you often go to the library?",
+       "fr": "D'accord, allons-y. … Tu vas souvent à la bibliothèque ?",
+       "numbered": "hao3 zan2 men5 zou3 ba5 ni3 chang2 qu4 tu2 shu1 guan3 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "常去。我常借书，也常在那儿看书。你呢？常去吗？",
+       "pinyin": "Cháng qù. Wǒ cháng jiè shū, yě cháng zài nàr kàn shū. Nǐ ne? Cháng qù ma?",
+       "en": "Often. I often borrow books, and I often read there too. And you? Do you go often?",
+       "fr": "Souvent. J'emprunte souvent des livres, et j'y lis souvent aussi. Et toi ? Tu y vas souvent ?",
+       "numbered": "chang2 qu4 wo3 chang2 jie4 shu1 ye3 chang2 zai4 nar4 kan4 shu1 ni3 ne5 chang2 qu4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "我也常去。有时候借书，有时候上网查资料，但不常在那儿看书。我总在宿舍看书。",
+       "pinyin": "Wǒ yě cháng qù. Yǒu shíhou jiè shū, yǒu shíhou shàng wǎng chá zīliào, dàn bù cháng zài nàr kàn shū. Wǒ zǒng zài sùshè kàn shū.",
+       "en": "I go often too. Sometimes I borrow books, sometimes I go online to look things up, but I don't often read there. I always read in my dorm.",
+       "fr": "J'y vais souvent aussi. Parfois j'emprunte des livres, parfois je fais des recherches en ligne, mais je n'y lis pas souvent. Je lis toujours dans ma chambre.",
+       "numbered": "wo3 ye3 chang2 qu4 you3 shi2 hou5 jie4 shu1 you3 shi2 hou5 shang4 wang3 cha2 zi1 liao4 dan4 bu4 chang2 zai4 nar4 kan4 shu1 wo3 zong3 zai4 su4 she4 kan4 shu1"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "你的宿舍安静吗？",
+       "pinyin": "Nǐ de sùshè ānjìng ma?",
+       "en": "Is your dorm quiet?",
+       "fr": "Ta chambre est calme ?",
+       "numbered": "ni3 de5 su4 she4 an1 jing4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "很安静。",
+       "pinyin": "Hěn ānjìng.",
+       "en": "Very quiet.",
+       "fr": "Très calme.",
+       "numbered": "hen3 an1 jing4"
+      }
+     ],
+     "title": {
+      "zh": "你常去图书馆吗",
+      "pinyin": "Nǐ cháng qù túshūguǎn ma",
+      "en": "Do you often go to the library",
+      "fr": "Tu vas souvent à la bibliothèque ?"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "晚上你常做什么？",
+       "pinyin": "Wǎnshang nǐ cháng zuò shénme?",
+       "en": "What do you usually do in the evening?",
+       "fr": "Que fais-tu souvent le soir ?",
+       "numbered": "wan3 shang5 ni3 chang2 zuo4 shen2 me5"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "复习课文，预习生词，或者做练习。有时候上网跟朋友聊天儿，有时候发微信或者收发邮件。",
+       "pinyin": "Fùxí kèwén, yùxí shēngcí, huòzhě zuò liànxí. Yǒu shíhou shàng wǎng gēn péngyou liáo tiānr, yǒu shíhou fā wēixìn huòzhě shōufā yóujiàn.",
+       "en": "I review the texts, prepare the new words, or do exercises. Sometimes I chat with friends online, sometimes I send WeChat messages or do my email.",
+       "fr": "Je révise les textes, je prépare les nouveaux mots ou je fais des exercices. Parfois je discute en ligne avec des amis, parfois j'envoie des messages WeChat ou je lis mes e-mails.",
+       "numbered": "fu4 xi2 ke4 wen2 yu4 xi2 sheng1 ci2 huo4 zhe3 zuo4 lian4 xi2 you3 shi2 hou5 shang4 wang3 gen1 peng2 you5 liao2 tianr1 you3 shi2 hou5 fa1 wei1 xin4 huo4 zhe3 shou1 fa1 you2 jian4"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "我也是。我还常看中文电影和电视剧。你常看吗？",
+       "pinyin": "Wǒ yě shì. Wǒ hái cháng kàn Zhōngwén diànyǐng hé diànshìjù. Nǐ cháng kàn ma?",
+       "en": "Me too. I also often watch Chinese films and TV series. Do you often watch them?",
+       "fr": "Moi aussi. Je regarde aussi souvent des films et des séries en chinois. Tu en regardes souvent ?",
+       "numbered": "wo3 ye3 shi4 wo3 hai2 chang2 kan4 zhong1 wen2 dian4 ying3 he2 dian4 shi4 ju4 ni3 chang2 kan4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "我很少看。",
+       "pinyin": "Wǒ hěn shǎo kàn.",
+       "en": "I rarely watch them.",
+       "fr": "J'en regarde rarement.",
+       "numbered": "wo3 hen3 shao3 kan4"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "星期六和星期日你做什么？",
+       "pinyin": "Xīngqīliù hé Xīngqīrì nǐ zuò shénme?",
+       "en": "What do you do on Saturdays and Sundays?",
+       "fr": "Que fais-tu le samedi et le dimanche ?",
+       "numbered": "xing1 qi1 liu4 he2 xing1 qi1 ri4 ni3 zuo4 shen2 me5"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "有时候在宿舍休息，有时候跟朋友一起去公园玩儿或者去超市买东西。",
+       "pinyin": "Yǒu shíhou zài sùshè xiūxi, yǒu shíhou gēn péngyou yìqǐ qù gōngyuán wánr huòzhě qù chāoshì mǎi dōngxi.",
+       "en": "Sometimes I rest in the dorm, sometimes I go to the park with friends or go shopping at the supermarket.",
+       "fr": "Parfois je me repose dans ma chambre, parfois je vais au parc avec des amis ou je fais des courses au supermarché.",
+       "numbered": "you3 shi2 hou5 zai4 su4 she4 xiu1 xi5 you3 shi2 hou5 gen1 peng2 you5 yi4 qi3 qu4 gong1 yuan2 wanr2 huo4 zhe3 qu4 chao1 shi4 mai3 dong1 xi5"
+      }
+     ],
+     "title": {
+      "zh": "晚上你常做什么",
+      "pinyin": "Wǎnshang nǐ cháng zuò shénme",
+      "en": "What do you usually do in the evening",
+      "fr": "Que fais-tu souvent le soir ?"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w230",
+    "hj1b-w072",
+    "hj1b-w244",
+    "hj1b-w266",
+    "hj1b-w286",
+    "hj1b-w023",
+    "hj1b-w104",
+    "hj1b-w252",
+    "hj1b-w179",
+    "hj1b-w175",
+    "hj1b-w214",
+    "hj1b-w020",
+    "hj1b-w282",
+    "hj1b-w285",
+    "hj1b-w193",
+    "hj1b-w002",
+    "hj1b-w213",
+    "hj1b-w067",
+    "hj1b-w121",
+    "hj1b-w258",
+    "hj1b-w177",
+    "hj1b-w094",
+    "hj1b-w130",
+    "hj1b-w131",
+    "hj1b-w059",
+    "hj1b-w216",
+    "hj1b-w183",
+    "hj1b-w184",
+    "hj1b-w250",
+    "hj1b-w050",
+    "hj1b-w047",
+    "hj1b-w048",
+    "hj1b-w236",
+    "hj1b-w073",
+    "hj1b-w025",
+    "hj1b-w052"
+   ]
+  },
+  {
+   "lesson": 17,
+   "zh": "他在做什么呢",
+   "pinyin": "Tā zài zuò shénme ne",
+   "en": "What is he doing",
+   "fr": "Qu'est-ce qu'il fait ?",
+   "pdfPage": 32,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "scene",
+       "zh": "玛丽去找麦克，她问麦克的同屋爱德华，麦克在不在宿舍……",
+       "en": "Mary is looking for Mike. She asks Mike's roommate Edward if Mike is in the dorm…",
+       "fr": "Marie cherche Mike. Elle demande à Édouard, le colocataire de Mike, si Mike est dans sa chambre…"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "麦克在宿舍吗？",
+       "pinyin": "Màikè zài sùshè ma?",
+       "en": "Is Mike in the dorm?",
+       "fr": "Mike est dans sa chambre ?",
+       "numbered": "mai4 ke4 zai4 su4 she4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "爱德华",
+       "speakerPinyin": "Àidéhuá",
+       "zh": "在。",
+       "pinyin": "Zài.",
+       "en": "Yes, he is.",
+       "fr": "Oui.",
+       "numbered": "zai4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "他在做什么呢？",
+       "pinyin": "Tā zài zuò shénme ne?",
+       "en": "What is he doing?",
+       "fr": "Qu'est-ce qu'il fait ?",
+       "numbered": "ta1 zai4 zuo4 shen2 me5 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "爱德华",
+       "speakerPinyin": "Àidéhuá",
+       "zh": "我出来的时候，他正在听音乐呢。",
+       "pinyin": "Wǒ chūlai de shíhou, tā zhèngzài tīng yīnyuè ne.",
+       "en": "When I came out, he was listening to music.",
+       "fr": "Quand je suis sorti, il écoutait de la musique.",
+       "numbered": "wo3 chu1 lai5 de5 shi2 hou5 ta1 zheng4 zai4 ting1 yin1 yue4 ne5"
+      },
+      {
+       "type": "scene",
+       "zh": "玛丽到麦克宿舍……",
+       "en": "Mary comes to Mike's dorm…",
+       "fr": "Marie arrive dans la chambre de Mike…"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "你是不是在听音乐呢？",
+       "pinyin": "Nǐ shì bu shì zài tīng yīnyuè ne?",
+       "en": "Are you listening to music?",
+       "fr": "Tu écoutes de la musique ?",
+       "numbered": "ni3 shi4 bu5 shi4 zai4 ting1 yin1 yue4 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "没有，我正听课文录音呢。",
+       "pinyin": "Méiyǒu, wǒ zhèng tīng kèwén lùyīn ne.",
+       "en": "No, I'm listening to the recording of the text.",
+       "fr": "Non, j'écoute l'enregistrement du texte.",
+       "numbered": "mei2 you3 wo3 zheng4 ting1 ke4 wen2 lu4 yin1 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "下午你有事儿吗？",
+       "pinyin": "Xiàwǔ nǐ yǒu shìr ma?",
+       "en": "Are you busy this afternoon?",
+       "fr": "Tu as quelque chose à faire cet après-midi ?",
+       "numbered": "xia4 wu3 ni3 you3 shir4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "没有事儿。",
+       "pinyin": "Méiyǒu shìr.",
+       "en": "No, nothing.",
+       "fr": "Non, rien.",
+       "numbered": "mei2 you3 shir4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "我们一起去书店，好吗？",
+       "pinyin": "Wǒmen yìqǐ qù shūdiàn, hǎo ma?",
+       "en": "Shall we go to the bookshop together?",
+       "fr": "On va à la librairie ensemble ?",
+       "numbered": "wo3 men5 yi4 qi3 qu4 shu1 dian4 hao3 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "你要买什么书？",
+       "pinyin": "Nǐ yào mǎi shénme shū?",
+       "en": "What book do you want to buy?",
+       "fr": "Quel livre veux-tu acheter ?",
+       "numbered": "ni3 yao4 mai3 shen2 me5 shu1"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "我想买一本《汉英词典》。",
+       "pinyin": "Wǒ xiǎng mǎi yì běn 《Hàn-Yīng Cídiǎn》.",
+       "en": "I'd like to buy a Chinese-English dictionary.",
+       "fr": "Je voudrais acheter un dictionnaire chinois-anglais.",
+       "numbered": "wo3 xiang3 mai3 yi4 ben3 han4 ying1 ci2 dian3"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "咱们怎么去呢？",
+       "pinyin": "Zánmen zěnme qù ne?",
+       "en": "How shall we go?",
+       "fr": "Comment on y va ?",
+       "numbered": "zan2 men5 zen3 me5 qu4 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "坐车去吧。",
+       "pinyin": "Zuò chē qù ba.",
+       "en": "Let's take the bus.",
+       "fr": "Prenons le bus.",
+       "numbered": "zuo4 che1 qu4 ba5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "今天星期六，坐车太挤，骑车去怎么样？",
+       "pinyin": "Jīntiān Xīngqīliù, zuò chē tài jǐ, qí chē qù zěnmeyàng?",
+       "en": "Today is Saturday, the bus is too crowded. What about cycling there?",
+       "fr": "Aujourd'hui c'est samedi, le bus est trop bondé. Et si on y allait à vélo ?",
+       "numbered": "jin1 tian1 xing1 qi1 liu4 zuo4 che1 tai4 ji3 qi2 che1 qu4 zen3 me5 yang4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "行。",
+       "pinyin": "Xíng.",
+       "en": "OK.",
+       "fr": "D'accord.",
+       "numbered": "xing2"
+      }
+     ],
+     "title": {
+      "zh": "他在做什么呢",
+      "pinyin": "Tā zài zuò shénme ne",
+      "en": "What is he doing",
+      "fr": "Qu'est-ce qu'il fait ?"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "田芳",
+       "speakerPinyin": "Tián Fāng",
+       "zh": "玛丽，这学期你们有几门课？",
+       "pinyin": "Mǎlì, zhè xuéqī nǐmen yǒu jǐ mén kè?",
+       "en": "Mary, how many courses do you have this semester?",
+       "fr": "Marie, combien de cours avez-vous ce semestre ?",
+       "numbered": "ma3 li4 zhe4 xue2 qi1 ni3 men5 you3 ji3 men2 ke4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "现在只有四门课：综合课、口语课、听力课和阅读课。",
+       "pinyin": "Xiànzài zhǐ yǒu sì mén kè: zōnghé kè, kǒuyǔ kè, tīnglì kè hé yuèdú kè.",
+       "en": "Only four for now: comprehensive Chinese, speaking, listening and reading.",
+       "fr": "Seulement quatre pour l'instant : chinois général, oral, compréhension orale et lecture.",
+       "numbered": "xian4 zai4 zhi3 you3 si4 men2 ke4 zong1 he2 ke4 kou3 yu3 ke4 ting1 li4 ke4 he2 yue4 du2 ke4"
+      },
+      {
+       "type": "line",
+       "speaker": "田芳",
+       "speakerPinyin": "Tián Fāng",
+       "zh": "有文化课和体育课吗？",
+       "pinyin": "Yǒu wénhuà kè hé tǐyù kè ma?",
+       "en": "Do you have culture and PE classes?",
+       "fr": "Vous avez des cours de culture et de sport ?",
+       "numbered": "you3 wen2 hua4 ke4 he2 ti3 yu4 ke4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "没有。",
+       "pinyin": "Méiyǒu.",
+       "en": "No.",
+       "fr": "Non.",
+       "numbered": "mei2 you3"
+      },
+      {
+       "type": "line",
+       "speaker": "田芳",
+       "speakerPinyin": "Tián Fāng",
+       "zh": "林老师教你们什么？",
+       "pinyin": "Lín lǎoshī jiāo nǐmen shénme?",
+       "en": "What does Ms Lin teach you?",
+       "fr": "Qu'est-ce que Mme Lin vous enseigne ?",
+       "numbered": "lin2 lao3 shi1 jiao1 ni3 men5 shen2 me5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "她教我们听力和阅读。",
+       "pinyin": "Tā jiāo wǒmen tīnglì hé yuèdú.",
+       "en": "She teaches us listening and reading.",
+       "fr": "Elle nous enseigne la compréhension orale et la lecture.",
+       "numbered": "ta1 jiao1 wo3 men5 ting1 li4 he2 yue4 du2"
+      },
+      {
+       "type": "line",
+       "speaker": "田芳",
+       "speakerPinyin": "Tián Fāng",
+       "zh": "谁教你们综合课和口语课？",
+       "pinyin": "Shéi jiāo nǐmen zōnghé kè hé kǒuyǔ kè?",
+       "en": "Who teaches you comprehensive Chinese and speaking?",
+       "fr": "Qui vous enseigne le chinois général et l'oral ?",
+       "numbered": "shei2 jiao1 ni3 men5 zong1 he2 ke4 he2 kou3 yu3 ke4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "王老师。",
+       "pinyin": "Wáng lǎoshī.",
+       "en": "Mr Wang.",
+       "fr": "M. Wang.",
+       "numbered": "wang2 lao3 shi1"
+      }
+     ],
+     "title": {
+      "zh": "谁教你们语法",
+      "pinyin": "Shéi jiāo nǐmen yǔfǎ",
+      "en": "Who teaches you grammar",
+      "fr": "Qui vous enseigne la grammaire ?"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w265",
+    "hj1b-w027",
+    "hj1b-w125",
+    "hj1b-w271",
+    "hj1b-w273",
+    "hj1b-w248",
+    "hj1b-w139",
+    "hj1b-w120",
+    "hj1b-w133",
+    "hj1b-w181",
+    "hj1b-w186",
+    "hj1b-w231",
+    "hj1b-w079",
+    "hj1b-w291",
+    "hj1b-w096",
+    "hj1b-w158",
+    "hj1b-w234",
+    "hj1b-w238",
+    "hj1b-w141",
+    "hj1b-w284",
+    "hj1b-w122",
+    "hj1b-w203",
+    "hj1b-w262",
+    "hj1b-w219",
+    "hj1b-w201",
+    "hj1b-w099"
+   ]
+  },
+  {
+   "lesson": 18,
+   "zh": "我去超市买东西",
+   "pinyin": "Wǒ qù chāoshì mǎi dōngxi",
+   "en": "I'm going to the supermarket to do some shopping",
+   "fr": "Je vais faire des courses au supermarché",
+   "pdfPage": 46,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "scene",
+       "zh": "田芳在楼门口遇见张东",
+       "en": "Tian Fang meets Zhang Dong at the entrance of the building",
+       "fr": "Tian Fang croise Zhang Dong à l'entrée du bâtiment"
+      },
+      {
+       "type": "line",
+       "speaker": "田芳",
+       "speakerPinyin": "Tián Fāng",
+       "zh": "张东，你要去哪儿？",
+       "pinyin": "Zhāng Dōng, nǐ yào qù nǎr?",
+       "en": "Zhang Dong, where are you going?",
+       "fr": "Zhang Dong, où vas-tu ?",
+       "numbered": "zhang1 dong1 ni3 yao4 qu4 nar3"
+      },
+      {
+       "type": "line",
+       "speaker": "张东",
+       "speakerPinyin": "Zhāng Dōng",
+       "zh": "我去修车，顺便去超市买点儿东西。你去吗？",
+       "pinyin": "Wǒ qù xiū chē, shùnbiàn qù chāoshì mǎi diǎnr dōngxi. Nǐ qù ma?",
+       "en": "I'm going to get my bike fixed, and pick up a few things at the supermarket on the way. Are you coming?",
+       "fr": "Je vais faire réparer mon vélo, et en passant acheter quelques trucs au supermarché. Tu viens ?",
+       "numbered": "wo3 qu4 xiu1 che1 shun4 bian4 qu4 chao1 shi4 mai3 dianr3 dong1 xi5 ni3 qu4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "田芳",
+       "speakerPinyin": "Tián Fāng",
+       "zh": "不去，一会儿玛丽来找我。你顺便替我买一盒曲别针和一本《读者》吧。",
+       "pinyin": "Bú qù, yíhuìr Mǎlì lái zhǎo wǒ. Nǐ shùnbiàn tì wǒ mǎi yì hé qūbiézhēn hé yì běn 《Dúzhě》 ba.",
+       "en": "No, Mary is coming to see me in a moment. Could you buy me a box of paper clips and a copy of Readers while you're there?",
+       "fr": "Non, Marie vient me voir tout à l'heure. Tu peux m'acheter une boîte de trombones et un numéro de « Lecteurs » en passant ?",
+       "numbered": "bu2 qu4 yi2 huir4 ma3 li4 lai2 zhao3 wo3 ni3 shun4 bian4 ti4 wo3 mai3 yi4 he2 qu1 bie2 zhen1 he2 yi4 ben3 du2 zhe3 ba5"
+      },
+      {
+       "type": "line",
+       "speaker": "张东",
+       "speakerPinyin": "Zhāng Dōng",
+       "zh": "好的。",
+       "pinyin": "Hǎo de.",
+       "en": "Sure.",
+       "fr": "D'accord.",
+       "numbered": "hao3 de5"
+      },
+      {
+       "type": "line",
+       "speaker": "田芳",
+       "speakerPinyin": "Tián Fāng",
+       "zh": "我给你拿钱。",
+       "pinyin": "Wǒ gěi nǐ ná qián.",
+       "en": "Let me get you the money.",
+       "fr": "Je te donne l'argent.",
+       "numbered": "wo3 gei3 ni3 na2 qian2"
+      },
+      {
+       "type": "line",
+       "speaker": "张东",
+       "speakerPinyin": "Zhāng Dōng",
+       "zh": "不用，先用我的钱买吧。",
+       "pinyin": "Búyòng, xiān yòng wǒ de qián mǎi ba.",
+       "en": "No need, I'll use my money for now.",
+       "fr": "Pas besoin, je paie avec mon argent pour l'instant.",
+       "numbered": "bu2 yong4 xian1 yong4 wo3 de5 qian2 mai3 ba5"
+      }
+     ],
+     "title": {
+      "zh": "我去超市买东西",
+      "pinyin": "Wǒ qù chāoshì mǎi dōngxi",
+      "en": "I'm going to the supermarket to do some shopping",
+      "fr": "Je vais faire des courses au supermarché"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "scene",
+       "zh": "珍妮来宿舍找玛丽",
+       "en": "Jenny comes to Mary's dorm",
+       "fr": "Jenny vient voir Marie dans sa chambre"
+      },
+      {
+       "type": "line",
+       "speaker": "珍妮",
+       "speakerPinyin": "Zhēnnī",
+       "zh": "玛丽，我明天去上海。",
+       "pinyin": "Mǎlì, wǒ míngtiān qù Shànghǎi.",
+       "en": "Mary, I'm going to Shanghai tomorrow.",
+       "fr": "Marie, je vais à Shanghai demain.",
+       "numbered": "ma3 li4 wo3 ming2 tian1 qu4 shang4 hai3"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "你去上海旅行吗？",
+       "pinyin": "Nǐ qù Shànghǎi lǚxíng ma?",
+       "en": "Are you going to Shanghai on a trip?",
+       "fr": "Tu vas à Shanghai en voyage ?",
+       "numbered": "ni3 qu4 shang4 hai3 lv3 xing2 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "珍妮",
+       "speakerPinyin": "Zhēnnī",
+       "zh": "不，明天一个外贸代表团去上海参观，我去给他们当翻译。",
+       "pinyin": "Bù, míngtiān yí ge wàimào dàibiǎotuán qù Shànghǎi cānguān, wǒ qù gěi tāmen dāng fānyì.",
+       "en": "No, tomorrow a foreign trade delegation is visiting Shanghai, and I'm going as their interpreter.",
+       "fr": "Non, demain une délégation commerciale visite Shanghai, et je vais leur servir d'interprète.",
+       "numbered": "bu4 ming2 tian1 yi2 ge5 wai4 mao4 dai4 biao3 tuan2 qu4 shang4 hai3 can1 guan1 wo3 qu4 gei3 ta1 men5 dang1 fan1 yi4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "你坐飞机去还是坐火车去？",
+       "pinyin": "Nǐ zuò fēijī qù háishi zuò huǒchē qù?",
+       "en": "Are you going by plane or by train?",
+       "fr": "Tu y vas en avion ou en train ?",
+       "numbered": "ni3 zuo4 fei1 ji1 qu4 hai2 shi5 zuo4 huo3 che1 qu4"
+      },
+      {
+       "type": "line",
+       "speaker": "珍妮",
+       "speakerPinyin": "Zhēnnī",
+       "zh": "坐飞机去。",
+       "pinyin": "Zuò fēijī qù.",
+       "en": "By plane.",
+       "fr": "En avion.",
+       "numbered": "zuo4 fei1 ji1 qu4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "什么时候回来？",
+       "pinyin": "Shénme shíhou huílai?",
+       "en": "When are you coming back?",
+       "fr": "Tu reviens quand ?",
+       "numbered": "shen2 me5 shi2 hou5 hui2 lai5"
+      },
+      {
+       "type": "line",
+       "speaker": "珍妮",
+       "speakerPinyin": "Zhēnnī",
+       "zh": "八号回来。帮我一个忙，行吗？",
+       "pinyin": "Bā hào huílai. Bāng wǒ yí ge máng, xíng ma?",
+       "en": "On the 8th. Could you do me a favor?",
+       "fr": "Le 8. Tu peux me rendre un service ?",
+       "numbered": "ba1 hao4 hui2 lai5 bang1 wo3 yi2 ge5 mang2 xing2 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "什么事儿？你说吧。",
+       "pinyin": "Shénme shìr? Nǐ shuō ba.",
+       "en": "What is it? Go ahead.",
+       "fr": "Quoi donc ? Dis-moi.",
+       "numbered": "shen2 me5 shir4 ni3 shuo1 ba5"
+      },
+      {
+       "type": "line",
+       "speaker": "珍妮",
+       "speakerPinyin": "Zhēnnī",
+       "zh": "帮我浇一下儿花。",
+       "pinyin": "Bāng wǒ jiāo yíxiàr huā.",
+       "en": "Water my flowers for me.",
+       "fr": "Arrose mes fleurs pour moi.",
+       "numbered": "bang1 wo3 jiao1 yi2 xiar4 hua1"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "行，没问题。",
+       "pinyin": "Xíng, méi wèntí.",
+       "en": "Sure, no problem.",
+       "fr": "D'accord, pas de problème.",
+       "numbered": "xing2 mei2 wen4 ti2"
+      }
+     ],
+     "title": {
+      "zh": "外贸代表团明天去上海参观",
+      "pinyin": "Wàimào dàibiǎotuán míngtiān qù Shànghǎi cānguān",
+      "en": "A foreign trade delegation is visiting Shanghai tomorrow",
+      "fr": "Une délégation commerciale visite Shanghai demain"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w237",
+    "hj1b-w192",
+    "hj1b-w202",
+    "hj1b-w084",
+    "hj1b-w166",
+    "hj1b-n001",
+    "hj1b-w145",
+    "hj1b-w016",
+    "hj1b-w249",
+    "hj1b-n005",
+    "hj1b-w135",
+    "hj1b-w037",
+    "hj1b-w207",
+    "hj1b-w017",
+    "hj1b-w039",
+    "hj1b-w061",
+    "hj1b-w062",
+    "hj1b-w063",
+    "hj1b-w093",
+    "hj1b-w091",
+    "hj1b-w005",
+    "hj1b-w098",
+    "hj1b-w088",
+    "hj1b-w138",
+    "hj1b-w220",
+    "hj1b-w006",
+    "hj1b-n007"
+   ]
+  },
+  {
+   "lesson": 19,
+   "zh": "可以试试吗",
+   "pinyin": "Kěyǐ shìshi ma",
+   "en": "May I try it on",
+   "fr": "Je peux l'essayer ?",
+   "pdfPage": 59,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "scene",
+       "zh": "玛丽在商店买羽绒服",
+       "en": "Mary is shopping for a down jacket in a store",
+       "fr": "Marie achète une doudoune dans un magasin"
+      },
+      {
+       "type": "line",
+       "speaker": "售货员",
+       "speakerPinyin": "Shòuhuòyuán",
+       "zh": "欢迎光临！你想买什么？",
+       "pinyin": "Huānyíng guānglín! Nǐ xiǎng mǎi shénme?",
+       "en": "Welcome! What would you like to buy?",
+       "fr": "Bienvenue ! Que voulez-vous acheter ?",
+       "numbered": "huan1 ying2 guang1 lin2 ni3 xiang3 mai3 shen2 me5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "我看看羽绒服。",
+       "pinyin": "Wǒ kànkan yǔróngfú.",
+       "en": "I'm looking at down jackets.",
+       "fr": "Je regarde les doudounes.",
+       "numbered": "wo3 kan4 kan5 yu3 rong2 fu2"
+      },
+      {
+       "type": "line",
+       "speaker": "售货员",
+       "speakerPinyin": "Shòuhuòyuán",
+       "zh": "你看这件怎么样？又好看又便宜。",
+       "pinyin": "Nǐ kàn zhè jiàn zěnmeyàng? Yòu hǎokàn yòu piányi.",
+       "en": "What do you think of this one? It's pretty and cheap.",
+       "fr": "Que pensez-vous de celle-ci ? Elle est jolie et pas chère.",
+       "numbered": "ni3 kan4 zhe4 jian4 zen3 me5 yang4 you4 hao3 kan4 you4 pian2 yi5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "这件有一点儿长。有短一点儿的吗？",
+       "pinyin": "Zhè jiàn yǒu yìdiǎnr cháng. Yǒu duǎn yìdiǎnr de ma?",
+       "en": "This one is a bit long. Do you have a shorter one?",
+       "fr": "Celle-ci est un peu longue. Vous en avez une plus courte ?",
+       "numbered": "zhe4 jian4 you3 yi4 dianr3 chang2 you3 duan3 yi4 dianr3 de5 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "售货员",
+       "speakerPinyin": "Shòuhuòyuán",
+       "zh": "你要深颜色的还是要浅颜色的？",
+       "pinyin": "Nǐ yào shēn yánsè de háishi yào qiǎn yánsè de?",
+       "en": "Do you want a dark color or a light color?",
+       "fr": "Vous voulez une couleur foncée ou claire ?",
+       "numbered": "ni3 yao4 shen1 yan2 se4 de5 hai2 shi5 yao4 qian3 yan2 se4 de5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "浅颜色的。",
+       "pinyin": "Qiǎn yánsè de.",
+       "en": "A light color.",
+       "fr": "Une couleur claire.",
+       "numbered": "qian3 yan2 se4 de5"
+      },
+      {
+       "type": "scene",
+       "zh": "玛丽挑选了一件羽绒服",
+       "en": "Mary picks a down jacket",
+       "fr": "Marie choisit une doudoune"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "我试试可以吗？",
+       "pinyin": "Wǒ shìshi kěyǐ ma?",
+       "en": "May I try it on?",
+       "fr": "Je peux l'essayer ?",
+       "numbered": "wo3 shi4 shi5 ke3 yi3 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "售货员",
+       "speakerPinyin": "Shòuhuòyuán",
+       "zh": "当然可以。",
+       "pinyin": "Dāngrán kěyǐ.",
+       "en": "Of course.",
+       "fr": "Bien sûr.",
+       "numbered": "dang1 ran2 ke3 yi3"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "这件太肥了，有没有瘦一点儿的？",
+       "pinyin": "Zhè jiàn tài féi le, yǒu méiyǒu shòu yìdiǎnr de?",
+       "en": "This one is too loose. Do you have a tighter one?",
+       "fr": "Celle-ci est trop ample. Vous en avez une plus ajustée ?",
+       "numbered": "zhe4 jian4 tai4 fei2 le5 you3 mei2 you3 shou4 yi4 dianr3 de5"
+      },
+      {
+       "type": "line",
+       "speaker": "售货员",
+       "speakerPinyin": "Shòuhuòyuán",
+       "zh": "你再试试这一件。",
+       "pinyin": "Nǐ zài shìshi zhè yí jiàn.",
+       "en": "Try this one, then.",
+       "fr": "Essayez celle-ci, alors.",
+       "numbered": "ni3 zai4 shi4 shi5 zhe4 yi2 jian4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "这件不肥不瘦，正合适，颜色也很好看。",
+       "pinyin": "Zhè jiàn bù féi bú shòu, zhèng héshì, yánsè yě hěn hǎokàn.",
+       "en": "This one is neither too loose nor too tight, it fits just right, and the color is pretty too.",
+       "fr": "Celle-ci n'est ni trop ample ni trop serrée, elle va parfaitement, et la couleur est jolie aussi.",
+       "numbered": "zhe4 jian4 bu4 fei2 bu2 shou4 zheng4 he2 shi4 yan2 se4 ye3 hen3 hao3 kan4"
+      }
+     ],
+     "title": {
+      "zh": "可以试试吗",
+      "pinyin": "Kěyǐ shìshi ma",
+      "en": "May I try it on",
+      "fr": "Je peux l'essayer ?"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "这种羽绒服怎么卖？",
+       "pinyin": "Zhè zhǒng yǔróngfú zěnme mài?",
+       "en": "How much is this kind of down jacket?",
+       "fr": "Combien coûte ce genre de doudoune ?",
+       "numbered": "zhe4 zhong3 yu3 rong2 fu2 zen3 me5 mai4"
+      },
+      {
+       "type": "line",
+       "speaker": "售货员",
+       "speakerPinyin": "Shòuhuòyuán",
+       "zh": "一件九百块。",
+       "pinyin": "Yí jiàn jiǔbǎi kuài.",
+       "en": "Nine hundred yuan each.",
+       "fr": "Neuf cents yuans pièce.",
+       "numbered": "yi2 jian4 jiu3 bai3 kuai4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "太贵了！便宜一点儿吧，六百怎么样？",
+       "pinyin": "Tài guì le! Piányi yìdiǎnr ba, liùbǎi zěnmeyàng?",
+       "en": "Too expensive! Make it a bit cheaper. How about six hundred?",
+       "fr": "Trop cher ! Un peu moins cher, s'il vous plaît. Six cents, ça va ?",
+       "numbered": "tai4 gui4 le5 pian2 yi5 yi4 dianr3 ba5 liu4 bai3 zen3 me5 yang4"
+      },
+      {
+       "type": "line",
+       "speaker": "售货员",
+       "speakerPinyin": "Shòuhuòyuán",
+       "zh": "六百太少了，不卖。可以打八折，你给七百二吧。",
+       "pinyin": "Liùbǎi tài shǎo le, bú mài. Kěyǐ dǎ bā zhé, nǐ gěi qībǎi'èr ba.",
+       "en": "Six hundred is too little, I won't sell at that. I can give you 20% off: seven hundred and twenty.",
+       "fr": "Six cents, c'est trop peu, je ne vends pas. Je peux faire 20 % de remise : donnez-moi sept cent vingt.",
+       "numbered": "liu4 bai3 tai4 shao3 le5 bu2 mai4 ke3 yi3 da3 ba1 zhe2 ni3 gei3 qi1 bai3 er4 ba5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "七百行不行？",
+       "pinyin": "Qībǎi xíng bu xíng?",
+       "en": "Is seven hundred OK?",
+       "fr": "Sept cents, ça va ?",
+       "numbered": "qi1 bai3 xing2 bu5 xing2"
+      },
+      {
+       "type": "line",
+       "speaker": "售货员",
+       "speakerPinyin": "Shòuhuòyuán",
+       "zh": "给你吧。",
+       "pinyin": "Gěi nǐ ba.",
+       "en": "All right, it's yours.",
+       "fr": "D'accord, elle est à vous.",
+       "numbered": "gei3 ni3 ba5"
+      }
+     ],
+     "title": {
+      "zh": "便宜一点儿吧",
+      "pinyin": "Piányi yìdiǎnr ba",
+      "en": "Make it a bit cheaper",
+      "fr": "Un peu moins cher, s'il vous plaît"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w076",
+    "hj1b-w257",
+    "hj1b-w080",
+    "hj1b-w243",
+    "hj1b-w022",
+    "hj1b-w054",
+    "hj1b-w176",
+    "hj1b-w163",
+    "hj1b-w182",
+    "hj1b-w117",
+    "hj1b-w040",
+    "hj1b-w065",
+    "hj1b-w185",
+    "hj1b-w082",
+    "hj1b-w275",
+    "hj1b-w035",
+    "hj1b-w155",
+    "hj1b-w253"
+   ]
+  },
+  {
+   "lesson": 20,
+   "zh": "祝你生日快乐",
+   "pinyin": "Zhù nǐ shēngrì kuàilè",
+   "en": "Happy birthday to you",
+   "fr": "Joyeux anniversaire",
+   "pdfPage": 75,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "你哪一年大学毕业？",
+       "pinyin": "Nǐ nǎ yì nián dàxué bì yè?",
+       "en": "What year do you graduate from university?",
+       "fr": "En quelle année finis-tu l'université ?",
+       "numbered": "ni3 na3 yi4 nian2 da4 xue2 bi4 ye4"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "明年。你呢？",
+       "pinyin": "Míngnián. Nǐ ne?",
+       "en": "Next year. And you?",
+       "fr": "L'année prochaine. Et toi ?",
+       "numbered": "ming2 nian2 ni3 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "我后年。你今年多大？",
+       "pinyin": "Wǒ hòunián. Nǐ jīnnián duō dà?",
+       "en": "The year after next. How old are you this year?",
+       "fr": "Dans deux ans. Quel âge as-tu cette année ?",
+       "numbered": "wo3 hou4 nian2 ni3 jin1 nian2 duo1 da4"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "我二十二岁。",
+       "pinyin": "Wǒ èrshí'èr suì.",
+       "en": "I'm twenty-two.",
+       "fr": "J'ai vingt-deux ans.",
+       "numbered": "wo3 er4 shi2 er4 sui4"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "你属狗？",
+       "pinyin": "Nǐ shǔ gǒu?",
+       "en": "Are you born in the year of the dog?",
+       "fr": "Tu es né l'année du chien ?",
+       "numbered": "ni3 shu3 gou3"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "对，我属狗。你属什么？",
+       "pinyin": "Duì, wǒ shǔ gǒu. Nǐ shǔ shénme?",
+       "en": "Yes, I'm a dog. What's your sign?",
+       "fr": "Oui, je suis chien. Et toi, quel est ton signe ?",
+       "numbered": "dui4 wo3 shu3 gou3 ni3 shu3 shen2 me5"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "我属猪。",
+       "pinyin": "Wǒ shǔ zhū.",
+       "en": "I'm a pig.",
+       "fr": "Je suis cochon.",
+       "numbered": "wo3 shu3 zhu1"
+      }
+     ],
+     "title": {
+      "zh": "你哪一年大学毕业",
+      "pinyin": "Nǐ nǎ yì nián dàxué bì yè",
+      "en": "What year do you graduate from university",
+      "fr": "En quelle année finis-tu l'université ?"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "你的生日是几月几号？",
+       "pinyin": "Nǐ de shēngrì shì jǐ yuè jǐ hào?",
+       "en": "When is your birthday?",
+       "fr": "Ton anniversaire, c'est quel jour ?",
+       "numbered": "ni3 de5 sheng1 ri4 shi4 ji3 yue4 ji3 hao4"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "我的生日是十月十八号，正好是星期六。",
+       "pinyin": "Wǒ de shēngrì shì Shíyuè shíbā hào, zhènghǎo shì Xīngqīliù.",
+       "en": "My birthday is October 18th, and it happens to be a Saturday.",
+       "fr": "Mon anniversaire, c'est le 18 octobre, et ça tombe justement un samedi.",
+       "numbered": "wo3 de5 sheng1 ri4 shi4 shi2 yue4 shi2 ba1 hao4 zheng4 hao3 shi4 xing1 qi1 liu4"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "是吗？你打算怎么过？",
+       "pinyin": "Shì ma? Nǐ dǎsuàn zěnme guò?",
+       "en": "Really? How are you going to celebrate it?",
+       "fr": "Ah bon ? Comment comptes-tu le fêter ?",
+       "numbered": "shi4 ma5 ni3 da3 suan4 zen3 me5 guo4"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "我准备举行一个生日晚会。你也来参加，好吗？",
+       "pinyin": "Wǒ zhǔnbèi jǔxíng yí ge shēngrì wǎnhuì. Nǐ yě lái cānjiā, hǎo ma?",
+       "en": "I'm going to have a birthday party. Will you come too?",
+       "fr": "Je vais organiser une fête d'anniversaire. Tu viens aussi ?",
+       "numbered": "wo3 zhun3 bei4 ju3 xing2 yi2 ge5 sheng1 ri4 wan3 hui4 ni3 ye3 lai2 can1 jia1 hao3 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "什么时间举行？",
+       "pinyin": "Shénme shíjiān jǔxíng?",
+       "en": "What time is it?",
+       "fr": "C'est à quelle heure ?",
+       "numbered": "shen2 me5 shi2 jian1 ju3 xing2"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "星期六晚上七点。",
+       "pinyin": "Xīngqīliù wǎnshang qī diǎn.",
+       "en": "Saturday at seven in the evening.",
+       "fr": "Samedi à sept heures du soir.",
+       "numbered": "xing1 qi1 liu4 wan3 shang5 qi1 dian3"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "在哪儿？",
+       "pinyin": "Zài nǎr?",
+       "en": "Where?",
+       "fr": "Où ça ?",
+       "numbered": "zai4 nar3"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "就在我的房间。",
+       "pinyin": "Jiù zài wǒ de fángjiān.",
+       "en": "Right in my room.",
+       "fr": "Dans ma chambre, tout simplement.",
+       "numbered": "jiu4 zai4 wo3 de5 fang2 jian1"
+      },
+      {
+       "type": "line",
+       "speaker": "A",
+       "speakerPinyin": "A",
+       "zh": "好。我一定去。祝你生日快乐！",
+       "pinyin": "Hǎo. Wǒ yídìng qù. Zhù nǐ shēngrì kuàilè!",
+       "en": "OK, I'll definitely come. Happy birthday!",
+       "fr": "D'accord, je viendrai sans faute. Joyeux anniversaire !",
+       "numbered": "hao3 wo3 yi2 ding4 qu4 zhu4 ni3 sheng1 ri4 kuai4 le4"
+      },
+      {
+       "type": "line",
+       "speaker": "B",
+       "speakerPinyin": "B",
+       "zh": "谢谢！",
+       "pinyin": "Xièxie!",
+       "en": "Thank you!",
+       "fr": "Merci !",
+       "numbered": "xie4 xie5"
+      }
+     ],
+     "title": {
+      "zh": "祝你生日快乐",
+      "pinyin": "Zhù nǐ shēngrì kuàilè",
+      "en": "Happy birthday to you",
+      "fr": "Joyeux anniversaire"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w150",
+    "hj1b-w009",
+    "hj1b-w144",
+    "hj1b-w087",
+    "hj1b-w105",
+    "hj1b-w057",
+    "hj1b-w058",
+    "hj1b-w194",
+    "hj1b-w189",
+    "hj1b-w074",
+    "hj1b-w276",
+    "hj1b-w178",
+    "hj1b-w261",
+    "hj1b-w081",
+    "hj1b-w272",
+    "hj1b-w033",
+    "hj1b-w078",
+    "hj1b-w280",
+    "hj1b-w111",
+    "hj1b-w212",
+    "hj1b-w018",
+    "hj1b-w180",
+    "hj1b-w045",
+    "hj1b-w109",
+    "hj1b-w240",
+    "hj1b-w277",
+    "hj1b-w278",
+    "hj1b-w124",
+    "hj1b-w167"
+   ]
+  },
+  {
+   "lesson": 21,
+   "zh": "我们明天七点一刻出发",
+   "pinyin": "Wǒmen míngtiān qī diǎn yí kè chūfā",
+   "en": "Tomorrow we'll depart at a quarter past seven",
+   "fr": "Demain, on part à sept heures et quart",
+   "pdfPage": 89,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "我每天早上六点半起床，七点吃早饭。",
+       "pinyin": "Wǒ měi tiān zǎoshang liù diǎn bàn qǐ chuáng, qī diǎn chī zǎofàn.",
+       "en": "Every day I get up at half past six and have breakfast at seven.",
+       "fr": "Tous les jours, je me lève à six heures et demie et je prends le petit-déjeuner à sept heures.",
+       "numbered": "wo3 mei3 tian1 zao3 shang5 liu4 dian3 ban4 qi3 chuang2 qi1 dian3 chi1 zao3 fan4"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "差十分八点去教室，八点上课。",
+       "pinyin": "Chà shí fēn bā diǎn qù jiàoshì, bā diǎn shàng kè.",
+       "en": "At ten to eight I go to the classroom, and class starts at eight.",
+       "fr": "À huit heures moins dix, je vais en classe, et les cours commencent à huit heures.",
+       "numbered": "cha4 shi2 fen1 ba1 dian3 qu4 jiao4 shi4 ba1 dian3 shang4 ke4"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "上午我们有四节课，十二点下课。",
+       "pinyin": "Shàngwǔ wǒmen yǒu sì jié kè, shí'èr diǎn xià kè.",
+       "en": "We have four classes in the morning, and they finish at twelve.",
+       "fr": "Le matin, nous avons quatre cours, qui finissent à midi.",
+       "numbered": "shang4 wu3 wo3 men5 you3 si4 jie2 ke4 shi2 er4 dian3 xia4 ke4"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "中午我去食堂吃午饭。",
+       "pinyin": "Zhōngwǔ wǒ qù shítáng chī wǔfàn.",
+       "en": "At noon I go to the canteen for lunch.",
+       "fr": "À midi, je vais déjeuner à la cantine.",
+       "numbered": "zhong1 wu3 wo3 qu4 shi2 tang2 chi1 wu3 fan4"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "午饭以后，我常常去朋友那儿聊天儿。",
+       "pinyin": "Wǔfàn yǐhòu, wǒ chángcháng qù péngyou nàr liáo tiānr.",
+       "en": "After lunch I often go to a friend's place to chat.",
+       "fr": "Après le déjeuner, je vais souvent bavarder chez un ami.",
+       "numbered": "wu3 fan4 yi3 hou4 wo3 chang2 chang2 qu4 peng2 you5 nar4 liao2 tianr1"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "下午没有课的时候，我常去图书馆看书，或者跟中国朋友一起练习口语。",
+       "pinyin": "Xiàwǔ méiyǒu kè de shíhou, wǒ cháng qù túshūguǎn kàn shū, huòzhě gēn Zhōngguó péngyou yìqǐ liànxí kǒuyǔ.",
+       "en": "When I have no class in the afternoon, I often go to read in the library, or practice speaking with Chinese friends.",
+       "fr": "Quand je n'ai pas cours l'après-midi, je vais souvent lire à la bibliothèque, ou je pratique l'oral avec des amis chinois.",
+       "numbered": "xia4 wu3 mei2 you3 ke4 de5 shi2 hou5 wo3 chang2 qu4 tu2 shu1 guan3 kan4 shu1 huo4 zhe3 gen1 zhong1 guo2 peng2 you5 yi4 qi3 lian4 xi2 kou3 yu3"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "有时候在宿舍上网，看电影或电视剧。",
+       "pinyin": "Yǒu shíhou zài sùshè shàng wǎng, kàn diànyǐng huò diànshìjù.",
+       "en": "Sometimes I go online in my dorm and watch films or TV series.",
+       "fr": "Parfois je vais sur Internet dans ma chambre et je regarde des films ou des séries.",
+       "numbered": "you3 shi2 hou5 zai4 su4 she4 shang4 wang3 kan4 dian4 ying3 huo4 dian4 shi4 ju4"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "四点我去操场锻炼身体。",
+       "pinyin": "Sì diǎn wǒ qù cāochǎng duànliàn shēntǐ.",
+       "en": "At four I go to the sports ground to work out.",
+       "fr": "À quatre heures, je vais faire du sport sur le terrain.",
+       "numbered": "si4 dian3 wo3 qu4 cao1 chang3 duan4 lian4 shen1 ti3"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "五点回宿舍洗澡，洗衣服，六点半或者七点吃晚饭。",
+       "pinyin": "Wǔ diǎn huí sùshè xǐ zǎo, xǐ yīfu, liù diǎn bàn huòzhě qī diǎn chī wǎnfàn.",
+       "en": "At five I go back to the dorm, take a shower and wash my clothes, and I have dinner at half past six or seven.",
+       "fr": "À cinq heures, je rentre dans ma chambre, je prends une douche et je lave mes vêtements, et je dîne à six heures et demie ou sept heures.",
+       "numbered": "wu3 dian3 hui2 su4 she4 xi3 zao3 xi3 yi1 fu5 liu4 dian3 ban4 huo4 zhe3 qi1 dian3 chi1 wan3 fan4"
+      },
+      {
+       "type": "line",
+       "speaker": "旁白",
+       "speakerPinyin": "Pángbái",
+       "zh": "晚上我做练习，写汉字，预习课文和生词，然后上上网，听听音乐，十一点睡觉。",
+       "pinyin": "Wǎnshang wǒ zuò liànxí, xiě Hànzì, yùxí kèwén hé shēngcí, ránhòu shàngshang wǎng, tīngting yīnyuè, shíyī diǎn shuì jiào.",
+       "en": "In the evening I do exercises, write characters and prepare the text and new words, then go online for a bit, listen to some music, and go to bed at eleven.",
+       "fr": "Le soir, je fais des exercices, j'écris des caractères, je prépare le texte et les nouveaux mots, puis je vais un peu sur Internet, j'écoute un peu de musique, et je me couche à onze heures.",
+       "numbered": "wan3 shang5 wo3 zuo4 lian4 xi2 xie3 han4 zi4 yu4 xi2 ke4 wen2 he2 sheng1 ci2 ran2 hou4 shang4 shang5 wang3 ting1 ting5 yin1 yue4 shi2 yi1 dian3 shui4 jiao4"
+      }
+     ],
+     "title": {
+      "zh": "我的一天",
+      "pinyin": "Wǒ de yì tiān",
+      "en": "My day",
+      "fr": "Ma journée"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "同学们，明天我们去爬山。",
+       "pinyin": "Tóngxuémen, míngtiān wǒmen qù pá shān.",
+       "en": "Everyone, tomorrow we're going hiking in the mountains.",
+       "fr": "Chers élèves, demain nous allons faire de la montagne.",
+       "numbered": "tong2 xue2 men5 ming2 tian1 wo3 men5 qu4 pa2 shan1"
+      },
+      {
+       "type": "line",
+       "speaker": "山本",
+       "speakerPinyin": "Shānběn",
+       "zh": "太好了！老师，您去吗？",
+       "pinyin": "Tài hǎo le! Lǎoshī, nín qù ma?",
+       "en": "Great! Are you coming, teacher?",
+       "fr": "Génial ! Vous venez, professeur ?",
+       "numbered": "tai4 hao3 le5 lao3 shi1 nin2 qu4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "去。一年级的老师和学生都去。",
+       "pinyin": "Qù. Yī niánjí de lǎoshī hé xuésheng dōu qù.",
+       "en": "Yes. All the first-year teachers and students are going.",
+       "fr": "Oui. Tous les professeurs et les élèves de première année y vont.",
+       "numbered": "qu4 yi1 nian2 ji2 de5 lao3 shi1 he2 xue2 sheng5 dou1 qu4"
+      },
+      {
+       "type": "line",
+       "speaker": "山本",
+       "speakerPinyin": "Shānběn",
+       "zh": "明天什么时候出发？",
+       "pinyin": "Míngtiān shénme shíhou chūfā?",
+       "en": "When do we leave tomorrow?",
+       "fr": "On part à quelle heure demain ?",
+       "numbered": "ming2 tian1 shen2 me5 shi2 hou5 chu1 fa1"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "明天早上七点在楼前集合上车，七点一刻准时出发。",
+       "pinyin": "Míngtiān zǎoshang qī diǎn zài lóu qián jíhé shàng chē, qī diǎn yí kè zhǔnshí chūfā.",
+       "en": "Tomorrow at seven in the morning we meet in front of the building and get on the bus, and we leave at a quarter past seven sharp.",
+       "fr": "Demain à sept heures du matin, rendez-vous devant le bâtiment pour monter dans le car, et départ à sept heures et quart précises.",
+       "numbered": "ming2 tian1 zao3 shang5 qi1 dian3 zai4 lou2 qian2 ji2 he2 shang4 che1 qi1 dian3 yi2 ke4 zhun3 shi2 chu1 fa1"
+      },
+      {
+       "type": "line",
+       "speaker": "山本",
+       "speakerPinyin": "Shānběn",
+       "zh": "中午回来吗？",
+       "pinyin": "Zhōngwǔ huílai ma?",
+       "en": "Do we come back at noon?",
+       "fr": "On rentre à midi ?",
+       "numbered": "zhong1 wu3 hui2 lai5 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "不回来，要带午饭。",
+       "pinyin": "Bù huílai, yào dài wǔfàn.",
+       "en": "No, bring your lunch.",
+       "fr": "Non, il faut apporter son déjeuner.",
+       "numbered": "bu4 hui2 lai5 yao4 dai4 wu3 fan4"
+      },
+      {
+       "type": "line",
+       "speaker": "山本",
+       "speakerPinyin": "Shānběn",
+       "zh": "什么时候回来？",
+       "pinyin": "Shénme shíhou huílai?",
+       "en": "When do we come back?",
+       "fr": "On rentre quand ?",
+       "numbered": "shen2 me5 shi2 hou5 hui2 lai5"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "下午四点。",
+       "pinyin": "Xiàwǔ sì diǎn.",
+       "en": "At four in the afternoon.",
+       "fr": "À quatre heures de l'après-midi.",
+       "numbered": "xia4 wu3 si4 dian3"
+      }
+     ],
+     "title": {
+      "zh": "明天早上七点一刻出发",
+      "pinyin": "Míngtiān zǎoshang qī diǎn yí kè chūfā",
+      "en": "We leave tomorrow at a quarter past seven",
+      "fr": "On part demain à sept heures et quart"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w140",
+    "hj1b-w269",
+    "hj1b-w004",
+    "hj1b-w159",
+    "hj1b-w160",
+    "hj1b-w028",
+    "hj1b-w268",
+    "hj1b-w021",
+    "hj1b-w066",
+    "hj1b-w101",
+    "hj1b-w174",
+    "hj1b-w142",
+    "hj1b-w102",
+    "hj1b-w229",
+    "hj1b-w221",
+    "hj1b-w241",
+    "hj1b-w019",
+    "hj1b-w055",
+    "hj1b-w223",
+    "hj1b-w224",
+    "hj1b-w211",
+    "hj1b-w168",
+    "hj1b-w191",
+    "hj1b-w153",
+    "hj1b-w171",
+    "hj1b-w151",
+    "hj1b-w026",
+    "hj1b-w161",
+    "hj1b-w095",
+    "hj1b-w173",
+    "hj1b-w119",
+    "hj1b-w281",
+    "hj1b-w038",
+    "hj1b-w228",
+    "hj1b-n004"
+   ]
+  },
+  {
+   "lesson": 22,
+   "zh": "我打算请老师教我京剧",
+   "pinyin": "Wǒ dǎsuàn qǐng lǎoshī jiāo wǒ jīngjù",
+   "en": "I'm planning to find a teacher to teach me Peking opera",
+   "fr": "Je compte demander à un professeur de m'apprendre l'opéra de Pékin",
+   "pdfPage": 103,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "scene",
+       "zh": "上课的时候，老师叫同学们谈谈自己的爱好……",
+       "en": "The teacher asks the students to talk about their hobbies in class",
+       "fr": "En classe, le professeur demande aux élèves de parler de leurs passe-temps…"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "今天想请大家谈谈自己的爱好。谁先说呢？",
+       "pinyin": "Jīntiān xiǎng qǐng dàjiā tántan zìjǐ de àihào. Shéi xiān shuō ne?",
+       "en": "Today I'd like everyone to talk about their hobbies. Who wants to go first?",
+       "fr": "Aujourd'hui, j'aimerais que chacun parle de ses passe-temps. Qui commence ?",
+       "numbered": "jin1 tian1 xiang3 qing3 da4 jia1 tan2 tan5 zi4 ji3 de5 ai4 hao4 shei2 xian1 shuo1 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "老师，让我先说吧。",
+       "pinyin": "Lǎoshī, ràng wǒ xiān shuō ba.",
+       "en": "Let me go first, teacher.",
+       "fr": "Professeur, laissez-moi commencer.",
+       "numbered": "lao3 shi1 rang4 wo3 xian1 shuo1 ba5"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "好，你说吧。你有什么爱好？",
+       "pinyin": "Hǎo, nǐ shuō ba. Nǐ yǒu shénme àihào?",
+       "en": "OK, go ahead. What are your hobbies?",
+       "fr": "D'accord, vas-y. Quels sont tes passe-temps ?",
+       "numbered": "hao3 ni3 shuo1 ba5 ni3 you3 shen2 me5 ai4 hao4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "我的爱好是看京剧。",
+       "pinyin": "Wǒ de àihào shì kàn jīngjù.",
+       "en": "My hobby is watching Peking opera.",
+       "fr": "Mon passe-temps, c'est regarder l'opéra de Pékin.",
+       "numbered": "wo3 de5 ai4 hao4 shi4 kan4 jing1 ju4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "你喜欢看京剧？",
+       "pinyin": "Nǐ xǐhuan kàn jīngjù?",
+       "en": "You like watching Peking opera?",
+       "fr": "Tu aimes regarder l'opéra de Pékin ?",
+       "numbered": "ni3 xi3 huan5 kan4 jing1 ju4"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "是啊，非常喜欢。我还想学唱京剧，打算请一个老师教我。",
+       "pinyin": "Shì a, fēicháng xǐhuan. Wǒ hái xiǎng xué chàng jīngjù, dǎsuàn qǐng yí ge lǎoshī jiāo wǒ.",
+       "en": "Yes, I love it. I also want to learn to sing Peking opera, and I'm planning to find a teacher to teach me.",
+       "fr": "Oui, j'adore. Je veux aussi apprendre à chanter l'opéra de Pékin, et je compte trouver un professeur pour m'apprendre.",
+       "numbered": "shi4 a5 fei1 chang2 xi3 huan5 wo3 hai2 xiang3 xue2 chang4 jing1 ju4 da3 suan4 qing3 yi2 ge5 lao3 shi1 jiao1 wo3"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "麦克，你喜欢做什么？",
+       "pinyin": "Màikè, nǐ xǐhuan zuò shénme?",
+       "en": "Mike, what do you like doing?",
+       "fr": "Mike, qu'est-ce que tu aimes faire ?",
+       "numbered": "mai4 ke4 ni3 xi3 huan5 zuo4 shen2 me5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "我喜欢玩儿电脑游戏。",
+       "pinyin": "Wǒ xǐhuan wánr diànnǎo yóuxì.",
+       "en": "I like playing computer games.",
+       "fr": "J'aime jouer aux jeux vidéo.",
+       "numbered": "wo3 xi3 huan5 wanr2 dian4 nao3 you2 xi4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "罗兰呢？",
+       "pinyin": "Luólán ne?",
+       "en": "And Roland?",
+       "fr": "Et Roland ?",
+       "numbered": "luo2 lan2 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "我喜欢听音乐。下课以后，听听音乐或者跟朋友聊聊天儿，感到心情很愉快。",
+       "pinyin": "Wǒ xǐhuan tīng yīnyuè. Xià kè yǐhòu, tīngting yīnyuè huòzhě gēn péngyou liáoliao tiānr, gǎndào xīnqíng hěn yúkuài.",
+       "en": "I like listening to music. After class, listening to some music or chatting with friends puts me in a good mood.",
+       "fr": "J'aime écouter de la musique. Après les cours, écouter un peu de musique ou bavarder avec des amis me met de bonne humeur.",
+       "numbered": "wo3 xi3 huan5 ting1 yin1 yue4 xia4 ke4 yi3 hou4 ting1 ting5 yin1 yue4 huo4 zhe3 gen1 peng2 you5 liao2 liao5 tianr1 gan3 dao4 xin1 qing2 hen3 yu2 kuai4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "田中业余时间常常做什么？",
+       "pinyin": "Tiánzhōng yèyú shíjiān chángcháng zuò shénme?",
+       "en": "Tanaka, what do you usually do in your free time?",
+       "fr": "Tanaka, que fais-tu souvent pendant ton temps libre ?",
+       "numbered": "tian2 zhong1 ye4 yu2 shi2 jian1 chang2 chang2 zuo4 shen2 me5"
+      },
+      {
+       "type": "line",
+       "speaker": "田中",
+       "speakerPinyin": "Tiánzhōng",
+       "zh": "我来中国以前就对书法特别感兴趣。今年公司派我来中国，我非常高兴。现在我正跟一个老师学书法，还学画中国画儿。",
+       "pinyin": "Wǒ lái Zhōngguó yǐqián jiù duì shūfǎ tèbié gǎn xìngqù. Jīnnián gōngsī pài wǒ lái Zhōngguó, wǒ fēicháng gāoxìng. Xiànzài wǒ zhèng gēn yí ge lǎoshī xué shūfǎ, hái xué huà Zhōngguó huàr.",
+       "en": "Even before coming to China I was very interested in calligraphy. This year my company sent me to China, and I'm very happy. Right now I'm learning calligraphy with a teacher, and I'm also learning Chinese painting.",
+       "fr": "Avant même de venir en Chine, je m'intéressais beaucoup à la calligraphie. Cette année, mon entreprise m'a envoyé en Chine, et j'en suis très content. En ce moment, j'apprends la calligraphie avec un professeur, et aussi la peinture chinoise.",
+       "numbered": "wo3 lai2 zhong1 guo2 yi3 qian2 jiu4 dui4 shu1 fa3 te4 bie2 gan3 xing4 qu4 jin1 nian2 gong1 si1 pai4 wo3 lai2 zhong1 guo2 wo3 fei1 chang2 gao1 xing4 xian4 zai4 wo3 zheng4 gen1 yi2 ge5 lao3 shi1 xue2 shu1 fa3 hai2 xue2 hua4 zhong1 guo2 huar4"
+      }
+     ]
+    }
+   ],
+   "newWords": [
+    "hj1b-w036",
+    "hj1b-w197",
+    "hj1b-w283",
+    "hj1b-w001",
+    "hj1b-w169",
+    "hj1b-w108",
+    "hj1b-w225",
+    "hj1b-w064",
+    "hj1b-w024",
+    "hj1b-w209",
+    "hj1b-w046",
+    "hj1b-w251",
+    "hj1b-w068",
+    "hj1b-w233",
+    "hj1b-w256",
+    "hj1b-n006",
+    "hj1b-w239",
+    "hj1b-w242",
+    "hj1b-w110",
+    "hj1b-w056",
+    "hj1b-w187",
+    "hj1b-w198",
+    "hj1b-w070",
+    "hj1b-w235",
+    "hj1b-w154",
+    "hj1b-w089",
+    "hj1b-w090",
+    "hj1b-w100"
+   ]
+  },
+  {
+   "lesson": 23,
+   "zh": "学校里边有银行吗",
+   "pinyin": "Xuéxiào lǐbian yǒu yínháng ma",
+   "en": "Is there a bank on campus",
+   "fr": "Il y a une banque sur le campus ?",
+   "pdfPage": 117,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "山本",
+       "speakerPinyin": "Shānběn",
+       "zh": "学校里边有银行吗？",
+       "pinyin": "Xuéxiào lǐbian yǒu yínháng ma?",
+       "en": "Is there a bank on campus?",
+       "fr": "Il y a une banque sur le campus ?",
+       "numbered": "xue2 xiao4 li3 bian5 you3 yin2 hang2 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "张东",
+       "speakerPinyin": "Zhāng Dōng",
+       "zh": "有。",
+       "pinyin": "Yǒu.",
+       "en": "Yes, there is.",
+       "fr": "Oui.",
+       "numbered": "you3"
+      },
+      {
+       "type": "line",
+       "speaker": "山本",
+       "speakerPinyin": "Shānběn",
+       "zh": "银行在哪儿？",
+       "pinyin": "Yínháng zài nǎr?",
+       "en": "Where is the bank?",
+       "fr": "Où est la banque ?",
+       "numbered": "yin2 hang2 zai4 nar3"
+      },
+      {
+       "type": "line",
+       "speaker": "张东",
+       "speakerPinyin": "Zhāng Dōng",
+       "zh": "在图书馆东边。",
+       "pinyin": "Zài túshūguǎn dōngbian.",
+       "en": "East of the library.",
+       "fr": "À l'est de la bibliothèque.",
+       "numbered": "zai4 tu2 shu1 guan3 dong1 bian5"
+      },
+      {
+       "type": "line",
+       "speaker": "山本",
+       "speakerPinyin": "Shānběn",
+       "zh": "离这儿远吗？",
+       "pinyin": "Lí zhèr yuǎn ma?",
+       "en": "Is it far from here?",
+       "fr": "C'est loin d'ici ?",
+       "numbered": "li2 zher4 yuan3 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "张东",
+       "speakerPinyin": "Zhāng Dōng",
+       "zh": "不远。很近。",
+       "pinyin": "Bù yuǎn. Hěn jìn.",
+       "en": "Not far. It's very close.",
+       "fr": "Pas loin. C'est tout près.",
+       "numbered": "bu4 yuan3 hen3 jin4"
+      },
+      {
+       "type": "line",
+       "speaker": "山本",
+       "speakerPinyin": "Shānběn",
+       "zh": "图书馆西边是什么地方？",
+       "pinyin": "Túshūguǎn xībian shì shénme dìfang?",
+       "en": "What's west of the library?",
+       "fr": "Qu'est-ce qu'il y a à l'ouest de la bibliothèque ?",
+       "numbered": "tu2 shu1 guan3 xi1 bian5 shi4 shen2 me5 di4 fang5"
+      },
+      {
+       "type": "line",
+       "speaker": "张东",
+       "speakerPinyin": "Zhāng Dōng",
+       "zh": "图书馆西边是一个足球场。",
+       "pinyin": "Túshūguǎn xībian shì yí ge zúqiúchǎng.",
+       "en": "West of the library there's a football field.",
+       "fr": "À l'ouest de la bibliothèque, il y a un terrain de football.",
+       "numbered": "tu2 shu1 guan3 xi1 bian5 shi4 yi2 ge5 zu2 qiu2 chang3"
+      }
+     ],
+     "title": {
+      "zh": "学校里边有银行吗",
+      "pinyin": "Xuéxiào lǐbian yǒu yínháng ma",
+      "en": "Is there a bank on campus",
+      "fr": "Il y a une banque sur le campus ?"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "劳驾，我打听一下儿，博物馆在哪儿？",
+       "pinyin": "Láo jià, wǒ dǎting yíxiàr, bówùguǎn zài nǎr?",
+       "en": "Excuse me, may I ask where the museum is?",
+       "fr": "Excusez-moi, je peux vous demander où est le musée ?",
+       "numbered": "lao2 jia4 wo3 da3 ting5 yi2 xiar4 bo2 wu4 guan3 zai4 nar3"
+      },
+      {
+       "type": "line",
+       "speaker": "路人",
+       "speakerPinyin": "Lùrén",
+       "zh": "博物馆在东边，在和平公园和人民广场中间。",
+       "pinyin": "Bówùguǎn zài dōngbian, zài Hépíng Gōngyuán hé Rénmín Guǎngchǎng zhōngjiān.",
+       "en": "The museum is to the east, between Peace Park and People's Square.",
+       "fr": "Le musée est à l'est, entre le parc de la Paix et la place du Peuple.",
+       "numbered": "bo2 wu4 guan3 zai4 dong1 bian5 zai4 he2 ping2 gong1 yuan2 he2 ren2 min2 guang3 chang3 zhong1 jian1"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "离这儿有多远？",
+       "pinyin": "Lí zhèr yǒu duō yuǎn?",
+       "en": "How far is it from here?",
+       "fr": "C'est à quelle distance d'ici ?",
+       "numbered": "li2 zher4 you3 duo1 yuan3"
+      },
+      {
+       "type": "line",
+       "speaker": "路人",
+       "speakerPinyin": "Lùrén",
+       "zh": "从这儿到那儿大概有七八百米。",
+       "pinyin": "Cóng zhèr dào nàr dàgài yǒu qī-bā bǎi mǐ.",
+       "en": "From here to there it's about seven or eight hundred meters.",
+       "fr": "D'ici à là-bas, il y a environ sept ou huit cents mètres.",
+       "numbered": "cong2 zher4 dao4 nar4 da4 gai4 you3 qi1 ba1 bai3 mi3"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "怎么走呢？",
+       "pinyin": "Zěnme zǒu ne?",
+       "en": "How do I get there?",
+       "fr": "Comment y aller ?",
+       "numbered": "zen3 me5 zou3 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "路人",
+       "speakerPinyin": "Lùrén",
+       "zh": "你从这儿一直往东走，到红绿灯那儿往左拐，马路东边有一座白色的大楼，那就是博物馆。",
+       "pinyin": "Nǐ cóng zhèr yìzhí wǎng dōng zǒu, dào hónglǜdēng nàr wǎng zuǒ guǎi, mǎlù dōngbian yǒu yí zuò báisè de dà lóu, nà jiù shì bówùguǎn.",
+       "en": "Go straight east from here, turn left at the traffic lights, and on the east side of the road there's a big white building: that's the museum.",
+       "fr": "Allez tout droit vers l'est, tournez à gauche au feu, et du côté est de la rue il y a un grand bâtiment blanc : c'est le musée.",
+       "numbered": "ni3 cong2 zher4 yi4 zhi2 wang3 dong1 zou3 dao4 hong2 lv4 deng1 nar4 wang3 zuo3 guai3 ma3 lu4 dong1 bian5 you3 yi2 zuo4 bai2 se4 de5 da4 lou2 na4 jiu4 shi4 bo2 wu4 guan3"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "谢谢您！",
+       "pinyin": "Xièxie nín!",
+       "en": "Thank you!",
+       "fr": "Merci !",
+       "numbered": "xie4 xie5 nin2"
+      },
+      {
+       "type": "line",
+       "speaker": "路人",
+       "speakerPinyin": "Lùrén",
+       "zh": "不客气。",
+       "pinyin": "Bú kèqi.",
+       "en": "You're welcome.",
+       "fr": "De rien.",
+       "numbered": "bu2 ke4 qi5"
+      }
+     ],
+     "title": {
+      "zh": "从这儿到博物馆有多远",
+      "pinyin": "Cóng zhèr dào bówùguǎn yǒu duō yuǎn",
+      "en": "How far is it from here to the museum",
+      "fr": "C'est à quelle distance d'ici au musée ?"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w129",
+    "hj1b-w011",
+    "hj1b-w051",
+    "hj1b-w128",
+    "hj1b-w259",
+    "hj1b-w107",
+    "hj1b-w222",
+    "hj1b-w044",
+    "hj1b-w287",
+    "hj1b-w288",
+    "hj1b-w127",
+    "hj1b-w034",
+    "hj1b-w014",
+    "hj1b-w083",
+    "hj1b-n002",
+    "hj1b-n003",
+    "hj1b-w077",
+    "hj1b-w274",
+    "hj1b-w030",
+    "hj1b-w041",
+    "hj1b-w143",
+    "hj1b-w245",
+    "hj1b-w215",
+    "hj1b-w085",
+    "hj1b-w136",
+    "hj1b-w043",
+    "hj1b-w289",
+    "hj1b-w075",
+    "hj1b-w137",
+    "hj1b-w134",
+    "hj1b-w292",
+    "hj1b-w003",
+    "hj1b-w008",
+    "hj1b-w086",
+    "hj1b-w148",
+    "hj1b-w162",
+    "hj1b-w172",
+    "hj1b-w208",
+    "hj1b-w227",
+    "hj1b-w254",
+    "hj1b-w255",
+    "hj1b-w290"
+   ]
+  },
+  {
+   "lesson": 24,
+   "zh": "我想学太极拳",
+   "pinyin": "Wǒ xiǎng xué tàijíquán",
+   "en": "I want to learn tai chi",
+   "fr": "Je veux apprendre le tai-chi",
+   "pdfPage": 136,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "罗兰，你会打太极拳吗？",
+       "pinyin": "Luólán, nǐ huì dǎ tàijíquán ma?",
+       "en": "Roland, can you do tai chi?",
+       "fr": "Roland, tu sais faire du tai-chi ?",
+       "numbered": "luo2 lan2 ni3 hui4 da3 tai4 ji2 quan2 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "不会。你呢？",
+       "pinyin": "Bú huì. Nǐ ne?",
+       "en": "No. And you?",
+       "fr": "Non. Et toi ?",
+       "numbered": "bu2 hui4 ni3 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "我也不会。你想不想学？",
+       "pinyin": "Wǒ yě bú huì. Nǐ xiǎng bu xiǎng xué?",
+       "en": "I can't either. Do you want to learn?",
+       "fr": "Moi non plus. Tu veux apprendre ?",
+       "numbered": "wo3 ye3 bu2 hui4 ni3 xiang3 bu5 xiang3 xue2"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "想学。",
+       "pinyin": "Xiǎng xué.",
+       "en": "Yes, I do.",
+       "fr": "Oui, j'aimerais.",
+       "numbered": "xiang3 xue2"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "我也想学。听说体育老师下星期教太极拳，我们去报名吧。",
+       "pinyin": "Wǒ yě xiǎng xué. Tīngshuō tǐyù lǎoshī xià xīngqī jiāo tàijíquán, wǒmen qù bào míng ba.",
+       "en": "Me too. I heard the PE teacher is teaching tai chi next week. Let's go and sign up.",
+       "fr": "Moi aussi. Il paraît que le prof de sport enseigne le tai-chi la semaine prochaine. Allons nous inscrire.",
+       "numbered": "wo3 ye3 xiang3 xue2 ting1 shuo1 ti3 yu4 lao3 shi1 xia4 xing1 qi1 jiao1 tai4 ji2 quan2 wo3 men5 qu4 bao4 ming2 ba5"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "好。",
+       "pinyin": "Hǎo.",
+       "en": "OK.",
+       "fr": "D'accord.",
+       "numbered": "hao3"
+      }
+     ],
+     "title": {
+      "zh": "我想学太极拳",
+      "pinyin": "Wǒ xiǎng xué tàijíquán",
+      "en": "I want to learn tai chi",
+      "fr": "Je veux apprendre le tai-chi"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "老师，我们想学太极拳，现在可以报名吗？",
+       "pinyin": "Lǎoshī, wǒmen xiǎng xué tàijíquán, xiànzài kěyǐ bào míng ma?",
+       "en": "Teacher, we'd like to learn tai chi. Can we sign up now?",
+       "fr": "Professeur, nous voulons apprendre le tai-chi. On peut s'inscrire maintenant ?",
+       "numbered": "lao3 shi1 wo3 men5 xiang3 xue2 tai4 ji2 quan2 xian4 zai4 ke3 yi3 bao4 ming2 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "可以。",
+       "pinyin": "Kěyǐ.",
+       "en": "Yes, you can.",
+       "fr": "Oui.",
+       "numbered": "ke3 yi3"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "什么时候开始上课？",
+       "pinyin": "Shénme shíhou kāishǐ shàng kè?",
+       "en": "When do classes start?",
+       "fr": "Les cours commencent quand ?",
+       "numbered": "shen2 me5 shi2 hou5 kai1 shi3 shang4 ke4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "下星期一。",
+       "pinyin": "Xià Xīngqīyī.",
+       "en": "Next Monday.",
+       "fr": "Lundi prochain.",
+       "numbered": "xia4 xing1 qi1 yi1"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "每天下午都有课吗？",
+       "pinyin": "Měi tiān xiàwǔ dōu yǒu kè ma?",
+       "en": "Is there a class every afternoon?",
+       "fr": "Il y a cours tous les après-midi ?",
+       "numbered": "mei3 tian1 xia4 wu3 dou1 you3 ke4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "不，只一三五下午。",
+       "pinyin": "Bù, zhǐ yī sān wǔ xiàwǔ.",
+       "en": "No, only on Monday, Wednesday and Friday afternoons.",
+       "fr": "Non, seulement les après-midi un, trois, cinq.",
+       "numbered": "bu4 zhi3 yi1 san1 wu3 xia4 wu3"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "对不起，您能不能再说一遍？我不懂“一三五”是什么意思。",
+       "pinyin": "Duìbuqǐ, nín néng bu néng zài shuō yí biàn? Wǒ bù dǒng \"yī sān wǔ\" shì shénme yìsi.",
+       "en": "Sorry, could you say that again? I don't understand what \"one three five\" means.",
+       "fr": "Pardon, pouvez-vous répéter ? Je ne comprends pas ce que veut dire « un trois cinq ».",
+       "numbered": "dui4 bu5 qi3 nin2 neng2 bu5 neng2 zai4 shuo1 yi2 bian4 wo3 bu4 dong3 yi1 san1 wu3 shi4 shen2 me5 yi4 si5"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "就是星期一、星期三、星期五。",
+       "pinyin": "Jiù shì Xīngqīyī, Xīngqīsān, Xīngqīwǔ.",
+       "en": "It means Monday, Wednesday and Friday.",
+       "fr": "Ça veut dire lundi, mercredi et vendredi.",
+       "numbered": "jiu4 shi4 xing1 qi1 yi1 xing1 qi1 san1 xing1 qi1 wu3"
+      },
+      {
+       "type": "line",
+       "speaker": "玛丽",
+       "speakerPinyin": "Mǎlì",
+       "zh": "从几点到几点上课？",
+       "pinyin": "Cóng jǐ diǎn dào jǐ diǎn shàng kè?",
+       "en": "From what time to what time?",
+       "fr": "Le cours, c'est de quelle heure à quelle heure ?",
+       "numbered": "cong2 ji3 dian3 dao4 ji3 dian3 shang4 ke4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "四点半到五点半。一次一个小时。",
+       "pinyin": "Sì diǎn bàn dào wǔ diǎn bàn. Yí cì yí ge xiǎoshí.",
+       "en": "From half past four to half past five. One hour each time.",
+       "fr": "De quatre heures et demie à cinq heures et demie. Une heure à chaque fois.",
+       "numbered": "si4 dian3 ban4 dao4 wu3 dian3 ban4 yi2 ci4 yi2 ge5 xiao3 shi2"
+      },
+      {
+       "type": "scene",
+       "zh": "星期一下午……",
+       "en": "On Monday afternoon…",
+       "fr": "Lundi après-midi…"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "玛丽！……玛丽怎么没来？",
+       "pinyin": "Mǎlì! …… Mǎlì zěnme méi lái?",
+       "en": "Mary! … Why isn't Mary here?",
+       "fr": "Marie ! … Pourquoi Marie n'est pas venue ?",
+       "numbered": "ma3 li4 ma3 li4 zen3 me5 mei2 lai2"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "老师，玛丽让我给她请个假。她今天有点儿不舒服，头疼，发烧，咳嗽，可能是感冒。她要去医院看病，不能来上课。",
+       "pinyin": "Lǎoshī, Mǎlì ràng wǒ gěi tā qǐng ge jià. Tā jīntiān yǒudiǎnr bù shūfu, tóuténg, fā shāo, késou, kěnéng shì gǎnmào. Tā yào qù yīyuàn kàn bìng, bù néng lái shàng kè.",
+       "en": "Teacher, Mary asked me to excuse her. She isn't feeling well today: headache, fever and a cough. It may be a cold. She has to see a doctor at the hospital and can't come to class.",
+       "fr": "Professeur, Marie m'a demandé de l'excuser. Elle ne se sent pas bien aujourd'hui : mal de tête, fièvre, toux, c'est peut-être un rhume. Elle doit aller voir un médecin à l'hôpital, elle ne peut pas venir en cours.",
+       "numbered": "lao3 shi1 ma3 li4 rang4 wo3 gei3 ta1 qing3 ge5 jia4 ta1 jin1 tian1 you3 dianr3 bu4 shu1 fu5 tou2 teng2 fa1 shao1 ke2 sou5 ke3 neng2 shi4 gan3 mao4 ta1 yao4 qu4 yi1 yuan4 kan4 bing4 bu4 neng2 lai2 shang4 ke4"
+      }
+     ],
+     "title": {
+      "zh": "您能不能再说一遍",
+      "pinyin": "Nín néng bu néng zài shuō yí biàn",
+      "en": "Could you say that again",
+      "fr": "Pouvez-vous répéter ?"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w092",
+    "hj1b-w032",
+    "hj1b-w196",
+    "hj1b-w204",
+    "hj1b-w226",
+    "hj1b-w007",
+    "hj1b-w112",
+    "hj1b-w149",
+    "hj1b-w264",
+    "hj1b-w010",
+    "hj1b-w053",
+    "hj1b-w246",
+    "hj1b-w029",
+    "hj1b-w232",
+    "hj1b-w188",
+    "hj1b-w205",
+    "hj1b-w206",
+    "hj1b-w199",
+    "hj1b-w060",
+    "hj1b-w115",
+    "hj1b-w116",
+    "hj1b-w069",
+    "hj1b-w114",
+    "hj1b-w013",
+    "hj1b-w164"
+   ]
+  },
+  {
+   "lesson": 25,
+   "zh": "她学得很好",
+   "pinyin": "Tā xué de hěn hǎo",
+   "en": "She learns well",
+   "fr": "Elle apprend bien",
+   "pdfPage": 152,
+   "parts": [
+    {
+     "part": 1,
+     "items": [
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "罗兰，电视台想请留学生表演一个汉语节目，你愿意去吗？",
+       "pinyin": "Luólán, diànshìtái xiǎng qǐng liúxuéshēng biǎoyǎn yí ge Hànyǔ jiémù, nǐ yuànyì qù ma?",
+       "en": "Roland, the TV station wants foreign students to perform a show in Chinese. Would you like to go?",
+       "fr": "Roland, la chaîne de télévision veut que des étudiants étrangers présentent un numéro en chinois. Tu veux y aller ?",
+       "numbered": "luo2 lan2 dian4 shi4 tai2 xiang3 qing3 liu2 xue2 sheng1 biao3 yan3 yi2 ge5 han4 yu3 jie2 mu4 ni3 yuan4 yi4 qu4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "老师，我不想去。",
+       "pinyin": "Lǎoshī, wǒ bù xiǎng qù.",
+       "en": "Teacher, I'd rather not.",
+       "fr": "Professeur, je ne préfère pas.",
+       "numbered": "lao3 shi1 wo3 bu4 xiang3 qu4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "为什么？",
+       "pinyin": "Wèi shénme?",
+       "en": "Why not?",
+       "fr": "Pourquoi ?",
+       "numbered": "wei4 shen2 me5"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "我汉语说得不好，也不会表演。",
+       "pinyin": "Wǒ Hànyǔ shuō de bù hǎo, yě bú huì biǎoyǎn.",
+       "en": "I don't speak Chinese well, and I can't act.",
+       "fr": "Je ne parle pas bien chinois, et je ne sais pas jouer.",
+       "numbered": "wo3 han4 yu3 shuo1 de5 bu4 hao3 ye3 bu2 hui4 biao3 yan3"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "你学得不错，有很大进步，汉语水平提高得很快。",
+       "pinyin": "Nǐ xué de búcuò, yǒu hěn dà jìnbù, Hànyǔ shuǐpíng tígāo de hěn kuài.",
+       "en": "You're doing well. You've made great progress, and your Chinese is improving fast.",
+       "fr": "Tu apprends bien, tu as fait de gros progrès, et ton niveau de chinois s'améliore vite.",
+       "numbered": "ni3 xue2 de5 bu2 cuo4 you3 hen3 da4 jin4 bu4 han4 yu3 shui3 ping2 ti2 gao1 de5 hen3 kuai4"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "哪里，我发音发得不准，说得也不流利。让玛丽去吧。她汉语学得很好，说得很流利。玛丽还会唱京剧。",
+       "pinyin": "Nǎli, wǒ fā yīn fā de bù zhǔn, shuō de yě bù liúlì. Ràng Mǎlì qù ba. Tā Hànyǔ xué de hěn hǎo, shuō de hěn liúlì. Mǎlì hái huì chàng jīngjù.",
+       "en": "Oh, not really. My pronunciation isn't accurate and I don't speak fluently. Let Mary go. She's very good at Chinese and speaks it fluently. Mary can even sing Peking opera.",
+       "fr": "Oh, pas vraiment. Ma prononciation n'est pas juste et je ne parle pas couramment. Envoyez plutôt Marie. Elle apprend très bien le chinois et le parle couramment. Marie sait même chanter l'opéra de Pékin.",
+       "numbered": "na3 li5 wo3 fa1 yin1 fa1 de5 bu4 zhun3 shuo1 de5 ye3 bu4 liu2 li4 rang4 ma3 li4 qu4 ba5 ta1 han4 yu3 xue2 de5 hen3 hao3 shuo1 de5 hen3 liu2 li4 ma3 li4 hai2 hui4 chang4 jing1 ju4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "是吗？她京剧唱得怎么样？",
+       "pinyin": "Shì ma? Tā jīngjù chàng de zěnmeyàng?",
+       "en": "Really? How well does she sing Peking opera?",
+       "fr": "Ah bon ? Elle chante comment l'opéra de Pékin ?",
+       "numbered": "shi4 ma5 ta1 jing1 ju4 chang4 de5 zen3 me5 yang4"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "王老师说，她唱得不错。",
+       "pinyin": "Wáng lǎoshī shuō, tā chàng de búcuò.",
+       "en": "Mr Wang says she sings quite well.",
+       "fr": "M. Wang dit qu'elle chante plutôt bien.",
+       "numbered": "wang2 lao3 shi1 shuo1 ta1 chang4 de5 bu2 cuo4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "她怎么学得这么好？",
+       "pinyin": "Tā zěnme xué de zhème hǎo?",
+       "en": "How does she learn so well?",
+       "fr": "Comment fait-elle pour apprendre si bien ?",
+       "numbered": "ta1 zen3 me5 xue2 de5 zhe4 me5 hao3"
+      },
+      {
+       "type": "line",
+       "speaker": "罗兰",
+       "speakerPinyin": "Luólán",
+       "zh": "她非常努力，也很认真。",
+       "pinyin": "Tā fēicháng nǔlì, yě hěn rènzhēn.",
+       "en": "She works very hard, and she's very conscientious.",
+       "fr": "Elle travaille très dur, et elle est très sérieuse.",
+       "numbered": "ta1 fei1 chang2 nu3 li4 ye3 hen3 ren4 zhen1"
+      }
+     ],
+     "title": {
+      "zh": "她学得很好",
+      "pinyin": "Tā xué de hěn hǎo",
+      "en": "She learns well",
+      "fr": "Elle apprend bien"
+     }
+    },
+    {
+     "part": 2,
+     "items": [
+      {
+       "type": "scene",
+       "zh": "学校的操场上，玛丽在打太极拳。",
+       "en": "Mary is practicing tai chi on the sports field",
+       "fr": "Sur le terrain de sport de l'école, Marie fait du tai-chi."
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "老师，您看她太极拳打得怎么样？",
+       "pinyin": "Lǎoshī, nín kàn tā tàijíquán dǎ de zěnmeyàng?",
+       "en": "Teacher, what do you think of her tai chi?",
+       "fr": "Professeur, que pensez-vous de son tai-chi ?",
+       "numbered": "lao3 shi1 nin2 kan4 ta1 tai4 ji2 quan2 da3 de5 zen3 me5 yang4"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "打得不错。",
+       "pinyin": "Dǎ de búcuò.",
+       "en": "It's quite good.",
+       "fr": "Pas mal du tout.",
+       "numbered": "da3 de5 bu2 cuo4"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "为学太极拳，她每天都起得很早。",
+       "pinyin": "Wèi xué tàijíquán, tā měi tiān dōu qǐ de hěn zǎo.",
+       "en": "She gets up early every day to learn tai chi.",
+       "fr": "Pour apprendre le tai-chi, elle se lève tôt tous les jours.",
+       "numbered": "wei4 xue2 tai4 ji2 quan2 ta1 mei3 tian1 dou1 qi3 de5 hen3 zao3"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "麦克，你喜欢什么运动？",
+       "pinyin": "Màikè, nǐ xǐhuan shénme yùndòng?",
+       "en": "Mike, what sports do you like?",
+       "fr": "Mike, quels sports aimes-tu ?",
+       "numbered": "mai4 ke4 ni3 xi3 huan5 shen2 me5 yun4 dong4"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "我喜欢跑步、打篮球。",
+       "pinyin": "Wǒ xǐhuan pǎo bù, dǎ lánqiú.",
+       "en": "I like running and playing basketball.",
+       "fr": "J'aime courir et jouer au basket.",
+       "numbered": "wo3 xi3 huan5 pao3 bu4 da3 lan2 qiu2"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "刚才我看你跑得很快。你篮球打得怎么样？",
+       "pinyin": "Gāngcái wǒ kàn nǐ pǎo de hěn kuài. Nǐ lánqiú dǎ de zěnmeyàng?",
+       "en": "Just now I saw you run very fast. How well do you play basketball?",
+       "fr": "Tout à l'heure, je t'ai vu courir très vite. Et au basket, tu joues comment ?",
+       "numbered": "gang1 cai2 wo3 kan4 ni3 pao3 de5 hen3 kuai4 ni3 lan2 qiu2 da3 de5 zen3 me5 yang4"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "打得还可以。老师，您每天都来锻炼吗？",
+       "pinyin": "Dǎ de hái kěyǐ. Lǎoshī, nín měi tiān dōu lái duànliàn ma?",
+       "en": "Not bad. Teacher, do you come to exercise every day?",
+       "fr": "Pas mal. Professeur, vous venez faire du sport tous les jours ?",
+       "numbered": "da3 de5 hai2 ke3 yi3 lao3 shi1 nin2 mei3 tian1 dou1 lai2 duan4 lian4 ma5"
+      },
+      {
+       "type": "line",
+       "speaker": "老师",
+       "speakerPinyin": "Lǎoshī",
+       "zh": "对，我每天都坚持锻炼。你呢？",
+       "pinyin": "Duì, wǒ měi tiān dōu jiānchí duànliàn. Nǐ ne?",
+       "en": "Yes, I make a point of exercising every day. And you?",
+       "fr": "Oui, je fais du sport tous les jours sans faute. Et toi ?",
+       "numbered": "dui4 wo3 mei3 tian1 dou1 jian1 chi2 duan4 lian4 ni3 ne5"
+      },
+      {
+       "type": "line",
+       "speaker": "麦克",
+       "speakerPinyin": "Màikè",
+       "zh": "我不常锻炼，因为我晚上常常睡得很晚，早上起得也很晚。",
+       "pinyin": "Wǒ bù cháng duànliàn, yīnwèi wǒ wǎnshang chángcháng shuì de hěn wǎn, zǎoshang qǐ de yě hěn wǎn.",
+       "en": "I don't exercise often, because I often go to bed very late, and I get up late in the morning too.",
+       "fr": "Je ne fais pas souvent de sport, parce que je me couche souvent très tard le soir, et je me lève tard le matin aussi.",
+       "numbered": "wo3 bu4 chang2 duan4 lian4 yin1 wei4 wo3 wan3 shang5 chang2 chang2 shui4 de5 hen3 wan3 zao3 shang5 qi3 de5 ye3 hen3 wan3"
+      }
+     ],
+     "title": {
+      "zh": "她每天都起得很早",
+      "pinyin": "Tā měi tiān dōu qǐ de hěn zǎo",
+      "en": "She gets up early every day",
+      "fr": "Elle se lève tôt tous les jours"
+     }
+    }
+   ],
+   "newWords": [
+    "hj1b-w049",
+    "hj1b-w195",
+    "hj1b-w012",
+    "hj1b-w103",
+    "hj1b-w260",
+    "hj1b-w217",
+    "hj1b-w218",
+    "hj1b-w042",
+    "hj1b-w015",
+    "hj1b-w031",
+    "hj1b-w106",
+    "hj1b-w190",
+    "hj1b-w200",
+    "hj1b-w123",
+    "hj1b-w146",
+    "hj1b-w279",
+    "hj1b-w132",
+    "hj1b-w270",
+    "hj1b-w152",
+    "hj1b-w170",
+    "hj1b-w113",
+    "hj1b-w267",
+    "hj1b-w263",
+    "hj1b-w156",
+    "hj1b-w157",
+    "hj1b-w126",
+    "hj1b-w165",
+    "hj1b-w071",
+    "hj1b-w118",
+    "hj1b-w097",
+    "hj1b-w247",
+    "hj1b-w210",
+    "hj1b-w147"
+   ]
+  }
+ ]
+}

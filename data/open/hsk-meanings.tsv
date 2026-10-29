@@ -1,0 +1,303 @@
+# Hanyu's own meanings for the HSK words, written for learners (open data).
+# Meanings that mean the same thing share a word (那儿 / 那边: "over there"), so they are never offered against each other.
+# Columns: n (number in the HSK list)	word (as printed)	en	fr
+1	爱	to love	aimer
+2	八	eight	huit
+3	爸爸	dad, father	papa, père
+4	吧	particle for a suggestion or a guess (let's…; …right?)	particule de suggestion ou de supposition (allons… ; …n'est-ce pas ?)
+5	白天	daytime	la journée, le jour
+6	百	hundred	cent
+7	半	half	demi, moitié
+8	包子	steamed stuffed bun	petit pain farci cuit à la vapeur
+9	杯子	cup, glass	tasse, verre
+10	本1	measure word for books and notebooks	classificateur des livres et cahiers
+11	边	side; -side (这边 this side)	côté ; suffixe de côté (这边 de ce côté)
+12	病	illness; to be ill	maladie ; être malade
+13	不	not, no	ne… pas, non
+14	不客气	you're welcome	de rien, je vous en prie
+15	不要	don't	ne… pas (défense), ne fais pas
+16	菜	dish, food; vegetable	plat, cuisine ; légume
+17	茶	tea	thé
+18	唱	to sing	chanter
+19	超市	supermarket	supermarché
+20	车	vehicle, car	véhicule, voiture
+21	吃	to eat	manger
+22	出租车	taxi	taxi
+23	穿	to wear, to put on (clothes, shoes)	porter, mettre (vêtements, chaussures)
+24	打电话	to make a phone call, to call	téléphoner, appeler
+25	大	big, large; old (age)	grand ; âgé
+26	大家	everybody	tout le monde
+27	大学	university	université
+28	大学生	university student	étudiant à l'université
+29	到	to arrive, to reach; until, to (a place or time)	arriver ; jusqu'à
+30	的	particle linking a description to a noun (my…, …'s)	particule de détermination (de, -'s)
+31	第	prefix for ordinal numbers (第一 first)	préfixe des ordinaux (第一 premier)
+32	弟弟	younger brother	petit frère
+33	点1	o'clock	heure (三点 trois heures)
+34	店	shop, store	magasin, boutique
+35	电话	telephone, phone; phone call	téléphone ; appel
+36	电脑	computer	ordinateur
+37	电视	television, TV	télévision
+38	电影	film, movie	film
+39	电影院	cinema	cinéma (salle)
+40	东西	thing, stuff	chose, affaires
+41	都	all, both	tous, tout
+42	读	to read (aloud); to study	lire (à voix haute) ; étudier
+43	读书	to read; to study, to go to school	lire ; étudier, aller à l'école
+44	对	right, correct; towards, to	correct, juste ; envers, à
+45	对不起	sorry	pardon, désolé
+46	多	many, much; more; how (多大 how old)	beaucoup, nombreux ; combien (多大 quel âge)
+47	多少	how many, how much	combien
+48	儿子	son	fils
+49	二	two	deux
+50	饭	meal; cooked rice	repas ; riz cuit
+51	饭店	restaurant; hotel	restaurant ; hôtel
+52	房间	room	pièce, chambre
+53	非常	very, extremely	très, extrêmement
+54	飞机	plane	avion
+55	分	minute; cent; point	minute ; centime (fen) ; point
+56	分钟	minute (length of time)	minute (durée)
+57	高兴	happy, glad	content, heureux
+58	歌	song	chanson
+59	哥哥	older brother	grand frère
+60	个	general measure word	classificateur général
+61	给	to give; for, to	donner ; pour, à
+62	公司	company	entreprise, société
+63	工作	to work; job, work	travailler ; travail
+64	狗	dog	chien
+65	贵	expensive	cher
+66	国	country	pays
+67	还	still; also	encore ; aussi
+68	孩子	child	enfant
+69	汉语	Chinese (language)	chinois (langue)
+70	汉字	Chinese character, character	caractère chinois
+71	好	good; well; very	bon, bien ; très
+72	好吃	tasty, delicious	bon (à manger), délicieux
+73	好看	good-looking, pretty; nice to watch	joli, beau ; agréable à regarder
+74	好听	nice to hear, pleasant	agréable à entendre, joli (son)
+75	好玩儿	fun	amusant
+76	号	number; day of the month	numéro ; jour du mois (date)
+77	喝	to drink	boire
+78	和1	and; with	et ; avec
+79	很	very	très
+80	后	after; behind	après ; derrière
+81	回	to go back, to return	rentrer, revenir
+82	会1	can (know how to)	savoir (faire)
+83	火车	train	train
+84	鸡蛋	egg	œuf
+85	几	how many (usually under ten); a few	combien (petit nombre) ; quelques
+86	家	home, family; measure word for shops and companies	maison, famille ; classificateur des magasins et entreprises
+87	家人	family, family members	famille, membres de la famille
+88	见	to see; to meet	voir ; rencontrer
+89	件	measure word for clothes and matters	classificateur des vêtements et des affaires
+90	饺子	dumpling (jiaozi)	ravioli chinois (jiaozi)
+91	叫	to be called; to call	s'appeler ; appeler
+92	姐姐	older sister	grande sœur
+93	今年	this year	cette année
+94	今天	today	aujourd'hui
+95	九	nine	neuf
+96	觉得	to feel, to think	trouver, penser
+97	开	to open; to drive; to turn on	ouvrir ; conduire ; allumer
+98	开车	to drive (a car)	conduire (une voiture)
+99	看	to look, to watch, to read	regarder, lire
+100	看病	to see a doctor	aller chez le médecin, consulter
+101	看见	to see	voir
+102	可以	can, may	pouvoir (avoir le droit)
+103	课	class, lesson	cours, leçon
+104	口	mouth; measure word for family members	bouche ; classificateur des membres de la famille
+105	块	yuan (spoken); piece	yuan (à l'oral) ; morceau
+106	来	to come	venir
+107	老师	teacher	professeur
+108	了	particle for a finished action or a change	particule de l'action accomplie ou du changement
+109	冷	cold	froid
+110	里	inside, in	dedans, dans
+111	两1	two (before a measure word)	deux (devant un classificateur)
+112	零	zero	zéro
+113	六	six	six
+114	妈妈	mum, mother	maman, mère
+115	吗	question particle (yes/no questions)	particule interrogative (questions oui/non)
+116	买	to buy	acheter
+117	卖	to sell	vendre
+118	忙	busy	occupé
+119	猫	cat	chat
+120	没关系	it doesn't matter, never mind	ce n'est pas grave
+121	没事	it's nothing, never mind; to be free	ce n'est rien ; être libre
+122	没有	not have; there isn't; did not	ne pas avoir ; il n'y a pas ; ne… pas (passé)
+123	妹妹	younger sister	petite sœur
+124	们	plural suffix for people (我们 we)	suffixe du pluriel des personnes (我们 nous)
+125	米饭	cooked rice	riz cuit
+126	面包	bread	pain
+127	面条儿	noodles	nouilles
+128	明年	next year	l'année prochaine
+129	明天	tomorrow	demain
+130	名字	name	nom, prénom
+131	哪	which	quel
+132	哪个	which, which one	lequel
+133	哪里	where	où
+134	哪儿	where	où
+135	哪些	which, which ones	lesquels
+136	那	that; then, in that case	cela, ce…-là ; alors
+137	那边	there, over there, that side	là-bas, de ce côté-là
+138	那个	that, that one	celui-là
+139	那里	there, over there	là, là-bas
+140	那儿	there, over there	là, là-bas
+141	那些	those	ceux-là
+142	男	male	masculin, homme
+143	男朋友	boyfriend	petit ami
+144	呢	particle: and…? (你呢 and you?)	particule : et… ? (你呢 et toi ?)
+145	能	can, to be able to	pouvoir (être capable)
+146	你	you	tu, toi
+147	你好	hello	bonjour
+148	你们	you (plural)	vous (pluriel)
+149	年	year	an, année
+150	您	you (polite)	vous (politesse)
+151	牛奶	milk	lait
+152	女	female	féminin, femme
+153	女儿	daughter	fille (enfant)
+154	女朋友	girlfriend	petite amie
+155	女士	Ms, madam	madame
+156	朋友	friend	ami
+157	便宜	cheap	bon marché, pas cher
+158	漂亮	pretty, beautiful	joli, beau
+159	苹果	apple	pomme
+160	七	seven	sept
+161	起床	to get up	se lever
+162	千	thousand	mille
+163	前	front; before, ago	devant ; avant, il y a
+164	钱	money	argent
+165	请	please; to invite	s'il vous plaît ; inviter
+166	请问	excuse me, may I ask	excusez-moi, puis-je vous demander
+167	去	to go	aller
+168	去年	last year	l'année dernière
+169	热	hot	chaud
+170	人	person, people	personne, gens
+171	认识	to know (a person), to meet	connaître (quelqu'un), faire la connaissance
+172	日	day of the month, day; sun	jour (date), jour ; soleil
+173	三	three	trois
+174	商店	shop	magasin
+175	上	on, above; last (上个月 last month); to go up, to attend	sur, en haut ; dernier (上个月 le mois dernier) ; monter, aller à
+176	上班	to go to work, to work	aller au travail
+177	上课	to go to class; class begins	aller en cours ; le cours commence
+178	上午	morning (before noon)	matin (avant midi)
+179	上学	to go to school	aller à l'école
+180	少	few, not much; to be missing	peu ; manquer
+181	谁	who	qui
+182	什么	what	quoi, quel
+183	生病	to fall ill, to be ill	tomber malade
+184	十	ten	dix
+185	时候	time, moment (…的时候 when…)	moment (…的时候 quand…)
+186	时间	time	temps
+187	事	matter, thing, business	affaire, chose
+188	是	to be	être
+189	手机	mobile phone, phone	téléphone portable
+190	书	book	livre
+191	书店	bookshop	librairie
+192	水	water	eau
+193	水果	fruit	fruit
+194	睡	to sleep	dormir
+195	睡觉	to sleep, to go to bed	dormir, aller se coucher
+196	说	to speak, to say	parler, dire
+197	说话	to talk, to speak	parler, discuter
+198	四	four	quatre
+199	岁	years old	ans (âge)
+200	他	he, him	il, lui
+201	它	it	il, elle (chose, animal)
+202	她	she, her	elle
+203	他们	they (men or mixed)	ils, eux
+204	它们	they (things, animals)	ils, elles (choses, animaux)
+205	她们	they (women)	elles
+206	太	too; very	trop ; très
+207	天	day; sky	jour ; ciel
+208	天气	weather	temps (météo)
+209	听	to listen	écouter
+210	听见	to hear	entendre
+211	同学	classmate	camarade de classe
+212	外	outside	dehors, extérieur
+213	外边	outside	dehors, à l'extérieur
+214	玩	to play, to have fun	jouer, s'amuser
+215	晚	late	tard, en retard
+216	晚饭	dinner	dîner
+217	晚上	evening	soir
+218	喂1	hello (on the phone); hey	allô ; hé
+219	问	to ask	demander (une question)
+220	问题	question; problem	question ; problème
+221	我	I, me	je, moi
+222	我们	we, us	nous
+223	五	five	cinq
+224	午饭	lunch	déjeuner
+225	喜欢	to like	aimer, apprécier
+226	下	under, below; next (下个月 next month); to go down, to get off	sous, en bas ; prochain (下个月 le mois prochain) ; descendre
+227	下雨	to rain	pleuvoir
+228	下班	to finish work	finir le travail
+229	下课	class is over; to finish class	fin du cours
+230	下午	afternoon	après-midi
+231	先生	Mr, sir; husband	monsieur ; mari
+232	现在	now	maintenant
+233	想	to want; to think; to miss	vouloir, avoir envie ; penser ; regretter (quelqu'un qui manque)
+234	小	small, little; young	petit ; jeune
+235	小朋友	child, kid	enfant, petit
+236	小时	hour	heure (durée)
+237	小学	primary school	école primaire
+238	小学生	primary school pupil	écolier
+239	些	some	quelques
+240	写	to write	écrire
+241	谢谢	thank you, thanks	merci
+242	新	new	nouveau
+243	星期	week	semaine
+244	星期日	Sunday	dimanche
+245	星期天	Sunday	dimanche
+246	休息	to rest	se reposer
+247	学	to learn, to study	apprendre, étudier
+248	学生	student	étudiant, élève
+249	学习	to study, to learn	étudier, apprendre
+250	学校	school	école
+251	雪	snow	neige
+252	要	to want; to need; will	vouloir ; avoir besoin ; aller (futur proche)
+253	也	also, too	aussi
+254	一	one	un
+255	衣服	clothes	vêtements
+256	医生	doctor	médecin
+257	医院	hospital	hôpital
+258	一半	half	la moitié
+259	一下	briefly, a bit (after a verb)	un peu, un instant (après un verbe)
+260	椅子	chair	chaise
+261	一点儿	a little, a bit	un peu
+262	一些	some, a few	quelques, un peu de
+263	有	to have; there is	avoir ; il y a
+264	有的	some (of them)	certains
+265	有点儿	a bit, a little (before an adjective, often negative)	un peu (devant un adjectif, souvent négatif)
+266	有些	some; somewhat	certains ; un peu
+267	雨	rain	pluie
+268	元	yuan	yuan
+269	月	month; moon	mois ; lune
+270	再	again; then	encore, de nouveau ; ensuite
+271	在	to be at, to be in; at, in; doing (in progress)	être à ; à, dans ; être en train de
+272	再见	goodbye	au revoir
+273	早	early; (good) morning	tôt ; bonjour (le matin)
+274	早饭	breakfast	petit-déjeuner
+275	早上	morning	matin
+276	怎么	how; why	comment ; pourquoi
+277	怎么样	how (is it)?, how about	comment (ça va) ? ; qu'en dis-tu ?
+278	找	to look for; to give change	chercher ; rendre la monnaie
+279	这	this	ceci, ce…-ci
+280	这边	here, over here, this side	par ici, de ce côté-ci
+281	这个	this, this one	celui-ci
+282	这里	here, over here	ici
+283	这儿	here, over here	ici
+284	这些	these	ceux-ci
+285	真	really; real, true	vraiment ; vrai
+286	正在	doing (in progress), in the middle of	être en train de
+287	只	measure word for animals and one of a pair	classificateur des animaux et d'un objet d'une paire
+288	知道	to know	savoir
+289	中国	China	Chine
+290	中文	Chinese (language)	chinois (langue)
+291	中午	noon	midi
+292	中学	middle school, high school	collège, lycée
+293	中学生	middle or high school student	collégien, lycéen
+294	住	to live (somewhere)	habiter
+295	桌子	table, desk	table, bureau
+296	字	character, word	caractère, mot
+297	昨天	yesterday	hier
+298	坐	to sit; to take (a bus, a plane)	s'asseoir ; prendre (bus, avion)
+299	做	to do; to make	faire
+300	做饭	to cook	faire la cuisine

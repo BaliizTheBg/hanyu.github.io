@@ -1,0 +1,8088 @@
+{
+ "pack": "hj-1a",
+ "title": "汉语教程（第3版）第一册 上",
+ "titleEn": "Chinese Course (3rd Edition) Book 1A",
+ "publisher": "Beijing Language and Culture University Press",
+ "lessons": 15,
+ "firstLesson": 1,
+ "source": "Vocabulary index pp.166-178, transcribed by hand and cross-checked",
+ "words": [
+  {
+   "id": "hj1a-w001",
+   "key": "阿拉伯文|a1 la1 bo2 wen2",
+   "hanzi": "阿拉伯文",
+   "pinyin": "Ālābówén",
+   "numbered": "a1 la1 bo2 wen2",
+   "variants": [
+    "a1 la1 bo2 wen2"
+   ],
+   "speak": "阿拉伯文",
+   "pos": [
+    "名"
+   ],
+   "en": "Arabic",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "arabe (écrit)",
+   "tip": "阿拉伯 Ālābó sounds like \"Arab\"; 文 = written language.",
+   "tipParts": [
+    [
+     "阿拉伯",
+     "ā lā bó"
+    ],
+    [
+     " Ālābó sounds like \"Arab\"; 文 = written language.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w002",
+   "key": "阿拉伯语|a1 la1 bo2 yu3",
+   "hanzi": "阿拉伯语",
+   "pinyin": "Ālābóyǔ",
+   "numbered": "a1 la1 bo2 yu3",
+   "variants": [
+    "a1 la1 bo2 yu3"
+   ],
+   "speak": "阿拉伯语",
+   "pos": [
+    "名"
+   ],
+   "en": "Arabic (language)",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "arabe (langue)",
+   "tip": "Arab + 语 language. 语 is the language you speak, 文 the one you write; in practice both mean \"Arabic\"."
+  },
+  {
+   "id": "hj1a-w003",
+   "key": "啊|a4",
+   "hanzi": "啊",
+   "pinyin": "à",
+   "numbered": "a4",
+   "variants": [
+    "a4"
+   ],
+   "speak": "啊",
+   "pos": [
+    "叹"
+   ],
+   "en": "expressing sudden realization",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "ah ! (prise de conscience soudaine)",
+   "tip": "The \"Ah, I see!\" sound, said with a falling tone: à."
+  },
+  {
+   "id": "hj1a-w004",
+   "key": "八|ba1",
+   "hanzi": "八",
+   "pinyin": "bā",
+   "numbered": "ba1",
+   "variants": [
+    "ba1"
+   ],
+   "speak": "八",
+   "pos": [
+    "数"
+   ],
+   "en": "eight",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "huit",
+   "tip": "Two strokes splitting apart. 8 is lucky in China: bā rhymes with fā (to get rich)."
+  },
+  {
+   "id": "hj1a-w005",
+   "key": "吧|ba5",
+   "hanzi": "吧",
+   "pinyin": "ba",
+   "numbered": "ba5",
+   "variants": [
+    "ba5"
+   ],
+   "speak": "吧",
+   "pos": [
+    "助"
+   ],
+   "en": "a particle used at the end of a sentence, implying soliciting sb.'s advice, suggestion, request or mild command",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "particule de suggestion ou de demande douce",
+   "tip": "Turns a sentence into a soft suggestion: 我们走吧 = let's go.",
+   "tipParts": [
+    [
+     "Turns a sentence into a soft suggestion: ",
+     null
+    ],
+    [
+     "我们走吧",
+     "wǒmen zǒu ba"
+    ],
+    [
+     " = let's go.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w006",
+   "key": "把|ba3",
+   "hanzi": "把",
+   "pinyin": "bǎ",
+   "numbered": "ba3",
+   "variants": [
+    "ba3"
+   ],
+   "speak": "把",
+   "pos": [
+    "量"
+   ],
+   "en": "a measure word for tools with a handle",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "classificateur des objets à poignée",
+   "tip": "For things you grab by a handle: 一把伞 (an umbrella).",
+   "tipParts": [
+    [
+     "For things you grab by a handle: ",
+     null
+    ],
+    [
+     "一把伞",
+     "yì bǎ sǎn"
+    ],
+    [
+     " (an umbrella).",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w007",
+   "key": "爸爸|ba4 ba5",
+   "hanzi": "爸爸",
+   "pinyin": "bàba",
+   "numbered": "ba4 ba5",
+   "variants": [
+    "ba4 ba5"
+   ],
+   "speak": "爸爸",
+   "pos": [
+    "名"
+   ],
+   "en": "dad",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "papa",
+   "tip": "bà-ba sounds like \"papa\"."
+  },
+  {
+   "id": "hj1a-w008",
+   "key": "白|bai2",
+   "hanzi": "白",
+   "pinyin": "bái",
+   "numbered": "bai2",
+   "variants": [
+    "bai2"
+   ],
+   "speak": "白",
+   "pos": [
+    "形"
+   ],
+   "en": "white",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "blanc",
+   "tip": "The sun's bright light: white."
+  },
+  {
+   "id": "hj1a-w009",
+   "key": "百|bai3",
+   "hanzi": "百",
+   "pinyin": "bǎi",
+   "numbered": "bai3",
+   "variants": [
+    "bai3"
+   ],
+   "speak": "百",
+   "pos": [
+    "数"
+   ],
+   "en": "hundred",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "cent",
+   "tip": "一 on top of 白: one hundred (一百).",
+   "tipParts": [
+    [
+     "一 on top of 白: one hundred (",
+     null
+    ],
+    [
+     "一百",
+     "yī bǎi"
+    ],
+    [
+     ").",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w010",
+   "key": "班|ban1",
+   "hanzi": "班",
+   "pinyin": "bān",
+   "numbered": "ban1",
+   "variants": [
+    "ban1"
+   ],
+   "speak": "班",
+   "pos": [
+    "名"
+   ],
+   "en": "class",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "classe (groupe d'élèves)",
+   "tip": "Jade cut into two groups: a class. 我们班 = our class.",
+   "tipParts": [
+    [
+     "Jade cut into two groups: a class. ",
+     null
+    ],
+    [
+     "我们班",
+     "wǒmen bān"
+    ],
+    [
+     " = our class.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w011",
+   "key": "办公|ban4 gong1",
+   "hanzi": "办公",
+   "pinyin": "bàn gōng",
+   "numbered": "ban4 gong1",
+   "variants": [
+    "ban4 gong1"
+   ],
+   "speak": "办公",
+   "pos": [
+    "动"
+   ],
+   "en": "to work (in an office)",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "travailler (au bureau)",
+   "tip": "办 handle + 公 public: handling public affairs, office work."
+  },
+  {
+   "id": "hj1a-w012",
+   "key": "办公室|ban4 gong1 shi4",
+   "hanzi": "办公室",
+   "pinyin": "bàngōngshì",
+   "numbered": "ban4 gong1 shi4",
+   "variants": [
+    "ban4 gong1 shi4"
+   ],
+   "speak": "办公室",
+   "pos": [
+    "名"
+   ],
+   "en": "office",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "bureau (pièce)",
+   "tip": "办公 office work + 室 room.",
+   "tipParts": [
+    [
+     "办公",
+     "bàn gōng"
+    ],
+    [
+     " office work + 室 room.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w013",
+   "key": "包子|bao1 zi5",
+   "hanzi": "包子",
+   "pinyin": "bāozi",
+   "numbered": "bao1 zi5",
+   "variants": [
+    "bao1 zi5"
+   ],
+   "speak": "包子",
+   "pos": [
+    "名"
+   ],
+   "en": "baozi; steamed stuffed bun",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "baozi, brioche farcie à la vapeur",
+   "tip": "包 wrap + 子: a wrapped-up bun."
+  },
+  {
+   "id": "hj1a-w014",
+   "key": "杯|bei1",
+   "hanzi": "杯",
+   "pinyin": "bēi",
+   "numbered": "bei1",
+   "variants": [
+    "bei1"
+   ],
+   "speak": "杯",
+   "pos": [
+    "名",
+    "量"
+   ],
+   "en": "cup",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "tasse, verre",
+   "tip": "一杯茶 = a cup of tea. It's also the measure word for drinks.",
+   "tipParts": [
+    [
+     "一杯茶",
+     "yì bēi chá"
+    ],
+    [
+     " = a cup of tea. It's also the measure word for drinks.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w015",
+   "key": "本|ben3",
+   "hanzi": "本",
+   "pinyin": "běn",
+   "numbered": "ben3",
+   "variants": [
+    "ben3"
+   ],
+   "speak": "本",
+   "pos": [
+    "量"
+   ],
+   "en": "a measure word for books",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "classificateur des livres",
+   "tip": "一本书 = one book. 本 is a tree's root, the base of a book.",
+   "tipParts": [
+    [
+     "一本书",
+     "yì běn shū"
+    ],
+    [
+     " = one book. 本 is a tree's root, the base of a book.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w016",
+   "key": "比较|bi3 jiao4",
+   "hanzi": "比较",
+   "pinyin": "bǐjiào",
+   "numbered": "bi3 jiao4",
+   "variants": [
+    "bi3 jiao4"
+   ],
+   "speak": "比较",
+   "pos": [
+    "副",
+    "动"
+   ],
+   "en": "relatively; to compare",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "assez, relativement ; comparer",
+   "tip": "比 compare + 较 compare: comparatively. 比较好 = rather good.",
+   "tipParts": [
+    [
+     "比 compare + 较 compare: comparatively. ",
+     null
+    ],
+    [
+     "比较好",
+     "bǐjiào hǎo"
+    ],
+    [
+     " = rather good.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w017",
+   "key": "笔|bi3",
+   "hanzi": "笔",
+   "pinyin": "bǐ",
+   "numbered": "bi3",
+   "variants": [
+    "bi3"
+   ],
+   "speak": "笔",
+   "pos": [
+    "名"
+   ],
+   "en": "pen",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "stylo",
+   "tip": "A bamboo stick 竹 tipped with hair 毛: a writing brush, a pen."
+  },
+  {
+   "id": "hj1a-w018",
+   "key": "别的|bie2 de5",
+   "hanzi": "别的",
+   "pinyin": "bié de",
+   "numbered": "bie2 de5",
+   "variants": [
+    "bie2 de5"
+   ],
+   "speak": "别的",
+   "pos": [],
+   "en": "other",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "autre",
+   "tip": "别 other + 的: 别的东西 = other things.",
+   "tipParts": [
+    [
+     "别 other + 的: ",
+     null
+    ],
+    [
+     "别的东西",
+     "bié de dōngxi"
+    ],
+    [
+     " = other things.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w019",
+   "key": "不客气|bu4 ke4 qi5",
+   "hanzi": "不客气",
+   "pinyin": "bú kèqi",
+   "numbered": "bu2 ke4 qi5",
+   "variants": [
+    "bu2 ke4 qi5"
+   ],
+   "speak": "不客气",
+   "pos": [],
+   "en": "you're welcome",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "de rien, je vous en prie",
+   "tip": "\"Don't be so polite\": the answer to 谢谢.",
+   "tipParts": [
+    [
+     "\"Don't be so polite\": the answer to ",
+     null
+    ],
+    [
+     "谢谢",
+     "xièxie"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w020",
+   "key": "不|bu4",
+   "hanzi": "不",
+   "pinyin": "bù",
+   "numbered": "bu4",
+   "variants": [
+    "bu4"
+   ],
+   "speak": "不",
+   "pos": [
+    "副"
+   ],
+   "en": "not",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "ne... pas, non",
+   "tip": "bù, but bú before a 4th tone: 不是 bú shì.",
+   "tipParts": [
+    [
+     "bù, but bú before a 4th tone: ",
+     null
+    ],
+    [
+     "不是",
+     "bú shì"
+    ],
+    [
+     " bú shì.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w021",
+   "key": "茶|cha2",
+   "hanzi": "茶",
+   "pinyin": "chá",
+   "numbered": "cha2",
+   "variants": [
+    "cha2"
+   ],
+   "speak": "茶",
+   "pos": [
+    "名"
+   ],
+   "en": "tea",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "thé",
+   "tip": "Grass on top, tree below, a person in between: picking tea leaves."
+  },
+  {
+   "id": "hj1a-w022",
+   "key": "茶叶|cha2 ye4",
+   "hanzi": "茶叶",
+   "pinyin": "cháyè",
+   "numbered": "cha2 ye4",
+   "variants": [
+    "cha2 ye4"
+   ],
+   "speak": "茶叶",
+   "pos": [
+    "名"
+   ],
+   "en": "tea leaves",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "feuilles de thé",
+   "tip": "茶 tea + 叶 leaf."
+  },
+  {
+   "id": "hj1a-w023",
+   "key": "车|che1",
+   "hanzi": "车",
+   "pinyin": "chē",
+   "numbered": "che1",
+   "variants": [
+    "che1"
+   ],
+   "speak": "车",
+   "pos": [
+    "名"
+   ],
+   "en": "vehicle (bicycle, car, etc.)",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "véhicule (vélo, voiture, etc.)",
+   "tip": "A cart seen from above. Any vehicle."
+  },
+  {
+   "id": "hj1a-w024",
+   "key": "吃|chi1",
+   "hanzi": "吃",
+   "pinyin": "chī",
+   "numbered": "chi1",
+   "variants": [
+    "chi1"
+   ],
+   "speak": "吃",
+   "pos": [
+    "动"
+   ],
+   "en": "to eat",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "manger",
+   "tip": "口 mouth. 吃饭 = to eat a meal.",
+   "tipParts": [
+    [
+     "口 mouth. ",
+     null
+    ],
+    [
+     "吃饭",
+     "chī fàn"
+    ],
+    [
+     " = to eat a meal.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w025",
+   "key": "出租车|chu1 zu1 che1",
+   "hanzi": "出租车",
+   "pinyin": "chūzūchē",
+   "numbered": "chu1 zu1 che1",
+   "variants": [
+    "chu1 zu1 che1"
+   ],
+   "speak": "出租车",
+   "pos": [
+    "名"
+   ],
+   "en": "taxi",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "taxi",
+   "tip": "出 out + 租 rent + 车 car: a car rented out."
+  },
+  {
+   "id": "hj1a-w026",
+   "key": "词典|ci2 dian3",
+   "hanzi": "词典",
+   "pinyin": "cídiǎn",
+   "numbered": "ci2 dian3",
+   "variants": [
+    "ci2 dian3"
+   ],
+   "speak": "词典",
+   "pos": [
+    "名"
+   ],
+   "en": "dictionary",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "dictionnaire",
+   "tip": "词 words + 典 classic book."
+  },
+  {
+   "id": "hj1a-w027",
+   "key": "大|da4",
+   "hanzi": "大",
+   "pinyin": "dà",
+   "numbered": "da4",
+   "variants": [
+    "da4"
+   ],
+   "speak": "大",
+   "pos": [
+    "形"
+   ],
+   "en": "big",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "grand",
+   "tip": "A person stretching their arms wide."
+  },
+  {
+   "id": "hj1a-w028",
+   "key": "大概|da4 gai4",
+   "hanzi": "大概",
+   "pinyin": "dàgài",
+   "numbered": "da4 gai4",
+   "variants": [
+    "da4 gai4"
+   ],
+   "speak": "大概",
+   "pos": [
+    "副"
+   ],
+   "en": "about; approximately",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "environ, à peu près",
+   "tip": "大 big + 概 general: in broad terms, roughly."
+  },
+  {
+   "id": "hj1a-w029",
+   "key": "大学|da4 xue2",
+   "hanzi": "大学",
+   "pinyin": "dàxué",
+   "numbered": "da4 xue2",
+   "variants": [
+    "da4 xue2"
+   ],
+   "speak": "大学",
+   "pos": [
+    "名"
+   ],
+   "en": "university",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "université",
+   "tip": "大 big + 学 study: the big school."
+  },
+  {
+   "id": "hj1a-w030",
+   "key": "大夫|dai4 fu5",
+   "hanzi": "大夫",
+   "pinyin": "dàifu",
+   "numbered": "dai4 fu5",
+   "variants": [
+    "dai4 fu5"
+   ],
+   "speak": "大夫",
+   "pos": [
+    "名"
+   ],
+   "en": "doctor",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "médecin",
+   "tip": "Read dàifu, not dàfū: an everyday word for doctor."
+  },
+  {
+   "id": "hj1a-w031",
+   "key": "但是|dan4 shi4",
+   "hanzi": "但是",
+   "pinyin": "dànshì",
+   "numbered": "dan4 shi4",
+   "variants": [
+    "dan4 shi4"
+   ],
+   "speak": "但是",
+   "pos": [
+    "连"
+   ],
+   "en": "but",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "mais",
+   "tip": "但 dàn = but. 但是 is the full word.",
+   "tipParts": [
+    [
+     "但 dàn = but. ",
+     null
+    ],
+    [
+     "但是",
+     "dànshì"
+    ],
+    [
+     " is the full word.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w032",
+   "key": "蛋|dan4",
+   "hanzi": "蛋",
+   "pinyin": "dàn",
+   "numbered": "dan4",
+   "variants": [
+    "dan4"
+   ],
+   "speak": "蛋",
+   "pos": [
+    "名"
+   ],
+   "en": "egg",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "œuf",
+   "tip": "The creature 虫 at the bottom laid it."
+  },
+  {
+   "id": "hj1a-w033",
+   "key": "德文|de2 wen2",
+   "hanzi": "德文",
+   "pinyin": "Déwén",
+   "numbered": "de2 wen2",
+   "variants": [
+    "de2 wen2"
+   ],
+   "speak": "德文",
+   "pos": [
+    "名"
+   ],
+   "en": "German",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "allemand (écrit)",
+   "tip": "德 dé sounds like \"Deutsch\"."
+  },
+  {
+   "id": "hj1a-w034",
+   "key": "德语|de2 yu3",
+   "hanzi": "德语",
+   "pinyin": "Déyǔ",
+   "numbered": "de2 yu3",
+   "variants": [
+    "de2 yu3"
+   ],
+   "speak": "德语",
+   "pos": [
+    "名"
+   ],
+   "en": "German (language)",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "allemand (langue)",
+   "tip": "德国 Germany + 语 language.",
+   "tipParts": [
+    [
+     "德国",
+     "dé guó"
+    ],
+    [
+     " Germany + 语 language.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w035",
+   "key": "的|de5",
+   "hanzi": "的",
+   "pinyin": "de",
+   "numbered": "de5",
+   "variants": [
+    "de5"
+   ],
+   "speak": "的",
+   "pos": [
+    "助"
+   ],
+   "en": "a particle used after an attributive to indicate possession",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "particule de possession (« de »)",
+   "tip": "Works like 's: 我的书 = my book.",
+   "tipParts": [
+    [
+     "Works like 's: ",
+     null
+    ],
+    [
+     "我的书",
+     "wǒ de shū"
+    ],
+    [
+     " = my book.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w036",
+   "key": "等|deng3",
+   "hanzi": "等",
+   "pinyin": "děng",
+   "numbered": "deng3",
+   "variants": [
+    "deng3"
+   ],
+   "speak": "等",
+   "pos": [
+    "动"
+   ],
+   "en": "to wait",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "attendre",
+   "tip": "等一下 = wait a moment.",
+   "tipParts": [
+    [
+     "等一下",
+     "děng yí xià"
+    ],
+    [
+     " = wait a moment.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w037",
+   "key": "弟弟|di4 di5",
+   "hanzi": "弟弟",
+   "pinyin": "dìdi",
+   "numbered": "di4 di5",
+   "variants": [
+    "di4 di5"
+   ],
+   "speak": "弟弟",
+   "pos": [
+    "名"
+   ],
+   "en": "younger brother",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "petit frère",
+   "tip": "dìdi: the younger brother. The elder one is 哥哥.",
+   "tipParts": [
+    [
+     "dìdi: the younger brother. The elder one is ",
+     null
+    ],
+    [
+     "哥哥",
+     "gēge"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w038",
+   "key": "一点儿|yi1 dianr3",
+   "hanzi": "(一)点儿",
+   "pinyin": "(yì) diǎnr",
+   "numbered": "yi4 dianr3",
+   "variants": [
+    "yi4 dianr3",
+    "dianr3"
+   ],
+   "speak": "一点儿",
+   "pos": [
+    "量"
+   ],
+   "en": "a little; a bit",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "un peu",
+   "tip": "一点儿 = a little bit. Not the same as 有点儿 (slightly, usually negative).",
+   "tipParts": [
+    [
+     "一点儿",
+     "yìdiǎnr"
+    ],
+    [
+     " = a little bit. Not the same as ",
+     null
+    ],
+    [
+     "有点儿",
+     "yǒu diǎn ér"
+    ],
+    [
+     " (slightly, usually negative).",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w039",
+   "key": "电|dian4",
+   "hanzi": "电",
+   "pinyin": "diàn",
+   "numbered": "dian4",
+   "variants": [
+    "dian4"
+   ],
+   "speak": "电",
+   "pos": [
+    "名"
+   ],
+   "en": "electricity",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "électricité",
+   "tip": "A lightning bolt: electricity."
+  },
+  {
+   "id": "hj1a-w040",
+   "key": "电话|dian4 hua4",
+   "hanzi": "电话",
+   "pinyin": "diànhuà",
+   "numbered": "dian4 hua4",
+   "variants": [
+    "dian4 hua4"
+   ],
+   "speak": "电话",
+   "pos": [
+    "名"
+   ],
+   "en": "telephone",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "téléphone",
+   "tip": "电 electric + 话 speech."
+  },
+  {
+   "id": "hj1a-w041",
+   "key": "都|dou1",
+   "hanzi": "都",
+   "pinyin": "dōu",
+   "numbered": "dou1",
+   "variants": [
+    "dou1"
+   ],
+   "speak": "都",
+   "pos": [
+    "副"
+   ],
+   "en": "all; both",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "tous, tout (les deux)",
+   "tip": "Goes right before the verb: 我们都是学生 = we are all students.",
+   "tipParts": [
+    [
+     "Goes right before the verb: ",
+     null
+    ],
+    [
+     "我们都是学生",
+     "wǒmen dōu shì xuésheng"
+    ],
+    [
+     " = we are all students.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w042",
+   "key": "读|du2",
+   "hanzi": "读",
+   "pinyin": "dú",
+   "numbered": "du2",
+   "variants": [
+    "du2"
+   ],
+   "speak": "读",
+   "pos": [
+    "动"
+   ],
+   "en": "to read",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "lire (à voix haute)",
+   "tip": "讠 speech: reading out loud, like in class (跟我读).",
+   "tipParts": [
+    [
+     "讠 speech: reading out loud, like in class (",
+     null
+    ],
+    [
+     "跟我读",
+     "gēn wǒ dú"
+    ],
+    [
+     ").",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w043",
+   "key": "对|dui4",
+   "hanzi": "对",
+   "pinyin": "duì",
+   "numbered": "dui4",
+   "variants": [
+    "dui4"
+   ],
+   "speak": "对",
+   "pos": [
+    "形"
+   ],
+   "en": "right; correct; true",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "juste, correct, vrai",
+   "tip": "对! = right! 不对 = wrong.",
+   "tipParts": [
+    [
+     "对! = right! ",
+     null
+    ],
+    [
+     "不对",
+     "bú duì"
+    ],
+    [
+     " = wrong.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w044",
+   "key": "对不起|dui4 bu5 qi3",
+   "hanzi": "对不起",
+   "pinyin": "duìbuqǐ",
+   "numbered": "dui4 bu5 qi3",
+   "variants": [
+    "dui4 bu5 qi3"
+   ],
+   "speak": "对不起",
+   "pos": [
+    "动"
+   ],
+   "en": "I'm sorry; to be sorry",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "désolé ; être désolé",
+   "tip": "\"Can't face you\": I'm sorry. The answer is 没关系.",
+   "tipParts": [
+    [
+     "\"Can't face you\": I'm sorry. The answer is ",
+     null
+    ],
+    [
+     "没关系",
+     "méi guānxi"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w045",
+   "key": "多|duo1",
+   "hanzi": "多",
+   "pinyin": "duō",
+   "numbered": "duo1",
+   "variants": [
+    "duo1"
+   ],
+   "speak": "多",
+   "pos": [
+    "形"
+   ],
+   "en": "many; a lot of",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "beaucoup, nombreux",
+   "tip": "Two evenings piled up: many."
+  },
+  {
+   "id": "hj1a-w046",
+   "key": "多|duo1",
+   "hanzi": "多",
+   "pinyin": "duō",
+   "numbered": "duo1",
+   "variants": [
+    "duo1"
+   ],
+   "speak": "多",
+   "pos": [
+    "数"
+   ],
+   "en": "(used after a number) more; over; odd",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "(après un nombre) et quelques, plus de",
+   "tip": "二十多 = twenty-something.",
+   "tipParts": [
+    [
+     "二十多",
+     "èr shí duō"
+    ],
+    [
+     " = twenty-something.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w047",
+   "key": "多少|duo1 shao5",
+   "hanzi": "多少",
+   "pinyin": "duōshao",
+   "numbered": "duo1 shao5",
+   "variants": [
+    "duo1 shao5"
+   ],
+   "speak": "多少",
+   "pos": [
+    "代"
+   ],
+   "en": "how much; how many",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "combien",
+   "tip": "多 many + 少 few = \"how much/many?\" Any number: 多少钱?",
+   "tipParts": [
+    [
+     "多 many + 少 few = \"how much/many?\" Any number: ",
+     null
+    ],
+    [
+     "多少钱?",
+     "Duōshao qián?"
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w048",
+   "key": "俄文|e2 wen2",
+   "hanzi": "俄文",
+   "pinyin": "Éwén",
+   "numbered": "e2 wen2",
+   "variants": [
+    "e2 wen2"
+   ],
+   "speak": "俄文",
+   "pos": [
+    "名"
+   ],
+   "en": "Russian",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "russe (écrit)",
+   "tip": "俄 é is the start of 俄罗斯 Éluósī, Russia.",
+   "tipParts": [
+    [
+     "俄 é is the start of ",
+     null
+    ],
+    [
+     "俄罗斯",
+     "é luó sī"
+    ],
+    [
+     " Éluósī, Russia.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w049",
+   "key": "俄语|e2 yu3",
+   "hanzi": "俄语",
+   "pinyin": "Éyǔ",
+   "numbered": "e2 yu3",
+   "variants": [
+    "e2 yu3"
+   ],
+   "speak": "俄语",
+   "pos": [
+    "名"
+   ],
+   "en": "Russian (language)",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "russe (langue)",
+   "tip": "俄国 Russia + 语 language.",
+   "tipParts": [
+    [
+     "俄国",
+     "é guó"
+    ],
+    [
+     " Russia + 语 language.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w050",
+   "key": "二|er4",
+   "hanzi": "二",
+   "pinyin": "èr",
+   "numbered": "er4",
+   "variants": [
+    "er4"
+   ],
+   "speak": "二",
+   "pos": [
+    "数"
+   ],
+   "en": "two",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "deux",
+   "tip": "Two lines. To count things use 两: 两个, never 二个.",
+   "tipParts": [
+    [
+     "Two lines. To count things use 两: ",
+     null
+    ],
+    [
+     "两个",
+     "liǎng gè"
+    ],
+    [
+     ", never ",
+     null
+    ],
+    [
+     "二个",
+     "èr gè"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w051",
+   "key": "发音|fa1 yin1",
+   "hanzi": "发音",
+   "pinyin": "fāyīn",
+   "numbered": "fa1 yin1",
+   "variants": [
+    "fa1 yin1"
+   ],
+   "speak": "发音",
+   "pos": [
+    "名",
+    "动"
+   ],
+   "en": "pronunciation; to pronounce",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "prononciation ; prononcer",
+   "tip": "发 send out + 音 sound."
+  },
+  {
+   "id": "hj1a-w052",
+   "key": "法文|fa3 wen2",
+   "hanzi": "法文",
+   "pinyin": "Fǎwén",
+   "numbered": "fa3 wen2",
+   "variants": [
+    "fa3 wen2"
+   ],
+   "speak": "法文",
+   "pos": [
+    "名"
+   ],
+   "en": "French",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "français (écrit)",
+   "tip": "法 fǎ sounds like \"Fr-ance\"."
+  },
+  {
+   "id": "hj1a-w053",
+   "key": "法语|fa3 yu3",
+   "hanzi": "法语",
+   "pinyin": "Fǎyǔ",
+   "numbered": "fa3 yu3",
+   "variants": [
+    "fa3 yu3"
+   ],
+   "speak": "法语",
+   "pos": [
+    "名"
+   ],
+   "en": "French (language)",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "français (langue)",
+   "tip": "法国 France + 语 language.",
+   "tipParts": [
+    [
+     "法国",
+     "fǎ guó"
+    ],
+    [
+     " France + 语 language.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w054",
+   "key": "饭|fan4",
+   "hanzi": "饭",
+   "pinyin": "fàn",
+   "numbered": "fan4",
+   "variants": [
+    "fan4"
+   ],
+   "speak": "饭",
+   "pos": [
+    "名"
+   ],
+   "en": "meal",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "repas",
+   "tip": "饣 food. 吃饭 = to eat (a meal).",
+   "tipParts": [
+    [
+     "饣 food. ",
+     null
+    ],
+    [
+     "吃饭",
+     "chī fàn"
+    ],
+    [
+     " = to eat (a meal).",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w055",
+   "key": "房间|fang2 jian1",
+   "hanzi": "房间",
+   "pinyin": "fángjiān",
+   "numbered": "fang2 jian1",
+   "variants": [
+    "fang2 jian1"
+   ],
+   "speak": "房间",
+   "pos": [
+    "名"
+   ],
+   "en": "room",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "chambre, pièce",
+   "tip": "房 house + 间 space."
+  },
+  {
+   "id": "hj1a-w056",
+   "key": "分|fen1",
+   "hanzi": "分",
+   "pinyin": "fēn",
+   "numbered": "fen1",
+   "variants": [
+    "fen1"
+   ],
+   "speak": "分",
+   "pos": [
+    "量"
+   ],
+   "en": "fen, equal to 1% of one kuai",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "fen, un centième de kuai",
+   "tip": "Cut with a knife into the smallest piece: a cent."
+  },
+  {
+   "id": "hj1a-w057",
+   "key": "刚|gang1",
+   "hanzi": "刚",
+   "pinyin": "gāng",
+   "numbered": "gang1",
+   "variants": [
+    "gang1"
+   ],
+   "speak": "刚",
+   "pos": [
+    "副"
+   ],
+   "en": "just now; a short while ago",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "à l'instant, tout juste",
+   "tip": "我刚来 = I just arrived.",
+   "tipParts": [
+    [
+     "我刚来",
+     "wǒ gāng lái"
+    ],
+    [
+     " = I just arrived.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w058",
+   "key": "港币|gang3 bi4",
+   "hanzi": "港币",
+   "pinyin": "gǎngbì",
+   "numbered": "gang3 bi4",
+   "variants": [
+    "gang3 bi4"
+   ],
+   "speak": "港币",
+   "pos": [
+    "名"
+   ],
+   "en": "Hong Kong dollar",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "dollar de Hong Kong",
+   "tip": "港 harbor (香港 Hong Kong) + 币 currency.",
+   "tipParts": [
+    [
+     "港 harbor (",
+     null
+    ],
+    [
+     "香港",
+     "xiāng gǎng"
+    ],
+    [
+     " Hong Kong) + 币 currency.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w059",
+   "key": "高兴|gao1 xing4",
+   "hanzi": "高兴",
+   "pinyin": "gāoxìng",
+   "numbered": "gao1 xing4",
+   "variants": [
+    "gao1 xing4"
+   ],
+   "speak": "高兴",
+   "pos": [
+    "形"
+   ],
+   "en": "glad; happy; cheerful",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "content, heureux",
+   "tip": "高 high + 兴 spirits: in high spirits."
+  },
+  {
+   "id": "hj1a-w060",
+   "key": "哥哥|ge1 ge5",
+   "hanzi": "哥哥",
+   "pinyin": "gēge",
+   "numbered": "ge1 ge5",
+   "variants": [
+    "ge1 ge5"
+   ],
+   "speak": "哥哥",
+   "pos": [
+    "名"
+   ],
+   "en": "elder brother",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "grand frère",
+   "tip": "Two 可 stacked up: the taller, elder brother."
+  },
+  {
+   "id": "hj1a-w061",
+   "key": "个|ge4",
+   "hanzi": "个",
+   "pinyin": "gè",
+   "numbered": "ge4",
+   "variants": [
+    "ge4"
+   ],
+   "speak": "个",
+   "pos": [
+    "量"
+   ],
+   "en": "used before nouns without a special measure word of their own",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "classificateur général",
+   "tip": "The default measure word: 一个人, 三个苹果.",
+   "tipParts": [
+    [
+     "The default measure word: ",
+     null
+    ],
+    [
+     "一个人",
+     "yí gè rén"
+    ],
+    [
+     ", ",
+     null
+    ],
+    [
+     "三个苹果",
+     "sān gè píngguǒ"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w062",
+   "key": "给|gei3",
+   "hanzi": "给",
+   "pinyin": "gěi",
+   "numbered": "gei3",
+   "variants": [
+    "gei3"
+   ],
+   "speak": "给",
+   "pos": [
+    "动"
+   ],
+   "en": "to give",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "donner",
+   "tip": "给我 = give me.",
+   "tipParts": [
+    [
+     "给我",
+     "gěi wǒ"
+    ],
+    [
+     " = give me.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w063",
+   "key": "给|gei3",
+   "hanzi": "给",
+   "pinyin": "gěi",
+   "numbered": "gei3",
+   "variants": [
+    "gei3"
+   ],
+   "speak": "给",
+   "pos": [
+    "介"
+   ],
+   "en": "to; for",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "à, pour",
+   "tip": "给妈妈打电话 = call Mom (phone for Mom).",
+   "tipParts": [
+    [
+     "给妈妈打电话",
+     "gěi māma dǎ diànhuà"
+    ],
+    [
+     " = call Mom (phone for Mom).",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w064",
+   "key": "工作|gong1 zuo4",
+   "hanzi": "工作",
+   "pinyin": "gōngzuò",
+   "numbered": "gong1 zuo4",
+   "variants": [
+    "gong1 zuo4"
+   ],
+   "speak": "工作",
+   "pos": [
+    "名",
+    "动"
+   ],
+   "en": "job; to work",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "travail ; travailler",
+   "tip": "工 work + 作 do."
+  },
+  {
+   "id": "hj1a-w065",
+   "key": "公斤|gong1 jin1",
+   "hanzi": "公斤",
+   "pinyin": "gōngjīn",
+   "numbered": "gong1 jin1",
+   "variants": [
+    "gong1 jin1"
+   ],
+   "speak": "公斤",
+   "pos": [
+    "量"
+   ],
+   "en": "kilogram",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "kilogramme",
+   "tip": "公 standard + 斤 jin: the \"official\" jin, the kilo."
+  },
+  {
+   "id": "hj1a-w066",
+   "key": "公司|gong1 si1",
+   "hanzi": "公司",
+   "pinyin": "gōngsī",
+   "numbered": "gong1 si1",
+   "variants": [
+    "gong1 si1"
+   ],
+   "speak": "公司",
+   "pos": [
+    "名"
+   ],
+   "en": "company",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "entreprise, société",
+   "tip": "公 public + 司 manage."
+  },
+  {
+   "id": "hj1a-w067",
+   "key": "贵|gui4",
+   "hanzi": "贵",
+   "pinyin": "guì",
+   "numbered": "gui4",
+   "variants": [
+    "gui4"
+   ],
+   "speak": "贵",
+   "pos": [
+    "形"
+   ],
+   "en": "expensive",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "cher",
+   "tip": "贝 money at the bottom: it costs a lot. 太贵了!",
+   "tipParts": [
+    [
+     "贝 money at the bottom: it costs a lot. ",
+     null
+    ],
+    [
+     "太贵了!",
+     "Tài guì le!"
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w068",
+   "key": "贵姓|gui4 xing4",
+   "hanzi": "贵姓",
+   "pinyin": "guìxìng",
+   "numbered": "gui4 xing4",
+   "variants": [
+    "gui4 xing4"
+   ],
+   "speak": "贵姓",
+   "pos": [
+    "名"
+   ],
+   "en": "your (honorable) family name",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "votre nom de famille (poli)",
+   "tip": "您贵姓? = \"your precious surname?\" Answer: 我姓…",
+   "tipParts": [
+    [
+     "您贵姓?",
+     "Nín guìxìng?"
+    ],
+    [
+     " = \"your precious surname?\" Answer: ",
+     null
+    ],
+    [
+     "我姓",
+     "wǒ xìng"
+    ],
+    [
+     "…",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w069",
+   "key": "国|guo2",
+   "hanzi": "国",
+   "pinyin": "guó",
+   "numbered": "guo2",
+   "variants": [
+    "guo2"
+   ],
+   "speak": "国",
+   "pos": [
+    "名"
+   ],
+   "en": "country; nation",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "pays, nation",
+   "tip": "A treasure 玉 inside borders 囗."
+  },
+  {
+   "id": "hj1a-w070",
+   "key": "还|hai2",
+   "hanzi": "还",
+   "pinyin": "hái",
+   "numbered": "hai2",
+   "variants": [
+    "hai2"
+   ],
+   "speak": "还",
+   "pos": [
+    "副"
+   ],
+   "en": "also; in addition; still",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "aussi, encore, en plus",
+   "tip": "还要别的吗? = anything else?",
+   "tipParts": [
+    [
+     "还要别的吗?",
+     "Hái yào bié de ma?"
+    ],
+    [
+     " = anything else?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w071",
+   "key": "还是|hai2 shi5",
+   "hanzi": "还是",
+   "pinyin": "háishi",
+   "numbered": "hai2 shi5",
+   "variants": [
+    "hai2 shi5"
+   ],
+   "speak": "还是",
+   "pos": [
+    "连"
+   ],
+   "en": "or",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "ou (dans une question)",
+   "tip": "Only in questions: 茶还是咖啡? = tea or coffee?",
+   "tipParts": [
+    [
+     "Only in questions: ",
+     null
+    ],
+    [
+     "茶还是咖啡?",
+     "Chá háishi kāfēi?"
+    ],
+    [
+     " = tea or coffee?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w072",
+   "key": "韩国语|han2 guo2 yu3",
+   "hanzi": "韩国语",
+   "pinyin": "Hánguóyǔ",
+   "numbered": "han2 guo2 yu3",
+   "variants": [
+    "han2 guo2 yu3"
+   ],
+   "speak": "韩国语",
+   "pos": [
+    "名"
+   ],
+   "en": "Korean (language)",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "coréen (langue)",
+   "tip": "韩国 Korea + 语 language.",
+   "tipParts": [
+    [
+     "韩国",
+     "hán guó"
+    ],
+    [
+     " Korea + 语 language.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w073",
+   "key": "韩文|han2 wen2",
+   "hanzi": "韩文",
+   "pinyin": "Hánwén",
+   "numbered": "han2 wen2",
+   "variants": [
+    "han2 wen2"
+   ],
+   "speak": "韩文",
+   "pos": [
+    "名"
+   ],
+   "en": "Korean",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "coréen (écrit)",
+   "tip": "韩 Hán is the \"Han\" of Hanguk, Korea."
+  },
+  {
+   "id": "hj1a-w074",
+   "key": "韩元|han2 yuan2",
+   "hanzi": "韩元",
+   "pinyin": "hányuán",
+   "numbered": "han2 yuan2",
+   "variants": [
+    "han2 yuan2"
+   ],
+   "speak": "韩元",
+   "pos": [
+    "名"
+   ],
+   "en": "South Korean won",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "won sud-coréen",
+   "tip": "韩 Korea + 元 currency unit."
+  },
+  {
+   "id": "hj1a-w075",
+   "key": "汉语|han4 yu3",
+   "hanzi": "汉语",
+   "pinyin": "Hànyǔ",
+   "numbered": "han4 yu3",
+   "variants": [
+    "han4 yu3"
+   ],
+   "speak": "汉语",
+   "pos": [
+    "名"
+   ],
+   "en": "Chinese (language)",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "chinois (langue)",
+   "tip": "汉 the Han people + 语 language."
+  },
+  {
+   "id": "hj1a-w076",
+   "key": "汉字|han4 zi4",
+   "hanzi": "汉字",
+   "pinyin": "Hànzì",
+   "numbered": "han4 zi4",
+   "variants": [
+    "han4 zi4"
+   ],
+   "speak": "汉字",
+   "pos": [
+    "名"
+   ],
+   "en": "Chinese characters",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "caractères chinois",
+   "tip": "汉 Han + 字 character."
+  },
+  {
+   "id": "hj1a-w077",
+   "key": "好|hao3",
+   "hanzi": "好",
+   "pinyin": "hǎo",
+   "numbered": "hao3",
+   "variants": [
+    "hao3"
+   ],
+   "speak": "好",
+   "pos": [
+    "形"
+   ],
+   "en": "good; fine",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "bien, bon",
+   "tip": "A woman with her child: good."
+  },
+  {
+   "id": "hj1a-w078",
+   "key": "好久|hao3 jiu3",
+   "hanzi": "好久",
+   "pinyin": "hǎojiǔ",
+   "numbered": "hao3 jiu3",
+   "variants": [
+    "hao3 jiu3"
+   ],
+   "speak": "好久",
+   "pos": [
+    "形"
+   ],
+   "en": "(for) a long time",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "longtemps",
+   "tip": "好久不见 = long time no see.",
+   "tipParts": [
+    [
+     "好久不见",
+     "hǎojiǔ bú jiàn"
+    ],
+    [
+     " = long time no see.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w079",
+   "key": "号|hao4",
+   "hanzi": "号",
+   "pinyin": "hào",
+   "numbered": "hao4",
+   "variants": [
+    "hao4"
+   ],
+   "speak": "号",
+   "pos": [
+    "名"
+   ],
+   "en": "number",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "numéro",
+   "tip": "几号? = which number? (also: what date?)",
+   "tipParts": [
+    [
+     "几号?",
+     "Jǐ hào?"
+    ],
+    [
+     " = which number? (also: what date?)",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w080",
+   "key": "号码|hao4 ma3",
+   "hanzi": "号码",
+   "pinyin": "hàomǎ",
+   "numbered": "hao4 ma3",
+   "variants": [
+    "hao4 ma3"
+   ],
+   "speak": "号码",
+   "pos": [
+    "名"
+   ],
+   "en": "number",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "numéro",
+   "tip": "电话号码 = phone number.",
+   "tipParts": [
+    [
+     "电话号码",
+     "diànhuà hàomǎ"
+    ],
+    [
+     " = phone number.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w081",
+   "key": "喝|he1",
+   "hanzi": "喝",
+   "pinyin": "hē",
+   "numbered": "he1",
+   "variants": [
+    "he1"
+   ],
+   "speak": "喝",
+   "pos": [
+    "动"
+   ],
+   "en": "to drink",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "boire",
+   "tip": "口 mouth: drink. 喝茶 = drink tea.",
+   "tipParts": [
+    [
+     "口 mouth: drink. ",
+     null
+    ],
+    [
+     "喝茶",
+     "hē chá"
+    ],
+    [
+     " = drink tea.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w082",
+   "key": "和|he2",
+   "hanzi": "和",
+   "pinyin": "hé",
+   "numbered": "he2",
+   "variants": [
+    "he2"
+   ],
+   "speak": "和",
+   "pos": [
+    "连"
+   ],
+   "en": "and",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "et",
+   "tip": "Joins nouns only: 我和你. Never joins two sentences.",
+   "tipParts": [
+    [
+     "Joins nouns only: ",
+     null
+    ],
+    [
+     "我和你",
+     "wǒ hé nǐ"
+    ],
+    [
+     ". Never joins two sentences.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w083",
+   "key": "黑|hei1",
+   "hanzi": "黑",
+   "pinyin": "hēi",
+   "numbered": "hei1",
+   "variants": [
+    "hei1"
+   ],
+   "speak": "黑",
+   "pos": [
+    "形"
+   ],
+   "en": "black",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "noir",
+   "tip": "Soot from a fire 灬: black."
+  },
+  {
+   "id": "hj1a-w084",
+   "key": "很|hen3",
+   "hanzi": "很",
+   "pinyin": "hěn",
+   "numbered": "hen3",
+   "variants": [
+    "hen3"
+   ],
+   "speak": "很",
+   "pos": [
+    "副"
+   ],
+   "en": "very",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "très",
+   "tip": "Often just links the adjective: 我很好.",
+   "tipParts": [
+    [
+     "Often just links the adjective: ",
+     null
+    ],
+    [
+     "我很好",
+     "wǒ hěn hǎo"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w085",
+   "key": "红|hong2",
+   "hanzi": "红",
+   "pinyin": "hóng",
+   "numbered": "hong2",
+   "variants": [
+    "hong2"
+   ],
+   "speak": "红",
+   "pos": [
+    "形"
+   ],
+   "en": "red",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "rouge",
+   "tip": "Dyed silk 纟: red."
+  },
+  {
+   "id": "hj1a-w086",
+   "key": "话|hua4",
+   "hanzi": "话",
+   "pinyin": "huà",
+   "numbered": "hua4",
+   "variants": [
+    "hua4"
+   ],
+   "speak": "话",
+   "pos": [
+    "名"
+   ],
+   "en": "words; speech",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "paroles, mots",
+   "tip": "说话 = to speak. 电话 = phone.",
+   "tipParts": [
+    [
+     "说话",
+     "shuō huà"
+    ],
+    [
+     " = to speak. ",
+     null
+    ],
+    [
+     "电话",
+     "diànhuà"
+    ],
+    [
+     " = phone.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w087",
+   "key": "欢迎|huan1 ying2",
+   "hanzi": "欢迎",
+   "pinyin": "huānyíng",
+   "numbered": "huan1 ying2",
+   "variants": [
+    "huan1 ying2"
+   ],
+   "speak": "欢迎",
+   "pos": [
+    "动"
+   ],
+   "en": "to welcome; to greet",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "accueillir, bienvenue",
+   "tip": "欢迎! = Welcome!",
+   "tipParts": [
+    [
+     "欢迎!",
+     "Huānyíng!"
+    ],
+    [
+     " = Welcome!",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w088",
+   "key": "换|huan4",
+   "hanzi": "换",
+   "pinyin": "huàn",
+   "numbered": "huan4",
+   "variants": [
+    "huan4"
+   ],
+   "speak": "换",
+   "pos": [
+    "动"
+   ],
+   "en": "to change; to exchange",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "changer, échanger",
+   "tip": "换钱 = to change money.",
+   "tipParts": [
+    [
+     "换钱",
+     "huàn qián"
+    ],
+    [
+     " = to change money.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w089",
+   "key": "回|hui2",
+   "hanzi": "回",
+   "pinyin": "huí",
+   "numbered": "hui2",
+   "variants": [
+    "hui2"
+   ],
+   "speak": "回",
+   "pos": [
+    "动"
+   ],
+   "en": "to come/go back (to)",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "rentrer, retourner (à)",
+   "tip": "回家 = to go home.",
+   "tipParts": [
+    [
+     "回家",
+     "huí jiā"
+    ],
+    [
+     " = to go home.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w090",
+   "key": "鸡|ji1",
+   "hanzi": "鸡",
+   "pinyin": "jī",
+   "numbered": "ji1",
+   "variants": [
+    "ji1"
+   ],
+   "speak": "鸡",
+   "pos": [
+    "名"
+   ],
+   "en": "chicken",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "poulet",
+   "tip": "鸟 bird on the right."
+  },
+  {
+   "id": "hj1a-w091",
+   "key": "鸡蛋|ji1 dan4",
+   "hanzi": "鸡蛋",
+   "pinyin": "jīdàn",
+   "numbered": "ji1 dan4",
+   "variants": [
+    "ji1 dan4"
+   ],
+   "speak": "鸡蛋",
+   "pos": [
+    "名"
+   ],
+   "en": "egg",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "œuf (de poule)",
+   "tip": "Chicken + egg."
+  },
+  {
+   "id": "hj1a-w092",
+   "key": "几|ji3",
+   "hanzi": "几",
+   "pinyin": "jǐ",
+   "numbered": "ji3",
+   "variants": [
+    "ji3"
+   ],
+   "speak": "几",
+   "pos": [
+    "代"
+   ],
+   "en": "how many; what; several",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "combien (petit nombre) ; quelques",
+   "tip": "For small numbers (under 10): 几个人? For bigger ones use 多少.",
+   "tipParts": [
+    [
+     "For small numbers (under 10): ",
+     null
+    ],
+    [
+     "几个人?",
+     "Jǐ gè rén?"
+    ],
+    [
+     " For bigger ones use ",
+     null
+    ],
+    [
+     "多少",
+     "duōshao"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w093",
+   "key": "寄|ji4",
+   "hanzi": "寄",
+   "pinyin": "jì",
+   "numbered": "ji4",
+   "variants": [
+    "ji4"
+   ],
+   "speak": "寄",
+   "pos": [
+    "动"
+   ],
+   "en": "to post; to mail; to send by mail",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "envoyer par la poste",
+   "tip": "寄信 = to mail a letter.",
+   "tipParts": [
+    [
+     "寄信",
+     "jì xìn"
+    ],
+    [
+     " = to mail a letter.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w094",
+   "key": "家|jia1",
+   "hanzi": "家",
+   "pinyin": "jiā",
+   "numbered": "jia1",
+   "variants": [
+    "jia1"
+   ],
+   "speak": "家",
+   "pos": [
+    "名",
+    "量"
+   ],
+   "en": "home; a measure word for families, companies, shops, etc.",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "maison, famille ; classificateur (familles, entreprises, magasins)",
+   "tip": "A pig under a roof: home. 一家商店 = one shop.",
+   "tipParts": [
+    [
+     "A pig under a roof: home. ",
+     null
+    ],
+    [
+     "一家商店",
+     "yì jiā shāngdiàn"
+    ],
+    [
+     " = one shop.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w095",
+   "key": "见|jian4",
+   "hanzi": "见",
+   "pinyin": "jiàn",
+   "numbered": "jian4",
+   "variants": [
+    "jian4"
+   ],
+   "speak": "见",
+   "pos": [
+    "动"
+   ],
+   "en": "to see",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "voir",
+   "tip": "再见 = see you again.",
+   "tipParts": [
+    [
+     "再见",
+     "zàijiàn"
+    ],
+    [
+     " = see you again.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w096",
+   "key": "件|jian4",
+   "hanzi": "件",
+   "pinyin": "jiàn",
+   "numbered": "jian4",
+   "variants": [
+    "jian4"
+   ],
+   "speak": "件",
+   "pos": [
+    "量"
+   ],
+   "en": "(a measure word for clothes, etc.) article; piece",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "classificateur des vêtements, affaires",
+   "tip": "一件衣服 = one piece of clothing.",
+   "tipParts": [
+    [
+     "一件衣服",
+     "yí jiàn yīfu"
+    ],
+    [
+     " = one piece of clothing.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w097",
+   "key": "角|jiao3",
+   "hanzi": "角(毛)",
+   "pinyin": "jiǎo (máo)",
+   "numbered": "jiao3",
+   "variants": [
+    "jiao3",
+    "mao2",
+    "jiao3 mao2"
+   ],
+   "speak": "角",
+   "pos": [
+    "量"
+   ],
+   "en": "jiao (mao), equal to 10% of one kuai",
+   "lesson": 8,
+   "kind": "word",
+   "alternates": [
+    {
+     "hanzi": "毛",
+     "pinyin": "máo"
+    }
+   ],
+   "fr": "jiao (mao), un dixième de kuai",
+   "tip": "角 is written, 毛 is spoken. 1 kuai = 10 mao."
+  },
+  {
+   "id": "hj1a-w098",
+   "key": "饺子|jiao3 zi5",
+   "hanzi": "饺子",
+   "pinyin": "jiǎozi",
+   "numbered": "jiao3 zi5",
+   "variants": [
+    "jiao3 zi5"
+   ],
+   "speak": "饺子",
+   "pos": [
+    "名"
+   ],
+   "en": "jiaozi; dumpling",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "raviolis chinois (jiaozi)",
+   "tip": "饣 food + 交 jiāo: dumplings."
+  },
+  {
+   "id": "hj1a-w099",
+   "key": "叫|jiao4",
+   "hanzi": "叫",
+   "pinyin": "jiào",
+   "numbered": "jiao4",
+   "variants": [
+    "jiao4"
+   ],
+   "speak": "叫",
+   "pos": [
+    "动"
+   ],
+   "en": "to call; to name",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "appeler ; s'appeler",
+   "tip": "我叫… = my name is…",
+   "tipParts": [
+    [
+     "我叫",
+     "wǒ jiào"
+    ],
+    [
+     "… = my name is…",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w100",
+   "key": "教授|jiao4 shou4",
+   "hanzi": "教授",
+   "pinyin": "jiàoshòu",
+   "numbered": "jiao4 shou4",
+   "variants": [
+    "jiao4 shou4"
+   ],
+   "speak": "教授",
+   "pos": [
+    "名"
+   ],
+   "en": "professor",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "professeur (d'université)",
+   "tip": "教 teach + 授 hand over knowledge."
+  },
+  {
+   "id": "hj1a-w101",
+   "key": "姐姐|jie3 jie5",
+   "hanzi": "姐姐",
+   "pinyin": "jiějie",
+   "numbered": "jie3 jie5",
+   "variants": [
+    "jie3 jie5"
+   ],
+   "speak": "姐姐",
+   "pos": [
+    "名"
+   ],
+   "en": "elder sister",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "grande sœur",
+   "tip": "女 woman: elder sister."
+  },
+  {
+   "id": "hj1a-w102",
+   "key": "介绍|jie4 shao4",
+   "hanzi": "介绍",
+   "pinyin": "jièshào",
+   "numbered": "jie4 shao4",
+   "variants": [
+    "jie4 shao4"
+   ],
+   "speak": "介绍",
+   "pos": [
+    "动"
+   ],
+   "en": "to introduce",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "présenter (quelqu'un)",
+   "tip": "我介绍一下 = let me introduce…",
+   "tipParts": [
+    [
+     "我介绍一下",
+     "wǒ jièshào yí xià"
+    ],
+    [
+     " = let me introduce…",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w103",
+   "key": "斤|jin1",
+   "hanzi": "斤",
+   "pinyin": "jīn",
+   "numbered": "jin1",
+   "variants": [
+    "jin1"
+   ],
+   "speak": "斤",
+   "pos": [
+    "量"
+   ],
+   "en": "jin, a unit of weight in China (1 jin = 0.5kg)",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "jin, unité de poids (500 g)",
+   "tip": "Half a kilo: 一斤苹果.",
+   "tipParts": [
+    [
+     "Half a kilo: ",
+     null
+    ],
+    [
+     "一斤苹果",
+     "yì jīn píngguǒ"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w104",
+   "key": "今天|jin1 tian1",
+   "hanzi": "今天",
+   "pinyin": "jīntiān",
+   "numbered": "jin1 tian1",
+   "variants": [
+    "jin1 tian1"
+   ],
+   "speak": "今天",
+   "pos": [
+    "名"
+   ],
+   "en": "today",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "aujourd'hui",
+   "tip": "今 now + 天 day."
+  },
+  {
+   "id": "hj1a-w105",
+   "key": "进|jin4",
+   "hanzi": "进",
+   "pinyin": "jìn",
+   "numbered": "jin4",
+   "variants": [
+    "jin4"
+   ],
+   "speak": "进",
+   "pos": [
+    "动"
+   ],
+   "en": "to enter; to come in",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "entrer",
+   "tip": "请进! = come in!",
+   "tipParts": [
+    [
+     "请进!",
+     "Qǐng jìn!"
+    ],
+    [
+     " = come in!",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w106",
+   "key": "经理|jing1 li3",
+   "hanzi": "经理",
+   "pinyin": "jīnglǐ",
+   "numbered": "jing1 li3",
+   "variants": [
+    "jing1 li3"
+   ],
+   "speak": "经理",
+   "pos": [
+    "名"
+   ],
+   "en": "manager",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "directeur, manager",
+   "tip": "经 manage + 理 manage."
+  },
+  {
+   "id": "hj1a-w107",
+   "key": "九|jiu3",
+   "hanzi": "九",
+   "pinyin": "jiǔ",
+   "numbered": "jiu3",
+   "variants": [
+    "jiu3"
+   ],
+   "speak": "九",
+   "pos": [
+    "数"
+   ],
+   "en": "nine",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "neuf",
+   "tip": "A bent arm."
+  },
+  {
+   "id": "hj1a-w108",
+   "key": "酒|jiu3",
+   "hanzi": "酒",
+   "pinyin": "jiǔ",
+   "numbered": "jiu3",
+   "variants": [
+    "jiu3"
+   ],
+   "speak": "酒",
+   "pos": [
+    "名"
+   ],
+   "en": "wine; alcoholic drink",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "vin, alcool",
+   "tip": "A wine jar 酉 with liquid 氵."
+  },
+  {
+   "id": "hj1a-w109",
+   "key": "旧|jiu4",
+   "hanzi": "旧",
+   "pinyin": "jiù",
+   "numbered": "jiu4",
+   "variants": [
+    "jiu4"
+   ],
+   "speak": "旧",
+   "pos": [
+    "形"
+   ],
+   "en": "old; used",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "vieux, usé",
+   "tip": "For things only, the opposite of 新. Old people are 老."
+  },
+  {
+   "id": "hj1a-w110",
+   "key": "橘子|ju2 zi5",
+   "hanzi": "橘子",
+   "pinyin": "júzi",
+   "numbered": "ju2 zi5",
+   "variants": [
+    "ju2 zi5"
+   ],
+   "speak": "橘子",
+   "pos": [
+    "名"
+   ],
+   "en": "tangerine",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "mandarine",
+   "tip": "木 tree fruit."
+  },
+  {
+   "id": "hj1a-w111",
+   "key": "觉得|jue2 de5",
+   "hanzi": "觉得",
+   "pinyin": "juéde",
+   "numbered": "jue2 de5",
+   "variants": [
+    "jue2 de5"
+   ],
+   "speak": "觉得",
+   "pos": [
+    "动"
+   ],
+   "en": "to feel; to think",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "trouver, penser",
+   "tip": "我觉得很好 = I think it's good.",
+   "tipParts": [
+    [
+     "我觉得很好",
+     "wǒ juéde hěn hǎo"
+    ],
+    [
+     " = I think it's good.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w112",
+   "key": "咖啡|ka1 fei1",
+   "hanzi": "咖啡",
+   "pinyin": "kāfēi",
+   "numbered": "ka1 fei1",
+   "variants": [
+    "ka1 fei1"
+   ],
+   "speak": "咖啡",
+   "pos": [
+    "名"
+   ],
+   "en": "coffee",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "café",
+   "tip": "kāfēi = \"coffee\"."
+  },
+  {
+   "id": "hj1a-w113",
+   "key": "开|kai1",
+   "hanzi": "开",
+   "pinyin": "kāi",
+   "numbered": "kai1",
+   "variants": [
+    "kai1"
+   ],
+   "speak": "开",
+   "pos": [
+    "动"
+   ],
+   "en": "to begin; to open",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "commencer ; ouvrir",
+   "tip": "开门 = open the door.",
+   "tipParts": [
+    [
+     "开门",
+     "kāi mén"
+    ],
+    [
+     " = open the door.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w114",
+   "key": "开学|kai1 xue2",
+   "hanzi": "开学",
+   "pinyin": "kāi xué",
+   "numbered": "kai1 xue2",
+   "variants": [
+    "kai1 xue2"
+   ],
+   "speak": "开学",
+   "pos": [
+    "动"
+   ],
+   "en": "term begins",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "rentrée, début du semestre",
+   "tip": "开 start + 学 school."
+  },
+  {
+   "id": "hj1a-w115",
+   "key": "看|kan4",
+   "hanzi": "看",
+   "pinyin": "kàn",
+   "numbered": "kan4",
+   "variants": [
+    "kan4"
+   ],
+   "speak": "看",
+   "pos": [
+    "动"
+   ],
+   "en": "to look at; to watch; to see",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "regarder, voir",
+   "tip": "A hand over the eye, looking far."
+  },
+  {
+   "id": "hj1a-w116",
+   "key": "客气|ke4 qi5",
+   "hanzi": "客气",
+   "pinyin": "kèqi",
+   "numbered": "ke4 qi5",
+   "variants": [
+    "ke4 qi5"
+   ],
+   "speak": "客气",
+   "pos": [
+    "形"
+   ],
+   "en": "polite; courteous",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "poli, courtois",
+   "tip": "不客气 = you're welcome.",
+   "tipParts": [
+    [
+     "不客气",
+     "bú kèqi"
+    ],
+    [
+     " = you're welcome.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w117",
+   "key": "口|kou3",
+   "hanzi": "口",
+   "pinyin": "kǒu",
+   "numbered": "kou3",
+   "variants": [
+    "kou3"
+   ],
+   "speak": "口",
+   "pos": [
+    "名",
+    "量"
+   ],
+   "en": "mouth; a measure word for family members",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "bouche ; classificateur des membres de la famille",
+   "tip": "你家有几口人? = how many people are in your family?",
+   "tipParts": [
+    [
+     "你家有几口人?",
+     "Nǐ jiā yǒu jǐ kǒu rén?"
+    ],
+    [
+     " = how many people are in your family?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w118",
+   "key": "块|kuai4",
+   "hanzi": "块(元)",
+   "pinyin": "kuài (yuán)",
+   "numbered": "kuai4",
+   "variants": [
+    "kuai4",
+    "yuan2",
+    "kuai4 yuan2"
+   ],
+   "speak": "块",
+   "pos": [
+    "量"
+   ],
+   "en": "kuai (yuan), a basic unit of money in China",
+   "lesson": 8,
+   "kind": "word",
+   "alternates": [
+    {
+     "hanzi": "元",
+     "pinyin": "yuán"
+    }
+   ],
+   "fr": "kuai (yuan), unité de base de la monnaie",
+   "tip": "块 is spoken, 元 is written: 十块 = ten yuan.",
+   "tipParts": [
+    [
+     "块 is spoken, 元 is written: ",
+     null
+    ],
+    [
+     "十块",
+     "shí kuài"
+    ],
+    [
+     " = ten yuan.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w119",
+   "key": "来|lai2",
+   "hanzi": "来",
+   "pinyin": "lái",
+   "numbered": "lai2",
+   "variants": [
+    "lai2"
+   ],
+   "speak": "来",
+   "pos": [
+    "动"
+   ],
+   "en": "to buy",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "prendre, acheter (au magasin)",
+   "tip": "In a shop: 来一斤 = I'll take one jin. (Usually it means \"to come\".)",
+   "tipParts": [
+    [
+     "In a shop: ",
+     null
+    ],
+    [
+     "来一斤",
+     "lái yì jīn"
+    ],
+    [
+     " = I'll take one jin. (Usually it means \"to come\".)",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w120",
+   "key": "蓝|lan2",
+   "hanzi": "蓝",
+   "pinyin": "lán",
+   "numbered": "lan2",
+   "variants": [
+    "lan2"
+   ],
+   "speak": "蓝",
+   "pos": [
+    "形"
+   ],
+   "en": "blue",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "bleu",
+   "tip": "The indigo plant 艹."
+  },
+  {
+   "id": "hj1a-w121",
+   "key": "老师|lao3 shi1",
+   "hanzi": "老师",
+   "pinyin": "lǎoshī",
+   "numbered": "lao3 shi1",
+   "variants": [
+    "lao3 shi1"
+   ],
+   "speak": "老师",
+   "pos": [
+    "名"
+   ],
+   "en": "teacher",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "professeur",
+   "tip": "老 experienced + 师 master."
+  },
+  {
+   "id": "hj1a-w122",
+   "key": "里|li3",
+   "hanzi": "里",
+   "pinyin": "li",
+   "numbered": "li5",
+   "variants": [
+    "li5"
+   ],
+   "speak": "里",
+   "pos": [
+    "名"
+   ],
+   "en": "inside",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "dans, à l'intérieur",
+   "tip": "教室里 = in the classroom.",
+   "tipParts": [
+    [
+     "教室里",
+     "jiàoshì li"
+    ],
+    [
+     " = in the classroom.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w123",
+   "key": "俩|lia3",
+   "hanzi": "俩",
+   "pinyin": "liǎ",
+   "numbered": "lia3",
+   "variants": [
+    "lia3"
+   ],
+   "speak": "俩",
+   "pos": [
+    "数"
+   ],
+   "en": "two",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "deux (personnes)",
+   "tip": "亻 + 两: two people. 我们俩 = the two of us.",
+   "tipParts": [
+    [
+     "亻 + 两: two people. ",
+     null
+    ],
+    [
+     "我们俩",
+     "wǒmen liǎ"
+    ],
+    [
+     " = the two of us.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w124",
+   "key": "两|liang3",
+   "hanzi": "两",
+   "pinyin": "liǎng",
+   "numbered": "liang3",
+   "variants": [
+    "liang3"
+   ],
+   "speak": "两",
+   "pos": [
+    "数"
+   ],
+   "en": "two",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "deux (devant un classificateur)",
+   "tip": "两个人 = two people. Use 两, not 二, before measure words.",
+   "tipParts": [
+    [
+     "两个人",
+     "liǎng gè rén"
+    ],
+    [
+     " = two people. Use 两, not 二, before measure words.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w125",
+   "key": "辆|liang4",
+   "hanzi": "辆",
+   "pinyin": "liàng",
+   "numbered": "liang4",
+   "variants": [
+    "liang4"
+   ],
+   "speak": "辆",
+   "pos": [
+    "量"
+   ],
+   "en": "a measure word for vehicles",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "classificateur des véhicules",
+   "tip": "车 + 两: 一辆车 = one car.",
+   "tipParts": [
+    [
+     "车 + 两: ",
+     null
+    ],
+    [
+     "一辆车",
+     "yí liàng chē"
+    ],
+    [
+     " = one car.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w126",
+   "key": "零|ling2",
+   "hanzi": "零(〇)",
+   "pinyin": "líng",
+   "numbered": "ling2",
+   "variants": [
+    "ling2"
+   ],
+   "speak": "零",
+   "pos": [
+    "数"
+   ],
+   "en": "zero",
+   "lesson": 10,
+   "kind": "word",
+   "alternates": [
+    {
+     "hanzi": "〇",
+     "pinyin": "líng"
+    }
+   ],
+   "fr": "zéro",
+   "tip": "Raindrops 雨: tiny leftovers, zero."
+  },
+  {
+   "id": "hj1a-w127",
+   "key": "留学|liu2 xue2",
+   "hanzi": "留学",
+   "pinyin": "liú xué",
+   "numbered": "liu2 xue2",
+   "variants": [
+    "liu2 xue2"
+   ],
+   "speak": "留学",
+   "pos": [
+    "动"
+   ],
+   "en": "to study abroad",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "étudier à l'étranger",
+   "tip": "留 stay + 学 study."
+  },
+  {
+   "id": "hj1a-w128",
+   "key": "留学生|liu2 xue2 sheng1",
+   "hanzi": "留学生",
+   "pinyin": "liúxuéshēng",
+   "numbered": "liu2 xue2 sheng1",
+   "variants": [
+    "liu2 xue2 sheng1"
+   ],
+   "speak": "留学生",
+   "pos": [
+    "名"
+   ],
+   "en": "international student",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "étudiant international",
+   "tip": "留学 + 生 student: 我是留学生.",
+   "tipParts": [
+    [
+     "留学",
+     "liú xué"
+    ],
+    [
+     " + 生 student: ",
+     null
+    ],
+    [
+     "我是留学生",
+     "wǒ shì liúxuéshēng"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w129",
+   "key": "六|liu4",
+   "hanzi": "六",
+   "pinyin": "liù",
+   "numbered": "liu4",
+   "variants": [
+    "liu4"
+   ],
+   "speak": "六",
+   "pos": [
+    "数"
+   ],
+   "en": "six",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "six",
+   "tip": "A roof shape."
+  },
+  {
+   "id": "hj1a-w130",
+   "key": "楼|lou2",
+   "hanzi": "楼",
+   "pinyin": "lóu",
+   "numbered": "lou2",
+   "variants": [
+    "lou2"
+   ],
+   "speak": "楼",
+   "pos": [
+    "名"
+   ],
+   "en": "building",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "bâtiment (à étages)",
+   "tip": "木 wood + 娄 lóu. 三楼 = third floor.",
+   "tipParts": [
+    [
+     "木 wood + 娄 lóu. ",
+     null
+    ],
+    [
+     "三楼",
+     "sān lóu"
+    ],
+    [
+     " = third floor.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w131",
+   "key": "律师|lv4 shi1",
+   "hanzi": "律师",
+   "pinyin": "lǜshī",
+   "numbered": "lv4 shi1",
+   "variants": [
+    "lv4 shi1"
+   ],
+   "speak": "律师",
+   "pos": [
+    "名"
+   ],
+   "en": "lawyer",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "avocat",
+   "tip": "律 law + 师 professional."
+  },
+  {
+   "id": "hj1a-w132",
+   "key": "妈妈|ma1 ma5",
+   "hanzi": "妈妈",
+   "pinyin": "māma",
+   "numbered": "ma1 ma5",
+   "variants": [
+    "ma1 ma5"
+   ],
+   "speak": "妈妈",
+   "pos": [
+    "名"
+   ],
+   "en": "mum",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "maman",
+   "tip": "女 woman + 马 mǎ (sound)."
+  },
+  {
+   "id": "hj1a-w133",
+   "key": "马|ma3",
+   "hanzi": "马",
+   "pinyin": "mǎ",
+   "numbered": "ma3",
+   "variants": [
+    "ma3"
+   ],
+   "speak": "马",
+   "pos": [
+    "名"
+   ],
+   "en": "horse",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "cheval",
+   "tip": "A galloping horse."
+  },
+  {
+   "id": "hj1a-w134",
+   "key": "马马虎虎|ma3 ma3 hu1 hu1",
+   "hanzi": "马马虎虎",
+   "pinyin": "mǎmǎhūhū",
+   "numbered": "ma3 ma3 hu1 hu1",
+   "variants": [
+    "ma3 ma3 hu1 hu1"
+   ],
+   "speak": "马马虎虎",
+   "pos": [
+    "形"
+   ],
+   "en": "so-so",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "comme ci comme ça",
+   "tip": "\"Horse-horse-tiger-tiger\": so-so."
+  },
+  {
+   "id": "hj1a-w135",
+   "key": "吗|ma5",
+   "hanzi": "吗",
+   "pinyin": "ma",
+   "numbered": "ma5",
+   "variants": [
+    "ma5"
+   ],
+   "speak": "吗",
+   "pos": [
+    "助"
+   ],
+   "en": "a particle used at the end of a question",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "particule interrogative",
+   "tip": "Add it at the end to make a yes/no question: 你好吗?",
+   "tipParts": [
+    [
+     "Add it at the end to make a yes/no question: ",
+     null
+    ],
+    [
+     "你好吗?",
+     "Nǐ hǎo ma?"
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w136",
+   "key": "买|mai3",
+   "hanzi": "买",
+   "pinyin": "mǎi",
+   "numbered": "mai3",
+   "variants": [
+    "mai3"
+   ],
+   "speak": "买",
+   "pos": [
+    "动"
+   ],
+   "en": "to buy",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "acheter",
+   "tip": "买 mǎi (3rd tone) = buy; 卖 mài (4th tone, extra 十 on top) = sell."
+  },
+  {
+   "id": "hj1a-w137",
+   "key": "卖|mai4",
+   "hanzi": "卖",
+   "pinyin": "mài",
+   "numbered": "mai4",
+   "variants": [
+    "mai4"
+   ],
+   "speak": "卖",
+   "pos": [
+    "动"
+   ],
+   "en": "to sell",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "vendre",
+   "tip": "The seller has something extra on top (十)."
+  },
+  {
+   "id": "hj1a-w138",
+   "key": "馒头|man2 tou5",
+   "hanzi": "馒头",
+   "pinyin": "mántou",
+   "numbered": "man2 tou5",
+   "variants": [
+    "man2 tou5"
+   ],
+   "speak": "馒头",
+   "pos": [
+    "名"
+   ],
+   "en": "mantou; steamed bun",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "mantou, pain cuit à la vapeur",
+   "tip": "饣 food + 头 head: a round bun like a head."
+  },
+  {
+   "id": "hj1a-w139",
+   "key": "忙|mang2",
+   "hanzi": "忙",
+   "pinyin": "máng",
+   "numbered": "mang2",
+   "variants": [
+    "mang2"
+   ],
+   "speak": "忙",
+   "pos": [
+    "形"
+   ],
+   "en": "busy",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "occupé",
+   "tip": "A heart 忄 that is lost 亡: too busy."
+  },
+  {
+   "id": "hj1a-w140",
+   "key": "毛笔|mao2 bi3",
+   "hanzi": "毛笔",
+   "pinyin": "máobǐ",
+   "numbered": "mao2 bi3",
+   "variants": [
+    "mao2 bi3"
+   ],
+   "speak": "毛笔",
+   "pos": [
+    "名"
+   ],
+   "en": "writing brush",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "pinceau (calligraphie)",
+   "tip": "毛 hair + 笔 pen."
+  },
+  {
+   "id": "hj1a-w141",
+   "key": "没有|mei2 you3",
+   "hanzi": "没(有)",
+   "pinyin": "méi (yǒu)",
+   "numbered": "mei2 you3",
+   "variants": [
+    "mei2 you3",
+    "mei2"
+   ],
+   "speak": "没有",
+   "pos": [
+    "动",
+    "副"
+   ],
+   "en": "not to have; not yet; did not",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "ne pas avoir ; pas encore ; ne pas avoir fait",
+   "tip": "The negative of 有: 我没有钱. Past actions: 我没去.",
+   "tipParts": [
+    [
+     "The negative of 有: ",
+     null
+    ],
+    [
+     "我没有钱",
+     "wǒ méiyǒu qián"
+    ],
+    [
+     ". Past actions: ",
+     null
+    ],
+    [
+     "我没去",
+     "wǒ méi qù"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w142",
+   "key": "没关系|mei2 guan1 xi5",
+   "hanzi": "没关系",
+   "pinyin": "méi guānxi",
+   "numbered": "mei2 guan1 xi5",
+   "variants": [
+    "mei2 guan1 xi5"
+   ],
+   "speak": "没关系",
+   "pos": [],
+   "en": "it doesn't matter; that's all right",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "ce n'est pas grave",
+   "tip": "The answer to 对不起. \"No connection\": no problem.",
+   "tipParts": [
+    [
+     "The answer to ",
+     null
+    ],
+    [
+     "对不起",
+     "duìbuqǐ"
+    ],
+    [
+     ". \"No connection\": no problem.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w143",
+   "key": "没什么|mei2 shen2 me5",
+   "hanzi": "没什么",
+   "pinyin": "méi shénme",
+   "numbered": "mei2 shen2 me5",
+   "variants": [
+    "mei2 shen2 me5"
+   ],
+   "speak": "没什么",
+   "pos": [],
+   "en": "it doesn't matter; never mind",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "ce n'est rien, peu importe",
+   "tip": "没 no + 什么 what: it's nothing.",
+   "tipParts": [
+    [
+     "没 no + ",
+     null
+    ],
+    [
+     "什么",
+     "shénme"
+    ],
+    [
+     " what: it's nothing.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w144",
+   "key": "美元|mei3 yuan2",
+   "hanzi": "美元",
+   "pinyin": "měiyuán",
+   "numbered": "mei3 yuan2",
+   "variants": [
+    "mei3 yuan2"
+   ],
+   "speak": "美元",
+   "pos": [
+    "名"
+   ],
+   "en": "US dollar",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "dollar américain",
+   "tip": "美国 USA + 元 currency.",
+   "tipParts": [
+    [
+     "美国",
+     "měi guó"
+    ],
+    [
+     " USA + 元 currency.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w145",
+   "key": "妹妹|mei4 mei5",
+   "hanzi": "妹妹",
+   "pinyin": "mèimei",
+   "numbered": "mei4 mei5",
+   "variants": [
+    "mei4 mei5"
+   ],
+   "speak": "妹妹",
+   "pos": [
+    "名"
+   ],
+   "en": "younger sister",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "petite sœur",
+   "tip": "女 woman + 未 (not yet grown up)."
+  },
+  {
+   "id": "hj1a-w146",
+   "key": "门|men2",
+   "hanzi": "门",
+   "pinyin": "mén",
+   "numbered": "men2",
+   "variants": [
+    "men2"
+   ],
+   "speak": "门",
+   "pos": [
+    "名"
+   ],
+   "en": "door; gate",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "porte, portail",
+   "tip": "A picture of a door."
+  },
+  {
+   "id": "hj1a-w147",
+   "key": "米|mi3",
+   "hanzi": "米",
+   "pinyin": "mǐ",
+   "numbered": "mi3",
+   "variants": [
+    "mi3"
+   ],
+   "speak": "米",
+   "pos": [
+    "名"
+   ],
+   "en": "rice",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "riz (grain)",
+   "tip": "Grains of rice."
+  },
+  {
+   "id": "hj1a-w148",
+   "key": "米饭|mi3 fan4",
+   "hanzi": "米饭",
+   "pinyin": "mǐfàn",
+   "numbered": "mi3 fan4",
+   "variants": [
+    "mi3 fan4"
+   ],
+   "speak": "米饭",
+   "pos": [
+    "名"
+   ],
+   "en": "cooked rice",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "riz cuit",
+   "tip": "米 rice + 饭 meal."
+  },
+  {
+   "id": "hj1a-w149",
+   "key": "秘书|mi4 shu1",
+   "hanzi": "秘书",
+   "pinyin": "mìshū",
+   "numbered": "mi4 shu1",
+   "variants": [
+    "mi4 shu1"
+   ],
+   "speak": "秘书",
+   "pos": [
+    "名"
+   ],
+   "en": "secretary",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "secrétaire",
+   "tip": "秘 secret + 书 writing: the keeper of documents."
+  },
+  {
+   "id": "hj1a-w150",
+   "key": "面条儿|mian4 tiaor2",
+   "hanzi": "面条儿",
+   "pinyin": "miàntiáor",
+   "numbered": "mian4 tiaor2",
+   "variants": [
+    "mian4 tiaor2"
+   ],
+   "speak": "面条儿",
+   "pos": [
+    "名"
+   ],
+   "en": "noodles",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "nouilles",
+   "tip": "面 flour + 条 long strips."
+  },
+  {
+   "id": "hj1a-w151",
+   "key": "名字|ming2 zi5",
+   "hanzi": "名字",
+   "pinyin": "míngzi",
+   "numbered": "ming2 zi5",
+   "variants": [
+    "ming2 zi5"
+   ],
+   "speak": "名字",
+   "pos": [
+    "名"
+   ],
+   "en": "name",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "nom, prénom",
+   "tip": "你叫什么名字? = what's your name?",
+   "tipParts": [
+    [
+     "你叫什么名字?",
+     "Nǐ jiào shénme míngzi?"
+    ],
+    [
+     " = what's your name?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w152",
+   "key": "明天|ming2 tian1",
+   "hanzi": "明天",
+   "pinyin": "míngtiān",
+   "numbered": "ming2 tian1",
+   "variants": [
+    "ming2 tian1"
+   ],
+   "speak": "明天",
+   "pos": [
+    "名"
+   ],
+   "en": "tomorrow",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "demain",
+   "tip": "明 bright + 天 day: the next bright day."
+  },
+  {
+   "id": "hj1a-w153",
+   "key": "摩托车|mo2 tuo1 che1",
+   "hanzi": "摩托车",
+   "pinyin": "mótuōchē",
+   "numbered": "mo2 tuo1 che1",
+   "variants": [
+    "mo2 tuo1 che1"
+   ],
+   "speak": "摩托车",
+   "pos": [
+    "名"
+   ],
+   "en": "motorcycle",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "moto",
+   "tip": "mótuō sounds like \"moto(r)\" + 车 vehicle."
+  },
+  {
+   "id": "hj1a-w154",
+   "key": "哪|na3",
+   "hanzi": "哪",
+   "pinyin": "nǎ",
+   "numbered": "na3",
+   "variants": [
+    "na3"
+   ],
+   "speak": "哪",
+   "pos": [
+    "代"
+   ],
+   "en": "which",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "quel",
+   "tip": "哪 = 那 + 口 mouth: asking \"which?\""
+  },
+  {
+   "id": "hj1a-w155",
+   "key": "哪儿|nar3",
+   "hanzi": "哪儿",
+   "pinyin": "nǎr",
+   "numbered": "nar3",
+   "variants": [
+    "nar3"
+   ],
+   "speak": "哪儿",
+   "pos": [
+    "代"
+   ],
+   "en": "where",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "où",
+   "tip": "你去哪儿? = where are you going?",
+   "tipParts": [
+    [
+     "你去哪儿?",
+     "Nǐ qù nǎr?"
+    ],
+    [
+     " = where are you going?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w156",
+   "key": "那|na4",
+   "hanzi": "那",
+   "pinyin": "nà",
+   "numbered": "na4",
+   "variants": [
+    "na4"
+   ],
+   "speak": "那",
+   "pos": [
+    "代"
+   ],
+   "en": "that",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "ce, cela (là-bas)",
+   "tip": "Far: 那 that. Near: 这 this."
+  },
+  {
+   "id": "hj1a-w157",
+   "key": "那儿|nar4",
+   "hanzi": "那儿",
+   "pinyin": "nàr",
+   "numbered": "nar4",
+   "variants": [
+    "nar4"
+   ],
+   "speak": "那儿",
+   "pos": [
+    "代"
+   ],
+   "en": "there",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "là-bas",
+   "tip": "那 + 儿: over there."
+  },
+  {
+   "id": "hj1a-w158",
+   "key": "那些|na4 xie1",
+   "hanzi": "那些",
+   "pinyin": "nàxiē",
+   "numbered": "na4 xie1",
+   "variants": [
+    "na4 xie1"
+   ],
+   "speak": "那些",
+   "pos": [
+    "代"
+   ],
+   "en": "those",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "ces… là, ceux-là",
+   "tip": "那 that + 些 some."
+  },
+  {
+   "id": "hj1a-w159",
+   "key": "男|nan2",
+   "hanzi": "男",
+   "pinyin": "nán",
+   "numbered": "nan2",
+   "variants": [
+    "nan2"
+   ],
+   "speak": "男",
+   "pos": [
+    "形"
+   ],
+   "en": "male",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "homme, masculin",
+   "tip": "Field + strength."
+  },
+  {
+   "id": "hj1a-w160",
+   "key": "难|nan2",
+   "hanzi": "难",
+   "pinyin": "nán",
+   "numbered": "nan2",
+   "variants": [
+    "nan2"
+   ],
+   "speak": "难",
+   "pos": [
+    "形"
+   ],
+   "en": "hard; difficult",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "difficile",
+   "tip": "Catching a bird by hand: hard!"
+  },
+  {
+   "id": "hj1a-w161",
+   "key": "呢|ne5",
+   "hanzi": "呢",
+   "pinyin": "ne",
+   "numbered": "ne5",
+   "variants": [
+    "ne5"
+   ],
+   "speak": "呢",
+   "pos": [
+    "助"
+   ],
+   "en": "a modal particle used at the end of a declarative sentence to indicate the continuation of an action or a situation",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "particule (action en cours ; « et toi ? »)",
+   "tip": "你呢? = and you?",
+   "tipParts": [
+    [
+     "你呢?",
+     "Nǐ ne?"
+    ],
+    [
+     " = and you?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w162",
+   "key": "你|ni3",
+   "hanzi": "你",
+   "pinyin": "nǐ",
+   "numbered": "ni3",
+   "variants": [
+    "ni3"
+   ],
+   "speak": "你",
+   "pos": [
+    "代"
+   ],
+   "en": "you (singular)",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "tu, toi",
+   "tip": "亻 person."
+  },
+  {
+   "id": "hj1a-w163",
+   "key": "你好|ni3 hao3",
+   "hanzi": "你好",
+   "pinyin": "nǐ hǎo",
+   "numbered": "ni3 hao3",
+   "variants": [
+    "ni3 hao3"
+   ],
+   "speak": "你好",
+   "pos": [],
+   "en": "Hello! How are you?",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "bonjour",
+   "tip": "You + good."
+  },
+  {
+   "id": "hj1a-w164",
+   "key": "你们|ni3 men5",
+   "hanzi": "你们",
+   "pinyin": "nǐmen",
+   "numbered": "ni3 men5",
+   "variants": [
+    "ni3 men5"
+   ],
+   "speak": "你们",
+   "pos": [
+    "代"
+   ],
+   "en": "you (plural)",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "vous (pluriel)",
+   "tip": "你 + 们 plural."
+  },
+  {
+   "id": "hj1a-w165",
+   "key": "您|nin2",
+   "hanzi": "您",
+   "pinyin": "nín",
+   "numbered": "nin2",
+   "variants": [
+    "nin2"
+   ],
+   "speak": "您",
+   "pos": [
+    "代"
+   ],
+   "en": "you (honorific)",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "vous (politesse)",
+   "tip": "你 with a heart 心 below: respect."
+  },
+  {
+   "id": "hj1a-w166",
+   "key": "女|nv3",
+   "hanzi": "女",
+   "pinyin": "nǚ",
+   "numbered": "nv3",
+   "variants": [
+    "nv3"
+   ],
+   "speak": "女",
+   "pos": [
+    "形"
+   ],
+   "en": "female",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "femme, féminin",
+   "tip": "A kneeling woman."
+  },
+  {
+   "id": "hj1a-w167",
+   "key": "欧元|ou1 yuan2",
+   "hanzi": "欧元",
+   "pinyin": "ōuyuán",
+   "numbered": "ou1 yuan2",
+   "variants": [
+    "ou1 yuan2"
+   ],
+   "speak": "欧元",
+   "pos": [
+    "名"
+   ],
+   "en": "euro",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "euro",
+   "tip": "欧 Ōu = Europe + 元 currency."
+  },
+  {
+   "id": "hj1a-w168",
+   "key": "朋友|peng2 you5",
+   "hanzi": "朋友",
+   "pinyin": "péngyou",
+   "numbered": "peng2 you5",
+   "variants": [
+    "peng2 you5"
+   ],
+   "speak": "朋友",
+   "pos": [
+    "名"
+   ],
+   "en": "friend",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "ami",
+   "tip": "Two moons side by side + two hands joined."
+  },
+  {
+   "id": "hj1a-w169",
+   "key": "啤酒|pi2 jiu3",
+   "hanzi": "啤酒",
+   "pinyin": "píjiǔ",
+   "numbered": "pi2 jiu3",
+   "variants": [
+    "pi2 jiu3"
+   ],
+   "speak": "啤酒",
+   "pos": [
+    "名"
+   ],
+   "en": "beer",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "bière",
+   "tip": "啤 pí sounds like \"bee(r)\" + 酒 alcohol."
+  },
+  {
+   "id": "hj1a-w170",
+   "key": "便宜|pian2 yi5",
+   "hanzi": "便宜",
+   "pinyin": "piányi",
+   "numbered": "pian2 yi5",
+   "variants": [
+    "pian2 yi5"
+   ],
+   "speak": "便宜",
+   "pos": [
+    "形"
+   ],
+   "en": "inexpensive; cheap",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "bon marché",
+   "tip": "piányi: the opposite of 贵."
+  },
+  {
+   "id": "hj1a-w171",
+   "key": "平板电脑|ping2 ban3 dian4 nao3",
+   "hanzi": "平板电脑",
+   "pinyin": "píngbǎn diànnǎo",
+   "numbered": "ping2 ban3 dian4 nao3",
+   "variants": [
+    "ping2 ban3 dian4 nao3"
+   ],
+   "speak": "平板电脑",
+   "pos": [],
+   "en": "tablet PC",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "tablette",
+   "tip": "平板 flat board + 电脑 computer.",
+   "tipParts": [
+    [
+     "平板",
+     "píng bǎn"
+    ],
+    [
+     " flat board + ",
+     null
+    ],
+    [
+     "电脑",
+     "diànnǎo"
+    ],
+    [
+     " computer.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w172",
+   "key": "苹果|ping2 guo3",
+   "hanzi": "苹果",
+   "pinyin": "píngguǒ",
+   "numbered": "ping2 guo3",
+   "variants": [
+    "ping2 guo3"
+   ],
+   "speak": "苹果",
+   "pos": [
+    "名"
+   ],
+   "en": "apple",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "pomme",
+   "tip": "苹 píng + 果 fruit."
+  },
+  {
+   "id": "hj1a-w173",
+   "key": "七|qi1",
+   "hanzi": "七",
+   "pinyin": "qī",
+   "numbered": "qi1",
+   "variants": [
+    "qi1"
+   ],
+   "speak": "七",
+   "pos": [
+    "数"
+   ],
+   "en": "seven",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "sept",
+   "tip": "A line cut by a hook."
+  },
+  {
+   "id": "hj1a-w174",
+   "key": "汽车|qi4 che1",
+   "hanzi": "汽车",
+   "pinyin": "qìchē",
+   "numbered": "qi4 che1",
+   "variants": [
+    "qi4 che1"
+   ],
+   "speak": "汽车",
+   "pos": [
+    "名"
+   ],
+   "en": "auto; car; bus",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "voiture, bus",
+   "tip": "汽 steam + 车 vehicle."
+  },
+  {
+   "id": "hj1a-w175",
+   "key": "千|qian1",
+   "hanzi": "千",
+   "pinyin": "qiān",
+   "numbered": "qian1",
+   "variants": [
+    "qian1"
+   ],
+   "speak": "千",
+   "pos": [
+    "数"
+   ],
+   "en": "thousand",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "mille",
+   "tip": "一千 = 1,000.",
+   "tipParts": [
+    [
+     "一千",
+     "yī qiān"
+    ],
+    [
+     " = 1,000.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w176",
+   "key": "钱|qian2",
+   "hanzi": "钱",
+   "pinyin": "qián",
+   "numbered": "qian2",
+   "variants": [
+    "qian2"
+   ],
+   "speak": "钱",
+   "pos": [
+    "名"
+   ],
+   "en": "money",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "argent",
+   "tip": "钅 metal coins."
+  },
+  {
+   "id": "hj1a-w177",
+   "key": "轻|qing1",
+   "hanzi": "轻",
+   "pinyin": "qīng",
+   "numbered": "qing1",
+   "variants": [
+    "qing1"
+   ],
+   "speak": "轻",
+   "pos": [
+    "形"
+   ],
+   "en": "light",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "léger",
+   "tip": "The opposite of 重 heavy."
+  },
+  {
+   "id": "hj1a-w178",
+   "key": "请|qing3",
+   "hanzi": "请",
+   "pinyin": "qǐng",
+   "numbered": "qing3",
+   "variants": [
+    "qing3"
+   ],
+   "speak": "请",
+   "pos": [
+    "动"
+   ],
+   "en": "please",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "s'il vous plaît ; inviter",
+   "tip": "请进 = please come in.",
+   "tipParts": [
+    [
+     "请进",
+     "qǐng jìn"
+    ],
+    [
+     " = please come in.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w179",
+   "key": "请问|qing3 wen4",
+   "hanzi": "请问",
+   "pinyin": "qǐngwèn",
+   "numbered": "qing3 wen4",
+   "variants": [
+    "qing3 wen4"
+   ],
+   "speak": "请问",
+   "pos": [
+    "动"
+   ],
+   "en": "excuse me, may I ask...",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "excusez-moi, puis-je demander…",
+   "tip": "请 please + 问 ask."
+  },
+  {
+   "id": "hj1a-w180",
+   "key": "取|qu3",
+   "hanzi": "取",
+   "pinyin": "qǔ",
+   "numbered": "qu3",
+   "variants": [
+    "qu3"
+   ],
+   "speak": "取",
+   "pos": [
+    "动"
+   ],
+   "en": "to draw; to get; to collect",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "retirer, prendre, récupérer",
+   "tip": "取钱 = to withdraw money.",
+   "tipParts": [
+    [
+     "取钱",
+     "qǔ qián"
+    ],
+    [
+     " = to withdraw money.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w181",
+   "key": "去|qu4",
+   "hanzi": "去",
+   "pinyin": "qù",
+   "numbered": "qu4",
+   "variants": [
+    "qu4"
+   ],
+   "speak": "去",
+   "pos": [
+    "动"
+   ],
+   "en": "to go",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "aller",
+   "tip": "我去银行 = I'm going to the bank.",
+   "tipParts": [
+    [
+     "我去银行",
+     "wǒ qù yínháng"
+    ],
+    [
+     " = I'm going to the bank.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w182",
+   "key": "全|quan2",
+   "hanzi": "全",
+   "pinyin": "quán",
+   "numbered": "quan2",
+   "variants": [
+    "quan2"
+   ],
+   "speak": "全",
+   "pos": [
+    "形",
+    "副"
+   ],
+   "en": "whole; all; wholly",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "tout, entier ; entièrement",
+   "tip": "全家 = the whole family.",
+   "tipParts": [
+    [
+     "全家",
+     "quán jiā"
+    ],
+    [
+     " = the whole family.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w183",
+   "key": "人|ren2",
+   "hanzi": "人",
+   "pinyin": "rén",
+   "numbered": "ren2",
+   "variants": [
+    "ren2"
+   ],
+   "speak": "人",
+   "pos": [
+    "名"
+   ],
+   "en": "human being; person",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "personne, être humain",
+   "tip": "Two legs walking."
+  },
+  {
+   "id": "hj1a-w184",
+   "key": "人民币|ren2 min2 bi4",
+   "hanzi": "人民币",
+   "pinyin": "rénmínbì",
+   "numbered": "ren2 min2 bi4",
+   "variants": [
+    "ren2 min2 bi4"
+   ],
+   "speak": "人民币",
+   "pos": [
+    "名"
+   ],
+   "en": "Renminbi (RMB), the official currency of China",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "renminbi (RMB), monnaie officielle chinoise",
+   "tip": "人民 the people + 币 currency.",
+   "tipParts": [
+    [
+     "人民",
+     "rén mín"
+    ],
+    [
+     " the people + 币 currency.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w185",
+   "key": "认识|ren4 shi5",
+   "hanzi": "认识",
+   "pinyin": "rènshi",
+   "numbered": "ren4 shi5",
+   "variants": [
+    "ren4 shi5"
+   ],
+   "speak": "认识",
+   "pos": [
+    "动"
+   ],
+   "en": "to know",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "connaître (quelqu'un)",
+   "tip": "认识你很高兴 = nice to meet you.",
+   "tipParts": [
+    [
+     "认识你很高兴",
+     "rènshi nǐ hěn gāoxìng"
+    ],
+    [
+     " = nice to meet you.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w186",
+   "key": "日|ri4",
+   "hanzi": "日",
+   "pinyin": "rì",
+   "numbered": "ri4",
+   "variants": [
+    "ri4"
+   ],
+   "speak": "日",
+   "pos": [
+    "名"
+   ],
+   "en": "sun; day",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "soleil ; jour",
+   "tip": "A picture of the sun."
+  },
+  {
+   "id": "hj1a-w187",
+   "key": "日文|ri4 wen2",
+   "hanzi": "日文",
+   "pinyin": "Rìwén",
+   "numbered": "ri4 wen2",
+   "variants": [
+    "ri4 wen2"
+   ],
+   "speak": "日文",
+   "pos": [
+    "名"
+   ],
+   "en": "Japanese",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "japonais (écrit)",
+   "tip": "日本 Japan + 文.",
+   "tipParts": [
+    [
+     "日本",
+     "rì běn"
+    ],
+    [
+     " Japan + 文.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w188",
+   "key": "日用品|ri4 yong4 pin3",
+   "hanzi": "日用品",
+   "pinyin": "rìyòngpǐn",
+   "numbered": "ri4 yong4 pin3",
+   "variants": [
+    "ri4 yong4 pin3"
+   ],
+   "speak": "日用品",
+   "pos": [
+    "名"
+   ],
+   "en": "daily necessities",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "articles du quotidien",
+   "tip": "日 daily + 用 use + 品 goods."
+  },
+  {
+   "id": "hj1a-w189",
+   "key": "日语|ri4 yu3",
+   "hanzi": "日语",
+   "pinyin": "Rìyǔ",
+   "numbered": "ri4 yu3",
+   "variants": [
+    "ri4 yu3"
+   ],
+   "speak": "日语",
+   "pos": [
+    "名"
+   ],
+   "en": "Japanese (language)",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "japonais (langue)",
+   "tip": "日本 Japan + 语.",
+   "tipParts": [
+    [
+     "日本",
+     "rì běn"
+    ],
+    [
+     " Japan + 语.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w190",
+   "key": "日元|ri4 yuan2",
+   "hanzi": "日元",
+   "pinyin": "rìyuán",
+   "numbered": "ri4 yuan2",
+   "variants": [
+    "ri4 yuan2"
+   ],
+   "speak": "日元",
+   "pos": [
+    "名"
+   ],
+   "en": "Japanese yen",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "yen japonais",
+   "tip": "日本 Japan + 元 currency.",
+   "tipParts": [
+    [
+     "日本",
+     "rì běn"
+    ],
+    [
+     " Japan + 元 currency.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w191",
+   "key": "容易|rong2 yi4",
+   "hanzi": "容易",
+   "pinyin": "róngyì",
+   "numbered": "rong2 yi4",
+   "variants": [
+    "rong2 yi4"
+   ],
+   "speak": "容易",
+   "pos": [
+    "形"
+   ],
+   "en": "easy",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "facile",
+   "tip": "The opposite of 难."
+  },
+  {
+   "id": "hj1a-w192",
+   "key": "三|san1",
+   "hanzi": "三",
+   "pinyin": "sān",
+   "numbered": "san1",
+   "variants": [
+    "san1"
+   ],
+   "speak": "三",
+   "pos": [
+    "数"
+   ],
+   "en": "three",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "trois",
+   "tip": "Three lines."
+  },
+  {
+   "id": "hj1a-w193",
+   "key": "商店|shang1 dian4",
+   "hanzi": "商店",
+   "pinyin": "shāngdiàn",
+   "numbered": "shang1 dian4",
+   "variants": [
+    "shang1 dian4"
+   ],
+   "speak": "商店",
+   "pos": [
+    "名"
+   ],
+   "en": "shop; store",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "magasin",
+   "tip": "商 commerce + 店 shop."
+  },
+  {
+   "id": "hj1a-w194",
+   "key": "上午|shang4 wu3",
+   "hanzi": "上午",
+   "pinyin": "shàngwǔ",
+   "numbered": "shang4 wu3",
+   "variants": [
+    "shang4 wu3"
+   ],
+   "speak": "上午",
+   "pos": [
+    "名"
+   ],
+   "en": "morning",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "matin",
+   "tip": "上 before + 午 noon."
+  },
+  {
+   "id": "hj1a-w195",
+   "key": "少|shao3",
+   "hanzi": "少",
+   "pinyin": "shǎo",
+   "numbered": "shao3",
+   "variants": [
+    "shao3"
+   ],
+   "speak": "少",
+   "pos": [
+    "形"
+   ],
+   "en": "few; little",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "peu (nombreux)",
+   "tip": "The opposite of 多."
+  },
+  {
+   "id": "hj1a-w196",
+   "key": "谁|shei2",
+   "hanzi": "谁",
+   "pinyin": "shéi/shuí",
+   "numbered": "shei2",
+   "variants": [
+    "shei2",
+    "shui2"
+   ],
+   "speak": "谁",
+   "pos": [
+    "代"
+   ],
+   "en": "who",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "qui",
+   "tip": "他是谁? Both shéi and shuí are correct.",
+   "tipParts": [
+    [
+     "他是谁?",
+     "Tā shì shéi?"
+    ],
+    [
+     " Both shéi and shuí are correct.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w197",
+   "key": "身|shen1",
+   "hanzi": "身",
+   "pinyin": "shēn",
+   "numbered": "shen1",
+   "variants": [
+    "shen1"
+   ],
+   "speak": "身",
+   "pos": [
+    "名"
+   ],
+   "en": "body",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "corps",
+   "tip": "The profile of a body."
+  },
+  {
+   "id": "hj1a-w198",
+   "key": "身体|shen1 ti3",
+   "hanzi": "身体",
+   "pinyin": "shēntǐ",
+   "numbered": "shen1 ti3",
+   "variants": [
+    "shen1 ti3"
+   ],
+   "speak": "身体",
+   "pos": [
+    "名"
+   ],
+   "en": "health; body",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "santé ; corps",
+   "tip": "你身体好吗? = how is your health?",
+   "tipParts": [
+    [
+     "你身体好吗?",
+     "Nǐ shēntǐ hǎo ma?"
+    ],
+    [
+     " = how is your health?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w199",
+   "key": "什么|shen2 me5",
+   "hanzi": "什么",
+   "pinyin": "shénme",
+   "numbered": "shen2 me5",
+   "variants": [
+    "shen2 me5"
+   ],
+   "speak": "什么",
+   "pos": [
+    "代"
+   ],
+   "en": "what",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "quoi, quel",
+   "tip": "这是什么? = what is this?",
+   "tipParts": [
+    [
+     "这是什么?",
+     "Zhè shì shénme?"
+    ],
+    [
+     " = what is this?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w200",
+   "key": "十|shi2",
+   "hanzi": "十",
+   "pinyin": "shí",
+   "numbered": "shi2",
+   "variants": [
+    "shi2"
+   ],
+   "speak": "十",
+   "pos": [
+    "数"
+   ],
+   "en": "ten",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "dix",
+   "tip": "A cross."
+  },
+  {
+   "id": "hj1a-w201",
+   "key": "食堂|shi2 tang2",
+   "hanzi": "食堂",
+   "pinyin": "shítáng",
+   "numbered": "shi2 tang2",
+   "variants": [
+    "shi2 tang2"
+   ],
+   "speak": "食堂",
+   "pos": [
+    "名"
+   ],
+   "en": "dining hall",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "cantine",
+   "tip": "食 food + 堂 hall."
+  },
+  {
+   "id": "hj1a-w202",
+   "key": "是|shi4",
+   "hanzi": "是",
+   "pinyin": "shì",
+   "numbered": "shi4",
+   "variants": [
+    "shi4"
+   ],
+   "speak": "是",
+   "pos": [
+    "动"
+   ],
+   "en": "to be (am, are, is, etc.)",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "être (suis, es, est…)",
+   "tip": "Links two nouns: 我是学生. Not used with adjectives: 我很好, not 我是好.",
+   "tipParts": [
+    [
+     "Links two nouns: ",
+     null
+    ],
+    [
+     "我是学生",
+     "wǒ shì xuésheng"
+    ],
+    [
+     ". Not used with adjectives: ",
+     null
+    ],
+    [
+     "我很好",
+     "wǒ hěn hǎo"
+    ],
+    [
+     ", not ",
+     null
+    ],
+    [
+     "我是好",
+     "wǒ shì hǎo"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w203",
+   "key": "手|shou3",
+   "hanzi": "手",
+   "pinyin": "shǒu",
+   "numbered": "shou3",
+   "variants": [
+    "shou3"
+   ],
+   "speak": "手",
+   "pos": [
+    "名"
+   ],
+   "en": "hand",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "main",
+   "tip": "Spread fingers."
+  },
+  {
+   "id": "hj1a-w204",
+   "key": "手机|shou3 ji1",
+   "hanzi": "手机",
+   "pinyin": "shǒujī",
+   "numbered": "shou3 ji1",
+   "variants": [
+    "shou3 ji1"
+   ],
+   "speak": "手机",
+   "pos": [
+    "名"
+   ],
+   "en": "mobile phone",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "téléphone portable",
+   "tip": "手 hand + 机 machine."
+  },
+  {
+   "id": "hj1a-w205",
+   "key": "书|shu1",
+   "hanzi": "书",
+   "pinyin": "shū",
+   "numbered": "shu1",
+   "variants": [
+    "shu1"
+   ],
+   "speak": "书",
+   "pos": [
+    "名"
+   ],
+   "en": "book",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "livre",
+   "tip": "一本书 = one book.",
+   "tipParts": [
+    [
+     "一本书",
+     "yì běn shū"
+    ],
+    [
+     " = one book.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w206",
+   "key": "数|shu3",
+   "hanzi": "数",
+   "pinyin": "shǔ",
+   "numbered": "shu3",
+   "variants": [
+    "shu3"
+   ],
+   "speak": "数",
+   "pos": [
+    "动"
+   ],
+   "en": "to count",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "compter",
+   "tip": "Read shǔ (3rd tone) when it's the verb \"to count\"."
+  },
+  {
+   "id": "hj1a-w207",
+   "key": "水果|shui3 guo3",
+   "hanzi": "水果",
+   "pinyin": "shuǐguǒ",
+   "numbered": "shui3 guo3",
+   "variants": [
+    "shui3 guo3"
+   ],
+   "speak": "水果",
+   "pos": [
+    "名"
+   ],
+   "en": "fruit",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "fruit",
+   "tip": "水 water + 果 fruit: juicy fruit."
+  },
+  {
+   "id": "hj1a-w208",
+   "key": "说|shuo1",
+   "hanzi": "说",
+   "pinyin": "shuō",
+   "numbered": "shuo1",
+   "variants": [
+    "shuo1"
+   ],
+   "speak": "说",
+   "pos": [
+    "动"
+   ],
+   "en": "to say; to speak",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "dire, parler",
+   "tip": "说汉语 = speak Chinese.",
+   "tipParts": [
+    [
+     "说汉语",
+     "shuō Hànyǔ"
+    ],
+    [
+     " = speak Chinese.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w209",
+   "key": "四|si4",
+   "hanzi": "四",
+   "pinyin": "sì",
+   "numbered": "si4",
+   "variants": [
+    "si4"
+   ],
+   "speak": "四",
+   "pos": [
+    "数"
+   ],
+   "en": "four",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "quatre",
+   "tip": "Four walls."
+  },
+  {
+   "id": "hj1a-w210",
+   "key": "他|ta1",
+   "hanzi": "他",
+   "pinyin": "tā",
+   "numbered": "ta1",
+   "variants": [
+    "ta1"
+   ],
+   "speak": "他",
+   "pos": [
+    "代"
+   ],
+   "en": "he; him",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "il, lui",
+   "tip": "亻 a man."
+  },
+  {
+   "id": "hj1a-w211",
+   "key": "她|ta1",
+   "hanzi": "她",
+   "pinyin": "tā",
+   "numbered": "ta1",
+   "variants": [
+    "ta1"
+   ],
+   "speak": "她",
+   "pos": [
+    "代"
+   ],
+   "en": "she; her",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "elle",
+   "tip": "女 a woman."
+  },
+  {
+   "id": "hj1a-w212",
+   "key": "他们|ta1 men5",
+   "hanzi": "他们",
+   "pinyin": "tāmen",
+   "numbered": "ta1 men5",
+   "variants": [
+    "ta1 men5"
+   ],
+   "speak": "他们",
+   "pos": [
+    "代"
+   ],
+   "en": "they; them",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "ils, eux",
+   "tip": "他 + 们 plural."
+  },
+  {
+   "id": "hj1a-w213",
+   "key": "太|tai4",
+   "hanzi": "太",
+   "pinyin": "tài",
+   "numbered": "tai4",
+   "variants": [
+    "tai4"
+   ],
+   "speak": "太",
+   "pos": [
+    "副"
+   ],
+   "en": "excessively; too; over",
+   "lesson": 2,
+   "kind": "word",
+   "fr": "trop, excessivement",
+   "tip": "太贵了! = too expensive!",
+   "tipParts": [
+    [
+     "太贵了!",
+     "Tài guì le!"
+    ],
+    [
+     " = too expensive!",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w214",
+   "key": "太了|tai4 le5",
+   "hanzi": "太……了",
+   "pinyin": "tài……le",
+   "numbered": "tai4 le5",
+   "variants": [
+    "tai4 le5"
+   ],
+   "speak": "太了",
+   "pos": [],
+   "en": "too; excessively",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "trop… ; tellement… !",
+   "tip": "太好了! = great! 太贵了 = too expensive.",
+   "tipParts": [
+    [
+     "太好了!",
+     "Tài hǎo le!"
+    ],
+    [
+     " = great! ",
+     null
+    ],
+    [
+     "太贵了",
+     "tài guì le"
+    ],
+    [
+     " = too expensive.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w215",
+   "key": "汤|tang1",
+   "hanzi": "汤",
+   "pinyin": "tāng",
+   "numbered": "tang1",
+   "variants": [
+    "tang1"
+   ],
+   "speak": "汤",
+   "pos": [
+    "名"
+   ],
+   "en": "soup",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "soupe",
+   "tip": "氵 liquid."
+  },
+  {
+   "id": "hj1a-w216",
+   "key": "天|tian1",
+   "hanzi": "天",
+   "pinyin": "tiān",
+   "numbered": "tian1",
+   "variants": [
+    "tian1"
+   ],
+   "speak": "天",
+   "pos": [
+    "名"
+   ],
+   "en": "day",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "jour",
+   "tip": "今天 today, 明天 tomorrow, 昨天 yesterday.",
+   "tipParts": [
+    [
+     "今天",
+     "jīntiān"
+    ],
+    [
+     " today, ",
+     null
+    ],
+    [
+     "明天",
+     "míngtiān"
+    ],
+    [
+     " tomorrow, ",
+     null
+    ],
+    [
+     "昨天",
+     "zuótiān"
+    ],
+    [
+     " yesterday.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w217",
+   "key": "听|ting1",
+   "hanzi": "听",
+   "pinyin": "tīng",
+   "numbered": "ting1",
+   "variants": [
+    "ting1"
+   ],
+   "speak": "听",
+   "pos": [
+    "动"
+   ],
+   "en": "to listen",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "écouter",
+   "tip": "听我说 = listen to me.",
+   "tipParts": [
+    [
+     "听我说",
+     "tīng wǒ shuō"
+    ],
+    [
+     " = listen to me.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w218",
+   "key": "同屋|tong2 wu1",
+   "hanzi": "同屋",
+   "pinyin": "tóngwū",
+   "numbered": "tong2 wu1",
+   "variants": [
+    "tong2 wu1"
+   ],
+   "speak": "同屋",
+   "pos": [
+    "名"
+   ],
+   "en": "roommate",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "colocataire",
+   "tip": "同 same + 屋 room."
+  },
+  {
+   "id": "hj1a-w219",
+   "key": "同学|tong2 xue2",
+   "hanzi": "同学",
+   "pinyin": "tóngxué",
+   "numbered": "tong2 xue2",
+   "variants": [
+    "tong2 xue2"
+   ],
+   "speak": "同学",
+   "pos": [
+    "名"
+   ],
+   "en": "classmate; schoolmate",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "camarade de classe",
+   "tip": "同 same + 学 study."
+  },
+  {
+   "id": "hj1a-w220",
+   "key": "图书馆|tu2 shu1 guan3",
+   "hanzi": "图书馆",
+   "pinyin": "túshūguǎn",
+   "numbered": "tu2 shu1 guan3",
+   "variants": [
+    "tu2 shu1 guan3"
+   ],
+   "speak": "图书馆",
+   "pos": [
+    "名"
+   ],
+   "en": "library",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "bibliothèque",
+   "tip": "图 picture + 书 book + 馆 building."
+  },
+  {
+   "id": "hj1a-w221",
+   "key": "外国|wai4 guo2",
+   "hanzi": "外国",
+   "pinyin": "wàiguó",
+   "numbered": "wai4 guo2",
+   "variants": [
+    "wai4 guo2"
+   ],
+   "speak": "外国",
+   "pos": [
+    "名"
+   ],
+   "en": "foreign country",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "pays étranger",
+   "tip": "外 outside + 国 country. 外国人 = foreigner.",
+   "tipParts": [
+    [
+     "外 outside + 国 country. ",
+     null
+    ],
+    [
+     "外国人",
+     "wàiguó rén"
+    ],
+    [
+     " = foreigner.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w222",
+   "key": "外贸|wai4 mao4",
+   "hanzi": "外贸",
+   "pinyin": "wàimào",
+   "numbered": "wai4 mao4",
+   "variants": [
+    "wai4 mao4"
+   ],
+   "speak": "外贸",
+   "pos": [
+    "名"
+   ],
+   "en": "foreign trade",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "commerce extérieur",
+   "tip": "外 foreign + 贸 trade."
+  },
+  {
+   "id": "hj1a-w223",
+   "key": "碗|wan3",
+   "hanzi": "碗",
+   "pinyin": "wǎn",
+   "numbered": "wan3",
+   "variants": [
+    "wan3"
+   ],
+   "speak": "碗",
+   "pos": [
+    "名"
+   ],
+   "en": "bowl",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "bol",
+   "tip": "一碗米饭 = a bowl of rice.",
+   "tipParts": [
+    [
+     "一碗米饭",
+     "yì wǎn mǐfàn"
+    ],
+    [
+     " = a bowl of rice.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w224",
+   "key": "万|wan4",
+   "hanzi": "万",
+   "pinyin": "wàn",
+   "numbered": "wan4",
+   "variants": [
+    "wan4"
+   ],
+   "speak": "万",
+   "pos": [
+    "数"
+   ],
+   "en": "ten thousand",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "dix mille",
+   "tip": "一万 = 10,000. Chinese counts big numbers in units of 10,000.",
+   "tipParts": [
+    [
+     "一万",
+     "yī wàn"
+    ],
+    [
+     " = 10,000. Chinese counts big numbers in units of 10,000.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w225",
+   "key": "位|wei4",
+   "hanzi": "位",
+   "pinyin": "wèi",
+   "numbered": "wei4",
+   "variants": [
+    "wei4"
+   ],
+   "speak": "位",
+   "pos": [
+    "量"
+   ],
+   "en": "a measure word for people",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "classificateur poli des personnes",
+   "tip": "这位老师 = this teacher (polite).",
+   "tipParts": [
+    [
+     "这位老师",
+     "zhè wèi lǎoshī"
+    ],
+    [
+     " = this teacher (polite).",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w226",
+   "key": "文|wen2",
+   "hanzi": "……文",
+   "pinyin": "……wén",
+   "numbered": "wen2",
+   "variants": [
+    "wen2"
+   ],
+   "speak": "文",
+   "pos": [],
+   "en": "(written) language",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "langue (écrite)",
+   "tip": "Add it to a country: 法文, 日文.",
+   "tipParts": [
+    [
+     "Add it to a country: ",
+     null
+    ],
+    [
+     "法文",
+     "Fǎwén"
+    ],
+    [
+     ", ",
+     null
+    ],
+    [
+     "日文",
+     "Rìwén"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w227",
+   "key": "问|wen4",
+   "hanzi": "问",
+   "pinyin": "wèn",
+   "numbered": "wen4",
+   "variants": [
+    "wen4"
+   ],
+   "speak": "问",
+   "pos": [
+    "动"
+   ],
+   "en": "to ask; to inquire",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "demander, interroger",
+   "tip": "A mouth at the door, asking."
+  },
+  {
+   "id": "hj1a-w228",
+   "key": "我|wo3",
+   "hanzi": "我",
+   "pinyin": "wǒ",
+   "numbered": "wo3",
+   "variants": [
+    "wo3"
+   ],
+   "speak": "我",
+   "pos": [
+    "代"
+   ],
+   "en": "I; me",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "je, moi",
+   "tip": "A hand holding a weapon."
+  },
+  {
+   "id": "hj1a-w229",
+   "key": "我们|wo3 men5",
+   "hanzi": "我们",
+   "pinyin": "wǒmen",
+   "numbered": "wo3 men5",
+   "variants": [
+    "wo3 men5"
+   ],
+   "speak": "我们",
+   "pos": [
+    "代"
+   ],
+   "en": "we; us",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "nous",
+   "tip": "我 + 们 plural."
+  },
+  {
+   "id": "hj1a-w230",
+   "key": "五|wu3",
+   "hanzi": "五",
+   "pinyin": "wǔ",
+   "numbered": "wu3",
+   "variants": [
+    "wu3"
+   ],
+   "speak": "五",
+   "pos": [
+    "数"
+   ],
+   "en": "five",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "cinq",
+   "tip": "Count on one hand."
+  },
+  {
+   "id": "hj1a-w231",
+   "key": "西班牙文|xi1 ban1 ya2 wen2",
+   "hanzi": "西班牙文",
+   "pinyin": "Xībānyáwén",
+   "numbered": "xi1 ban1 ya2 wen2",
+   "variants": [
+    "xi1 ban1 ya2 wen2"
+   ],
+   "speak": "西班牙文",
+   "pos": [
+    "名"
+   ],
+   "en": "Spanish",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "espagnol (écrit)",
+   "tip": "西班牙 Xībānyá sounds like \"España\".",
+   "tipParts": [
+    [
+     "西班牙",
+     "xī bān yá"
+    ],
+    [
+     " Xībānyá sounds like \"España\".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w232",
+   "key": "西班牙语|xi1 ban1 ya2 yu3",
+   "hanzi": "西班牙语",
+   "pinyin": "Xībānyáyǔ",
+   "numbered": "xi1 ban1 ya2 yu3",
+   "variants": [
+    "xi1 ban1 ya2 yu3"
+   ],
+   "speak": "西班牙语",
+   "pos": [
+    "名"
+   ],
+   "en": "Spanish (language)",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "espagnol (langue)",
+   "tip": "西班牙 Spain + 语.",
+   "tipParts": [
+    [
+     "西班牙",
+     "xī bān yá"
+    ],
+    [
+     " Spain + 语.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w233",
+   "key": "西药|xi1 yao4",
+   "hanzi": "西药",
+   "pinyin": "xīyào",
+   "numbered": "xi1 yao4",
+   "variants": [
+    "xi1 yao4"
+   ],
+   "speak": "西药",
+   "pos": [
+    "名"
+   ],
+   "en": "Western medicine",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "médecine occidentale",
+   "tip": "西 west + 药 medicine."
+  },
+  {
+   "id": "hj1a-w234",
+   "key": "下午|xia4 wu3",
+   "hanzi": "下午",
+   "pinyin": "xiàwǔ",
+   "numbered": "xia4 wu3",
+   "variants": [
+    "xia4 wu3"
+   ],
+   "speak": "下午",
+   "pos": [
+    "名"
+   ],
+   "en": "afternoon",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "après-midi",
+   "tip": "下 after + 午 noon."
+  },
+  {
+   "id": "hj1a-w235",
+   "key": "先|xian1",
+   "hanzi": "先",
+   "pinyin": "xiān",
+   "numbered": "xian1",
+   "variants": [
+    "xian1"
+   ],
+   "speak": "先",
+   "pos": [
+    "副"
+   ],
+   "en": "first",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "d'abord",
+   "tip": "先…再… = first… then…"
+  },
+  {
+   "id": "hj1a-w236",
+   "key": "先生|xian1 sheng5",
+   "hanzi": "先生",
+   "pinyin": "xiānsheng",
+   "numbered": "xian1 sheng5",
+   "variants": [
+    "xian1 sheng5"
+   ],
+   "speak": "先生",
+   "pos": [
+    "名"
+   ],
+   "en": "Mr.; sir",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "monsieur",
+   "tip": "先 first + 生 born: someone born before you, \"Mr.\""
+  },
+  {
+   "id": "hj1a-w237",
+   "key": "箱子|xiang1 zi5",
+   "hanzi": "箱子",
+   "pinyin": "xiāngzi",
+   "numbered": "xiang1 zi5",
+   "variants": [
+    "xiang1 zi5"
+   ],
+   "speak": "箱子",
+   "pos": [
+    "名"
+   ],
+   "en": "box; case; trunk",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "boîte, caisse, valise",
+   "tip": "⺮ bamboo: a bamboo box."
+  },
+  {
+   "id": "hj1a-w238",
+   "key": "小|xiao3",
+   "hanzi": "小",
+   "pinyin": "xiǎo",
+   "numbered": "xiao3",
+   "variants": [
+    "xiao3"
+   ],
+   "speak": "小",
+   "pos": [
+    "形"
+   ],
+   "en": "small",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "petit",
+   "tip": "A small stroke with two dots."
+  },
+  {
+   "id": "hj1a-w239",
+   "key": "小姐|xiao3 jie3",
+   "hanzi": "小姐",
+   "pinyin": "xiǎojiě",
+   "numbered": "xiao3 jie3",
+   "variants": [
+    "xiao3 jie3"
+   ],
+   "speak": "小姐",
+   "pos": [
+    "名"
+   ],
+   "en": "Miss; young lady",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "mademoiselle",
+   "tip": "小 young + 姐 lady."
+  },
+  {
+   "id": "hj1a-w240",
+   "key": "校长|xiao4 zhang3",
+   "hanzi": "校长",
+   "pinyin": "xiàozhǎng",
+   "numbered": "xiao4 zhang3",
+   "variants": [
+    "xiao4 zhang3"
+   ],
+   "speak": "校长",
+   "pos": [
+    "名"
+   ],
+   "en": "president (of a university); principal",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "directeur, président (d'université)",
+   "tip": "校 school + 长 head."
+  },
+  {
+   "id": "hj1a-w241",
+   "key": "些|xie1",
+   "hanzi": "些",
+   "pinyin": "xiē",
+   "numbered": "xie1",
+   "variants": [
+    "xie1"
+   ],
+   "speak": "些",
+   "pos": [
+    "量"
+   ],
+   "en": "some",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "quelques",
+   "tip": "一些, 这些, 那些.",
+   "tipParts": [
+    [
+     "一些",
+     "yìxiē"
+    ],
+    [
+     ", ",
+     null
+    ],
+    [
+     "这些",
+     "zhèxiē"
+    ],
+    [
+     ", ",
+     null
+    ],
+    [
+     "那些",
+     "nàxiē"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w242",
+   "key": "写|xie3",
+   "hanzi": "写",
+   "pinyin": "xiě",
+   "numbered": "xie3",
+   "variants": [
+    "xie3"
+   ],
+   "speak": "写",
+   "pos": [
+    "动"
+   ],
+   "en": "to write",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "écrire",
+   "tip": "写汉字 = to write characters.",
+   "tipParts": [
+    [
+     "写汉字",
+     "xiě Hànzì"
+    ],
+    [
+     " = to write characters.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w243",
+   "key": "谢谢|xie4 xie5",
+   "hanzi": "谢谢",
+   "pinyin": "xièxie",
+   "numbered": "xie4 xie5",
+   "variants": [
+    "xie4 xie5"
+   ],
+   "speak": "谢谢",
+   "pos": [
+    "动"
+   ],
+   "en": "to thank",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "remercier ; merci",
+   "tip": "讠 words of thanks. The answer is 不客气.",
+   "tipParts": [
+    [
+     "讠 words of thanks. The answer is ",
+     null
+    ],
+    [
+     "不客气",
+     "bú kèqi"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w244",
+   "key": "新|xin1",
+   "hanzi": "新",
+   "pinyin": "xīn",
+   "numbered": "xin1",
+   "variants": [
+    "xin1"
+   ],
+   "speak": "新",
+   "pos": [
+    "形"
+   ],
+   "en": "new",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "nouveau",
+   "tip": "Freshly cut wood."
+  },
+  {
+   "id": "hj1a-w245",
+   "key": "信|xin4",
+   "hanzi": "信",
+   "pinyin": "xìn",
+   "numbered": "xin4",
+   "variants": [
+    "xin4"
+   ],
+   "speak": "信",
+   "pos": [
+    "名"
+   ],
+   "en": "letter; mail",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "lettre, courrier",
+   "tip": "A person's 亻 word 言."
+  },
+  {
+   "id": "hj1a-w246",
+   "key": "星期|xing1 qi1",
+   "hanzi": "星期",
+   "pinyin": "xīngqī",
+   "numbered": "xing1 qi1",
+   "variants": [
+    "xing1 qi1"
+   ],
+   "speak": "星期",
+   "pos": [
+    "名"
+   ],
+   "en": "week",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "semaine",
+   "tip": "星 star + 期 period."
+  },
+  {
+   "id": "hj1a-w247",
+   "key": "星期二|xing1 qi1 er4",
+   "hanzi": "星期二",
+   "pinyin": "Xīngqī'èr",
+   "numbered": "xing1 qi1 er4",
+   "variants": [
+    "xing1 qi1 er4"
+   ],
+   "speak": "星期二",
+   "pos": [
+    "名"
+   ],
+   "en": "Tuesday",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "mardi",
+   "tip": "星期 + 二: day two of the week.",
+   "tipParts": [
+    [
+     "星期",
+     "xīngqī"
+    ],
+    [
+     " + 二: day two of the week.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w248",
+   "key": "星期六|xing1 qi1 liu4",
+   "hanzi": "星期六",
+   "pinyin": "Xīngqīliù",
+   "numbered": "xing1 qi1 liu4",
+   "variants": [
+    "xing1 qi1 liu4"
+   ],
+   "speak": "星期六",
+   "pos": [
+    "名"
+   ],
+   "en": "Saturday",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "samedi",
+   "tip": "星期 + 六: day six.",
+   "tipParts": [
+    [
+     "星期",
+     "xīngqī"
+    ],
+    [
+     " + 六: day six.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w249",
+   "key": "星期三|xing1 qi1 san1",
+   "hanzi": "星期三",
+   "pinyin": "Xīngqīsān",
+   "numbered": "xing1 qi1 san1",
+   "variants": [
+    "xing1 qi1 san1"
+   ],
+   "speak": "星期三",
+   "pos": [
+    "名"
+   ],
+   "en": "Wednesday",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "mercredi",
+   "tip": "星期 + 三: day three.",
+   "tipParts": [
+    [
+     "星期",
+     "xīngqī"
+    ],
+    [
+     " + 三: day three.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w250",
+   "key": "星期四|xing1 qi1 si4",
+   "hanzi": "星期四",
+   "pinyin": "Xīngqīsì",
+   "numbered": "xing1 qi1 si4",
+   "variants": [
+    "xing1 qi1 si4"
+   ],
+   "speak": "星期四",
+   "pos": [
+    "名"
+   ],
+   "en": "Thursday",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "jeudi",
+   "tip": "星期 + 四: day four.",
+   "tipParts": [
+    [
+     "星期",
+     "xīngqī"
+    ],
+    [
+     " + 四: day four.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w251",
+   "key": "星期天|xing1 qi1 tian1",
+   "hanzi": "星期天",
+   "pinyin": "Xīngqītiān",
+   "numbered": "xing1 qi1 tian1",
+   "variants": [
+    "xing1 qi1 tian1"
+   ],
+   "speak": "星期天",
+   "pos": [
+    "名"
+   ],
+   "en": "Sunday",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "dimanche",
+   "tip": "The only day without a number: 天 (or 日)."
+  },
+  {
+   "id": "hj1a-w252",
+   "key": "星期五|xing1 qi1 wu3",
+   "hanzi": "星期五",
+   "pinyin": "Xīngqīwǔ",
+   "numbered": "xing1 qi1 wu3",
+   "variants": [
+    "xing1 qi1 wu3"
+   ],
+   "speak": "星期五",
+   "pos": [
+    "名"
+   ],
+   "en": "Friday",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "vendredi",
+   "tip": "星期 + 五: day five.",
+   "tipParts": [
+    [
+     "星期",
+     "xīngqī"
+    ],
+    [
+     " + 五: day five.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w253",
+   "key": "星期一|xing1 qi1 yi1",
+   "hanzi": "星期一",
+   "pinyin": "Xīngqīyī",
+   "numbered": "xing1 qi1 yi1",
+   "variants": [
+    "xing1 qi1 yi1"
+   ],
+   "speak": "星期一",
+   "pos": [
+    "名"
+   ],
+   "en": "Monday",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "lundi",
+   "tip": "星期 + 一: day one.",
+   "tipParts": [
+    [
+     "星期",
+     "xīngqī"
+    ],
+    [
+     " + 一: day one.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w254",
+   "key": "姓|xing4",
+   "hanzi": "姓",
+   "pinyin": "xìng",
+   "numbered": "xing4",
+   "variants": [
+    "xing4"
+   ],
+   "speak": "姓",
+   "pos": [
+    "动",
+    "名"
+   ],
+   "en": "to be surnamed; family name",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "s'appeler (nom de famille) ; nom de famille",
+   "tip": "我姓王 = my surname is Wang.",
+   "tipParts": [
+    [
+     "我姓王",
+     "wǒ xìng wáng"
+    ],
+    [
+     " = my surname is Wang.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w255",
+   "key": "学|xue2",
+   "hanzi": "学",
+   "pinyin": "xué",
+   "numbered": "xue2",
+   "variants": [
+    "xue2"
+   ],
+   "speak": "学",
+   "pos": [
+    "动"
+   ],
+   "en": "to learn; to study",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "apprendre, étudier",
+   "tip": "A child learning under a roof."
+  },
+  {
+   "id": "hj1a-w256",
+   "key": "学生|xue2 sheng1",
+   "hanzi": "学生",
+   "pinyin": "xuésheng",
+   "numbered": "xue2 sheng5",
+   "variants": [
+    "xue2 sheng5"
+   ],
+   "speak": "学生",
+   "pos": [
+    "名"
+   ],
+   "en": "student",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "étudiant, élève",
+   "tip": "学 study + 生 person."
+  },
+  {
+   "id": "hj1a-w257",
+   "key": "学习|xue2 xi2",
+   "hanzi": "学习",
+   "pinyin": "xuéxí",
+   "numbered": "xue2 xi2",
+   "variants": [
+    "xue2 xi2"
+   ],
+   "speak": "学习",
+   "pos": [
+    "动"
+   ],
+   "en": "to study; to learn",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "étudier, apprendre",
+   "tip": "学 learn + 习 practice."
+  },
+  {
+   "id": "hj1a-w258",
+   "key": "学校|xue2 xiao4",
+   "hanzi": "学校",
+   "pinyin": "xuéxiào",
+   "numbered": "xue2 xiao4",
+   "variants": [
+    "xue2 xiao4"
+   ],
+   "speak": "学校",
+   "pos": [
+    "名"
+   ],
+   "en": "school",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "école",
+   "tip": "学 study + 校 school."
+  },
+  {
+   "id": "hj1a-w259",
+   "key": "颜色|yan2 se4",
+   "hanzi": "颜色",
+   "pinyin": "yánsè",
+   "numbered": "yan2 se4",
+   "variants": [
+    "yan2 se4"
+   ],
+   "speak": "颜色",
+   "pos": [
+    "名"
+   ],
+   "en": "color",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "couleur",
+   "tip": "什么颜色? = what color?",
+   "tipParts": [
+    [
+     "什么颜色?",
+     "Shénme yánsè?"
+    ],
+    [
+     " = what color?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w260",
+   "key": "药|yao4",
+   "hanzi": "药",
+   "pinyin": "yào",
+   "numbered": "yao4",
+   "variants": [
+    "yao4"
+   ],
+   "speak": "药",
+   "pos": [
+    "名"
+   ],
+   "en": "medicine; drug",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "médicament",
+   "tip": "艹 herbs."
+  },
+  {
+   "id": "hj1a-w261",
+   "key": "要|yao4",
+   "hanzi": "要",
+   "pinyin": "yào",
+   "numbered": "yao4",
+   "variants": [
+    "yao4"
+   ],
+   "speak": "要",
+   "pos": [
+    "动"
+   ],
+   "en": "to want; to desire",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "vouloir, désirer",
+   "tip": "我要… = I want…",
+   "tipParts": [
+    [
+     "我要",
+     "wǒ yào"
+    ],
+    [
+     "… = I want…",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w262",
+   "key": "也|ye3",
+   "hanzi": "也",
+   "pinyin": "yě",
+   "numbered": "ye3",
+   "variants": [
+    "ye3"
+   ],
+   "speak": "也",
+   "pos": [
+    "副"
+   ],
+   "en": "also; too",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "aussi",
+   "tip": "Goes before the verb: 我也是 = me too.",
+   "tipParts": [
+    [
+     "Goes before the verb: ",
+     null
+    ],
+    [
+     "我也是",
+     "wǒ yě shì"
+    ],
+    [
+     " = me too.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w263",
+   "key": "一|yi1",
+   "hanzi": "一",
+   "pinyin": "yī",
+   "numbered": "yi1",
+   "variants": [
+    "yi1"
+   ],
+   "speak": "一",
+   "pos": [
+    "数"
+   ],
+   "en": "one",
+   "lesson": 1,
+   "kind": "word",
+   "fr": "un",
+   "tip": "Watch the tone: yī alone, yí before a 4th tone, yì before the others."
+  },
+  {
+   "id": "hj1a-w264",
+   "key": "衣服|yi1 fu5",
+   "hanzi": "衣服",
+   "pinyin": "yīfu",
+   "numbered": "yi1 fu5",
+   "variants": [
+    "yi1 fu5"
+   ],
+   "speak": "衣服",
+   "pos": [
+    "名"
+   ],
+   "en": "clothes",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "vêtements",
+   "tip": "A robe with a collar."
+  },
+  {
+   "id": "hj1a-w265",
+   "key": "医院|yi1 yuan4",
+   "hanzi": "医院",
+   "pinyin": "yīyuàn",
+   "numbered": "yi1 yuan4",
+   "variants": [
+    "yi1 yuan4"
+   ],
+   "speak": "医院",
+   "pos": [
+    "名"
+   ],
+   "en": "hospital",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "hôpital",
+   "tip": "医 medicine + 院 institution."
+  },
+  {
+   "id": "hj1a-w266",
+   "key": "一共|yi1 gong4",
+   "hanzi": "一共",
+   "pinyin": "yígòng",
+   "numbered": "yi2 gong4",
+   "variants": [
+    "yi2 gong4"
+   ],
+   "speak": "一共",
+   "pos": [
+    "副"
+   ],
+   "en": "altogether",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "au total",
+   "tip": "一共多少钱? = how much altogether?",
+   "tipParts": [
+    [
+     "一共多少钱?",
+     "Yígòng duōshao qián?"
+    ],
+    [
+     " = how much altogether?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w267",
+   "key": "一会儿|yi1 huir4",
+   "hanzi": "一会儿",
+   "pinyin": "yíhuìr",
+   "numbered": "yi2 huir4",
+   "variants": [
+    "yi2 huir4"
+   ],
+   "speak": "一会儿",
+   "pos": [
+    "数量"
+   ],
+   "en": "a little while",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "un petit moment",
+   "tip": "等一会儿 = wait a moment.",
+   "tipParts": [
+    [
+     "等一会儿",
+     "děng yíhuìr"
+    ],
+    [
+     " = wait a moment.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w268",
+   "key": "一下|yi1 xia4",
+   "hanzi": "一下儿",
+   "pinyin": "yíxiàr",
+   "numbered": "yi2 xiar4",
+   "variants": [
+    "yi2 xiar4"
+   ],
+   "speak": "一下儿",
+   "pos": [
+    "数量"
+   ],
+   "en": "a quantifier used after a verb to indicate a short action or a try",
+   "lesson": 11,
+   "kind": "word",
+   "fr": "(après un verbe) un peu, rapidement, pour essayer",
+   "tip": "看一下儿 = have a quick look.",
+   "tipParts": [
+    [
+     "看一下儿",
+     "kàn yíxiàr"
+    ],
+    [
+     " = have a quick look.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w269",
+   "key": "一些|yi1 xie1",
+   "hanzi": "一些",
+   "pinyin": "yìxiē",
+   "numbered": "yi4 xie1",
+   "variants": [
+    "yi4 xie1"
+   ],
+   "speak": "一些",
+   "pos": [
+    "数量"
+   ],
+   "en": "some; a few; a little",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "quelques, un peu",
+   "tip": "一些水果 = some fruit.",
+   "tipParts": [
+    [
+     "一些水果",
+     "yìxiē shuǐguǒ"
+    ],
+    [
+     " = some fruit.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w270",
+   "key": "银行|yin2 hang2",
+   "hanzi": "银行",
+   "pinyin": "yínháng",
+   "numbered": "yin2 hang2",
+   "variants": [
+    "yin2 hang2"
+   ],
+   "speak": "银行",
+   "pos": [
+    "名"
+   ],
+   "en": "bank",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "banque",
+   "tip": "银 silver + 行 firm."
+  },
+  {
+   "id": "hj1a-w271",
+   "key": "英文|ying1 wen2",
+   "hanzi": "英文",
+   "pinyin": "Yīngwén",
+   "numbered": "ying1 wen2",
+   "variants": [
+    "ying1 wen2"
+   ],
+   "speak": "英文",
+   "pos": [
+    "名"
+   ],
+   "en": "English",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "anglais (écrit)",
+   "tip": "英国 + 文.",
+   "tipParts": [
+    [
+     "英国",
+     "yīng guó"
+    ],
+    [
+     " + 文.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w272",
+   "key": "英语|ying1 yu3",
+   "hanzi": "英语",
+   "pinyin": "Yīngyǔ",
+   "numbered": "ying1 yu3",
+   "variants": [
+    "ying1 yu3"
+   ],
+   "speak": "英语",
+   "pos": [
+    "名"
+   ],
+   "en": "English (language)",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "anglais (langue)",
+   "tip": "英 yīng sounds like \"Eng(land)\"."
+  },
+  {
+   "id": "hj1a-w273",
+   "key": "营业员|ying2 ye4 yuan2",
+   "hanzi": "营业员",
+   "pinyin": "yíngyèyuán",
+   "numbered": "ying2 ye4 yuan2",
+   "variants": [
+    "ying2 ye4 yuan2"
+   ],
+   "speak": "营业员",
+   "pos": [
+    "名"
+   ],
+   "en": "clerk",
+   "lesson": 9,
+   "kind": "word",
+   "fr": "vendeur, employé de magasin",
+   "tip": "营业 doing business + 员 staff.",
+   "tipParts": [
+    [
+     "营业",
+     "yíng yè"
+    ],
+    [
+     " doing business + 员 staff.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w274",
+   "key": "优盘|you1 pan2",
+   "hanzi": "优盘",
+   "pinyin": "yōupán",
+   "numbered": "you1 pan2",
+   "variants": [
+    "you1 pan2"
+   ],
+   "speak": "优盘",
+   "pos": [
+    "名"
+   ],
+   "en": "USB flash drive",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "clé USB",
+   "tip": "优 excellent + 盘 disk."
+  },
+  {
+   "id": "hj1a-w275",
+   "key": "邮局|you2 ju2",
+   "hanzi": "邮局",
+   "pinyin": "yóujú",
+   "numbered": "you2 ju2",
+   "variants": [
+    "you2 ju2"
+   ],
+   "speak": "邮局",
+   "pos": [
+    "名"
+   ],
+   "en": "post office",
+   "lesson": 3,
+   "kind": "word",
+   "fr": "bureau de poste",
+   "tip": "邮 post + 局 office."
+  },
+  {
+   "id": "hj1a-w276",
+   "key": "有|you3",
+   "hanzi": "有",
+   "pinyin": "yǒu",
+   "numbered": "you3",
+   "variants": [
+    "you3"
+   ],
+   "speak": "有",
+   "pos": [
+    "动"
+   ],
+   "en": "to have; there be",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "avoir ; il y a",
+   "tip": "The negative is always 没有, never 不有.",
+   "tipParts": [
+    [
+     "The negative is always ",
+     null
+    ],
+    [
+     "没有",
+     "méiyǒu"
+    ],
+    [
+     ", never ",
+     null
+    ],
+    [
+     "不有",
+     "bù yǒu"
+    ],
+    [
+     ".",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w277",
+   "key": "有点儿|you3 dianr3",
+   "hanzi": "有(一)点儿",
+   "pinyin": "yǒu (yì) diǎnr",
+   "numbered": "you3 yi4 dianr3",
+   "variants": [
+    "you3 yi4 dianr3",
+    "you3 dianr3"
+   ],
+   "speak": "有一点儿",
+   "pos": [
+    "副"
+   ],
+   "en": "a little; slightly",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "un peu (trop), légèrement",
+   "tip": "Before adjectives, usually for something negative: 有点儿贵 = a bit expensive.",
+   "tipParts": [
+    [
+     "Before adjectives, usually for something negative: ",
+     null
+    ],
+    [
+     "有点儿贵",
+     "yǒu diǎn ér guì"
+    ],
+    [
+     " = a bit expensive.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w278",
+   "key": "雨|yu3",
+   "hanzi": "雨",
+   "pinyin": "yǔ",
+   "numbered": "yu3",
+   "variants": [
+    "yu3"
+   ],
+   "speak": "雨",
+   "pos": [
+    "名"
+   ],
+   "en": "rain",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "pluie",
+   "tip": "Raindrops under a cloud. 下雨 = it's raining.",
+   "tipParts": [
+    [
+     "Raindrops under a cloud. ",
+     null
+    ],
+    [
+     "下雨",
+     "xià yǔ"
+    ],
+    [
+     " = it's raining.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w279",
+   "key": "雨伞|yu3 san3",
+   "hanzi": "雨伞",
+   "pinyin": "yǔsǎn",
+   "numbered": "yu3 san3",
+   "variants": [
+    "yu3 san3"
+   ],
+   "speak": "雨伞",
+   "pos": [
+    "名"
+   ],
+   "en": "umbrella",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "parapluie",
+   "tip": "雨 rain + 伞 umbrella."
+  },
+  {
+   "id": "hj1a-w280",
+   "key": "语法|yu3 fa3",
+   "hanzi": "语法",
+   "pinyin": "yǔfǎ",
+   "numbered": "yu3 fa3",
+   "variants": [
+    "yu3 fa3"
+   ],
+   "speak": "语法",
+   "pos": [
+    "名"
+   ],
+   "en": "grammar",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "grammaire",
+   "tip": "语 language + 法 rules."
+  },
+  {
+   "id": "hj1a-w281",
+   "key": "语言|yu3 yan2",
+   "hanzi": "语言",
+   "pinyin": "yǔyán",
+   "numbered": "yu3 yan2",
+   "variants": [
+    "yu3 yan2"
+   ],
+   "speak": "语言",
+   "pos": [
+    "名"
+   ],
+   "en": "language",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "langue, langage",
+   "tip": "语 + 言: both mean words."
+  },
+  {
+   "id": "hj1a-w282",
+   "key": "员工|yuan2 gong1",
+   "hanzi": "员工",
+   "pinyin": "yuángōng",
+   "numbered": "yuan2 gong1",
+   "variants": [
+    "yuan2 gong1"
+   ],
+   "speak": "员工",
+   "pos": [
+    "名"
+   ],
+   "en": "employee; staff",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "employé, personnel",
+   "tip": "员 member + 工 work."
+  },
+  {
+   "id": "hj1a-w283",
+   "key": "杂志|za2 zhi4",
+   "hanzi": "杂志",
+   "pinyin": "zázhì",
+   "numbered": "za2 zhi4",
+   "variants": [
+    "za2 zhi4"
+   ],
+   "speak": "杂志",
+   "pos": [
+    "名"
+   ],
+   "en": "magazine",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "magazine",
+   "tip": "杂 mixed + 志 records."
+  },
+  {
+   "id": "hj1a-w284",
+   "key": "再见|zai4 jian4",
+   "hanzi": "再见",
+   "pinyin": "zàijiàn",
+   "numbered": "zai4 jian4",
+   "variants": [
+    "zai4 jian4"
+   ],
+   "speak": "再见",
+   "pos": [
+    "动"
+   ],
+   "en": "goodbye",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "au revoir",
+   "tip": "再 again + 见 see."
+  },
+  {
+   "id": "hj1a-w285",
+   "key": "在|zai4",
+   "hanzi": "在",
+   "pinyin": "zài",
+   "numbered": "zai4",
+   "variants": [
+    "zai4"
+   ],
+   "speak": "在",
+   "pos": [
+    "动",
+    "介"
+   ],
+   "en": "to be in/at; in/at",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "être (à un endroit) ; à, dans",
+   "tip": "我在家 = I'm at home.",
+   "tipParts": [
+    [
+     "我在家",
+     "wǒ zài jiā"
+    ],
+    [
+     " = I'm at home.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w286",
+   "key": "怎么|zen3 me5",
+   "hanzi": "怎么",
+   "pinyin": "zěnme",
+   "numbered": "zen3 me5",
+   "variants": [
+    "zen3 me5"
+   ],
+   "speak": "怎么",
+   "pos": [
+    "代"
+   ],
+   "en": "(used to inquire about nature, condition, cause, etc.) how",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "comment",
+   "tip": "怎么去? = how do you get there?",
+   "tipParts": [
+    [
+     "怎么去?",
+     "Zěnme qù?"
+    ],
+    [
+     " = how do you get there?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w287",
+   "key": "怎么样|zen3 me5 yang4",
+   "hanzi": "怎么样",
+   "pinyin": "zěnmeyàng",
+   "numbered": "zen3 me5 yang4",
+   "variants": [
+    "zen3 me5 yang4"
+   ],
+   "speak": "怎么样",
+   "pos": [
+    "代"
+   ],
+   "en": "(inquiring about nature, condition, manner, etc.) how",
+   "lesson": 12,
+   "kind": "word",
+   "fr": "comment (est-ce), comment ça va",
+   "tip": "你身体怎么样? = how's your health?",
+   "tipParts": [
+    [
+     "你身体怎么样?",
+     "Nǐ shēntǐ zěnmeyàng?"
+    ],
+    [
+     " = how's your health?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w288",
+   "key": "张|zhang1",
+   "hanzi": "张",
+   "pinyin": "zhāng",
+   "numbered": "zhang1",
+   "variants": [
+    "zhang1"
+   ],
+   "speak": "张",
+   "pos": [
+    "量"
+   ],
+   "en": "(a measure word for paper, drawings, etc.) piece; sheet",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "classificateur des objets plats (papier, photo…)",
+   "tip": "一张照片 = one photo.",
+   "tipParts": [
+    [
+     "一张照片",
+     "yì zhāng zhàopiàn"
+    ],
+    [
+     " = one photo.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w289",
+   "key": "找|zhao3",
+   "hanzi": "找",
+   "pinyin": "zhǎo",
+   "numbered": "zhao3",
+   "variants": [
+    "zhao3"
+   ],
+   "speak": "找",
+   "pos": [
+    "动"
+   ],
+   "en": "to give change",
+   "lesson": 8,
+   "kind": "word",
+   "fr": "rendre la monnaie",
+   "tip": "找你五块 = here's five kuai change.",
+   "tipParts": [
+    [
+     "找你五块",
+     "zhǎo nǐ wǔ kuài"
+    ],
+    [
+     " = here's five kuai change.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w290",
+   "key": "找|zhao3",
+   "hanzi": "找",
+   "pinyin": "zhǎo",
+   "numbered": "zhao3",
+   "variants": [
+    "zhao3"
+   ],
+   "speak": "找",
+   "pos": [
+    "动"
+   ],
+   "en": "to look for",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "chercher",
+   "tip": "我找王老师 = I'm looking for Teacher Wang.",
+   "tipParts": [
+    [
+     "我找王老师",
+     "wǒ zhǎo wáng lǎoshī"
+    ],
+    [
+     " = I'm looking for Teacher Wang.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w291",
+   "key": "照片|zhao4 pian4",
+   "hanzi": "照片",
+   "pinyin": "zhàopiàn",
+   "numbered": "zhao4 pian4",
+   "variants": [
+    "zhao4 pian4"
+   ],
+   "speak": "照片",
+   "pos": [
+    "名"
+   ],
+   "en": "photo",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "photo",
+   "tip": "照 shine + 片 flat piece."
+  },
+  {
+   "id": "hj1a-w292",
+   "key": "这|zhe4",
+   "hanzi": "这",
+   "pinyin": "zhè",
+   "numbered": "zhe4",
+   "variants": [
+    "zhe4"
+   ],
+   "speak": "这",
+   "pos": [
+    "代"
+   ],
+   "en": "this",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "ce, ceci",
+   "tip": "这是… = this is…",
+   "tipParts": [
+    [
+     "这是",
+     "zhè shì"
+    ],
+    [
+     "… = this is…",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w293",
+   "key": "这儿|zher4",
+   "hanzi": "这儿",
+   "pinyin": "zhèr",
+   "numbered": "zher4",
+   "variants": [
+    "zher4"
+   ],
+   "speak": "这儿",
+   "pos": [
+    "代"
+   ],
+   "en": "here",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "ici",
+   "tip": "这 + 儿: here."
+  },
+  {
+   "id": "hj1a-w294",
+   "key": "这些|zhe4 xie1",
+   "hanzi": "这些",
+   "pinyin": "zhèxiē",
+   "numbered": "zhe4 xie1",
+   "variants": [
+    "zhe4 xie1"
+   ],
+   "speak": "这些",
+   "pos": [
+    "代"
+   ],
+   "en": "these",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "ces, ceux-ci",
+   "tip": "这 this + 些 some."
+  },
+  {
+   "id": "hj1a-w295",
+   "key": "支|zhi1",
+   "hanzi": "支",
+   "pinyin": "zhī",
+   "numbered": "zhi1",
+   "variants": [
+    "zhi1"
+   ],
+   "speak": "支",
+   "pos": [
+    "量"
+   ],
+   "en": "a measure word for pens, pencils, etc.",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "classificateur des stylos, crayons, etc.",
+   "tip": "一支笔 = one pen.",
+   "tipParts": [
+    [
+     "一支笔",
+     "yì zhī bǐ"
+    ],
+    [
+     " = one pen.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w296",
+   "key": "知道|zhi1 dao4",
+   "hanzi": "知道",
+   "pinyin": "zhīdào",
+   "numbered": "zhi1 dao4",
+   "variants": [
+    "zhi1 dao4"
+   ],
+   "speak": "知道",
+   "pos": [
+    "动"
+   ],
+   "en": "to know",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "savoir",
+   "tip": "我不知道 = I don't know.",
+   "tipParts": [
+    [
+     "我不知道",
+     "wǒ bù zhīdào"
+    ],
+    [
+     " = I don't know.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w297",
+   "key": "只|zhi3",
+   "hanzi": "只",
+   "pinyin": "zhǐ",
+   "numbered": "zhi3",
+   "variants": [
+    "zhi3"
+   ],
+   "speak": "只",
+   "pos": [
+    "副"
+   ],
+   "en": "only; just; merely",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "seulement",
+   "tip": "我只有一块钱 = I only have one kuai.",
+   "tipParts": [
+    [
+     "我只有一块钱",
+     "wǒ zhǐ yǒu yí kuài qián"
+    ],
+    [
+     " = I only have one kuai.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w298",
+   "key": "中文|zhong1 wen2",
+   "hanzi": "中文",
+   "pinyin": "Zhōngwén",
+   "numbered": "zhong1 wen2",
+   "variants": [
+    "zhong1 wen2"
+   ],
+   "speak": "中文",
+   "pos": [
+    "名"
+   ],
+   "en": "Chinese",
+   "lesson": 6,
+   "kind": "word",
+   "fr": "chinois (écrit)",
+   "tip": "中国 + 文.",
+   "tipParts": [
+    [
+     "中国",
+     "zhōng guó"
+    ],
+    [
+     " + 文.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w299",
+   "key": "中午|zhong1 wu3",
+   "hanzi": "中午",
+   "pinyin": "zhōngwǔ",
+   "numbered": "zhong1 wu3",
+   "variants": [
+    "zhong1 wu3"
+   ],
+   "speak": "中午",
+   "pos": [
+    "名"
+   ],
+   "en": "noon",
+   "lesson": 7,
+   "kind": "word",
+   "fr": "midi",
+   "tip": "中 middle + 午 noon."
+  },
+  {
+   "id": "hj1a-w300",
+   "key": "中药|zhong1 yao4",
+   "hanzi": "中药",
+   "pinyin": "zhōngyào",
+   "numbered": "zhong1 yao4",
+   "variants": [
+    "zhong1 yao4"
+   ],
+   "speak": "中药",
+   "pos": [
+    "名"
+   ],
+   "en": "Chinese medicine",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "médecine chinoise",
+   "tip": "中国 + 药.",
+   "tipParts": [
+    [
+     "中国",
+     "zhōng guó"
+    ],
+    [
+     " + 药.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w301",
+   "key": "重|zhong4",
+   "hanzi": "重",
+   "pinyin": "zhòng",
+   "numbered": "zhong4",
+   "variants": [
+    "zhong4"
+   ],
+   "speak": "重",
+   "pos": [
+    "形"
+   ],
+   "en": "heavy",
+   "lesson": 13,
+   "kind": "word",
+   "fr": "lourd",
+   "tip": "The opposite of 轻."
+  },
+  {
+   "id": "hj1a-w302",
+   "key": "住|zhu4",
+   "hanzi": "住",
+   "pinyin": "zhù",
+   "numbered": "zhu4",
+   "variants": [
+    "zhu4"
+   ],
+   "speak": "住",
+   "pos": [
+    "动"
+   ],
+   "en": "to live; to reside",
+   "lesson": 10,
+   "kind": "word",
+   "fr": "habiter",
+   "tip": "你住哪儿? = where do you live?",
+   "tipParts": [
+    [
+     "你住哪儿?",
+     "Nǐ zhù nǎr?"
+    ],
+    [
+     " = where do you live?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w303",
+   "key": "自行车|zi4 xing2 che1",
+   "hanzi": "自行车",
+   "pinyin": "zìxíngchē",
+   "numbered": "zi4 xing2 che1",
+   "variants": [
+    "zi4 xing2 che1"
+   ],
+   "speak": "自行车",
+   "pos": [
+    "名"
+   ],
+   "en": "bicycle",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "vélo",
+   "tip": "自 self + 行 go + 车 vehicle."
+  },
+  {
+   "id": "hj1a-w304",
+   "key": "最近|zui4 jin4",
+   "hanzi": "最近",
+   "pinyin": "zuìjìn",
+   "numbered": "zui4 jin4",
+   "variants": [
+    "zui4 jin4"
+   ],
+   "speak": "最近",
+   "pos": [
+    "名"
+   ],
+   "en": "recently; lately",
+   "lesson": 14,
+   "kind": "word",
+   "fr": "récemment, ces derniers temps",
+   "tip": "最 most + 近 near."
+  },
+  {
+   "id": "hj1a-w305",
+   "key": "昨天|zuo2 tian1",
+   "hanzi": "昨天",
+   "pinyin": "zuótiān",
+   "numbered": "zuo2 tian1",
+   "variants": [
+    "zuo2 tian1"
+   ],
+   "speak": "昨天",
+   "pos": [
+    "名"
+   ],
+   "en": "yesterday",
+   "lesson": 4,
+   "kind": "word",
+   "fr": "hier",
+   "tip": "昨 + 天 day."
+  },
+  {
+   "id": "hj1a-w306",
+   "key": "坐|zuo4",
+   "hanzi": "坐",
+   "pinyin": "zuò",
+   "numbered": "zuo4",
+   "variants": [
+    "zuo4"
+   ],
+   "speak": "坐",
+   "pos": [
+    "动"
+   ],
+   "en": "to sit",
+   "lesson": 5,
+   "kind": "word",
+   "fr": "s'asseoir",
+   "tip": "请坐 = please sit down.",
+   "tipParts": [
+    [
+     "请坐",
+     "qǐng zuò"
+    ],
+    [
+     " = please sit down.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-w307",
+   "key": "做|zuo4",
+   "hanzi": "做",
+   "pinyin": "zuò",
+   "numbered": "zuo4",
+   "variants": [
+    "zuo4"
+   ],
+   "speak": "做",
+   "pos": [
+    "动"
+   ],
+   "en": "to do",
+   "lesson": 15,
+   "kind": "word",
+   "fr": "faire",
+   "tip": "做什么? = do what?",
+   "tipParts": [
+    [
+     "做什么?",
+     "Zuò shénme?"
+    ],
+    [
+     " = do what?",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-n001",
+   "key": "爱德华|ai4 de2 hua2",
+   "hanzi": "爱德华",
+   "pinyin": "Àidéhuá",
+   "numbered": "ai4 de2 hua2",
+   "variants": [
+    "ai4 de2 hua2"
+   ],
+   "speak": "爱德华",
+   "pos": [
+    "专名"
+   ],
+   "en": "Edward",
+   "lesson": 11,
+   "kind": "name",
+   "fr": "Édouard",
+   "tip": "Ài-dé-huá sounds like \"Edward\"."
+  },
+  {
+   "id": "hj1a-n002",
+   "key": "北京|bei3 jing1",
+   "hanzi": "北京",
+   "pinyin": "Běijīng",
+   "numbered": "bei3 jing1",
+   "variants": [
+    "bei3 jing1"
+   ],
+   "speak": "北京",
+   "pos": [
+    "专名"
+   ],
+   "en": "Beijing, capital of China",
+   "lesson": 3,
+   "kind": "name",
+   "fr": "Pékin",
+   "tip": "北 north + 京 capital."
+  },
+  {
+   "id": "hj1a-n003",
+   "key": "北京语言大学|bei3 jing1 yu3 yan2 da4 xue2",
+   "hanzi": "北京语言大学",
+   "pinyin": "Běijīng Yǔyán Dàxué",
+   "numbered": "bei3 jing1 yu3 yan2 da4 xue2",
+   "variants": [
+    "bei3 jing1 yu3 yan2 da4 xue2"
+   ],
+   "speak": "北京语言大学",
+   "pos": [
+    "专名"
+   ],
+   "en": "Beijing Language and Culture University",
+   "lesson": 12,
+   "kind": "name",
+   "fr": "Université des langues et cultures de Pékin",
+   "tip": "北京 + 语言 language + 大学 university.",
+   "tipParts": [
+    [
+     "北京",
+     "běi jīng"
+    ],
+    [
+     " + ",
+     null
+    ],
+    [
+     "语言",
+     "yǔyán"
+    ],
+    [
+     " language + ",
+     null
+    ],
+    [
+     "大学",
+     "dàxué"
+    ],
+    [
+     " university.",
+     null
+    ]
+   ]
+  },
+  {
+   "id": "hj1a-n004",
+   "key": "德国|de2 guo2",
+   "hanzi": "德国",
+   "pinyin": "Déguó",
+   "numbered": "de2 guo2",
+   "variants": [
+    "de2 guo2"
+   ],
+   "speak": "德国",
+   "pos": [
+    "专名"
+   ],
+   "en": "Germany",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Allemagne",
+   "tip": "德 dé sounds like \"Deutsch\"."
+  },
+  {
+   "id": "hj1a-n005",
+   "key": "俄国|e2 guo2",
+   "hanzi": "俄国",
+   "pinyin": "Éguó",
+   "numbered": "e2 guo2",
+   "variants": [
+    "e2 guo2"
+   ],
+   "speak": "俄国",
+   "pos": [
+    "专名"
+   ],
+   "en": "Russia",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Russie",
+   "tip": "俄 é, the start of Éluósī (Russia)."
+  },
+  {
+   "id": "hj1a-n006",
+   "key": "法国|fa3 guo2",
+   "hanzi": "法国",
+   "pinyin": "Fǎguó",
+   "numbered": "fa3 guo2",
+   "variants": [
+    "fa3 guo2"
+   ],
+   "speak": "法国",
+   "pos": [
+    "专名"
+   ],
+   "en": "France",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "France",
+   "tip": "法 fǎ sounds like \"Fr-ance\"."
+  },
+  {
+   "id": "hj1a-n007",
+   "key": "关|guan1",
+   "hanzi": "关",
+   "pinyin": "Guān",
+   "numbered": "guan1",
+   "variants": [
+    "guan1"
+   ],
+   "speak": "关",
+   "pos": [
+    "专名"
+   ],
+   "en": "Guan, a Chinese family name",
+   "lesson": 14,
+   "kind": "name",
+   "fr": "Guan (nom de famille)",
+   "tip": "关 = to close."
+  },
+  {
+   "id": "hj1a-n008",
+   "key": "韩国|han2 guo2",
+   "hanzi": "韩国",
+   "pinyin": "Hánguó",
+   "numbered": "han2 guo2",
+   "variants": [
+    "han2 guo2"
+   ],
+   "speak": "韩国",
+   "pos": [
+    "专名"
+   ],
+   "en": "the Republic of Korea",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Corée du Sud",
+   "tip": "韩 Hán, as in Hanguk."
+  },
+  {
+   "id": "hj1a-n009",
+   "key": "李昌浩|li3 chang1 hao4",
+   "hanzi": "李昌浩",
+   "pinyin": "Lǐ Chānghào",
+   "numbered": "li3 chang1 hao4",
+   "variants": [
+    "li3 chang1 hao4"
+   ],
+   "speak": "李昌浩",
+   "pos": [
+    "专名"
+   ],
+   "en": "Lee Changho, name of a Korean",
+   "lesson": 10,
+   "kind": "name",
+   "fr": "Lee Changho (nom coréen)",
+   "tip": "李 Lǐ = Lee."
+  },
+  {
+   "id": "hj1a-n010",
+   "key": "林|lin2",
+   "hanzi": "林",
+   "pinyin": "Lín",
+   "numbered": "lin2",
+   "variants": [
+    "lin2"
+   ],
+   "speak": "林",
+   "pos": [
+    "专名"
+   ],
+   "en": "Lin, a Chinese family name",
+   "lesson": 12,
+   "kind": "name",
+   "fr": "Lin (nom de famille)",
+   "tip": "Two trees: forest."
+  },
+  {
+   "id": "hj1a-n011",
+   "key": "罗兰|luo2 lan2",
+   "hanzi": "罗兰",
+   "pinyin": "Luólán",
+   "numbered": "luo2 lan2",
+   "variants": [
+    "luo2 lan2"
+   ],
+   "speak": "罗兰",
+   "pos": [
+    "专名"
+   ],
+   "en": "Rolande",
+   "lesson": 11,
+   "kind": "name",
+   "fr": "Rolande",
+   "tip": "Luólán sounds like \"Ro-lande\"."
+  },
+  {
+   "id": "hj1a-n012",
+   "key": "马|ma3",
+   "hanzi": "马",
+   "pinyin": "Mǎ",
+   "numbered": "ma3",
+   "variants": [
+    "ma3"
+   ],
+   "speak": "马",
+   "pos": [
+    "专名"
+   ],
+   "en": "Ma, a Chinese family name",
+   "lesson": 11,
+   "kind": "name",
+   "fr": "Ma (nom de famille)",
+   "tip": "Also the word for horse."
+  },
+  {
+   "id": "hj1a-n013",
+   "key": "玛丽|ma3 li4",
+   "hanzi": "玛丽",
+   "pinyin": "Mǎlì",
+   "numbered": "ma3 li4",
+   "variants": [
+    "ma3 li4"
+   ],
+   "speak": "玛丽",
+   "pos": [
+    "专名"
+   ],
+   "en": "Mary",
+   "lesson": 7,
+   "kind": "name",
+   "fr": "Marie",
+   "tip": "Mǎlì sounds like \"Mary\"."
+  },
+  {
+   "id": "hj1a-n014",
+   "key": "麦克|mai4 ke4",
+   "hanzi": "麦克",
+   "pinyin": "Màikè",
+   "numbered": "mai4 ke4",
+   "variants": [
+    "mai4 ke4"
+   ],
+   "speak": "麦克",
+   "pos": [
+    "专名"
+   ],
+   "en": "Mike",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Mike",
+   "tip": "Màikè sounds like \"Mike\"."
+  },
+  {
+   "id": "hj1a-n015",
+   "key": "美国|mei3 guo2",
+   "hanzi": "美国",
+   "pinyin": "Měiguó",
+   "numbered": "mei3 guo2",
+   "variants": [
+    "mei3 guo2"
+   ],
+   "speak": "美国",
+   "pos": [
+    "专名"
+   ],
+   "en": "the United States",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "États-Unis",
+   "tip": "美 beautiful + 国 country."
+  },
+  {
+   "id": "hj1a-n016",
+   "key": "日本国|ri4 ben3 guo2",
+   "hanzi": "日本(国)",
+   "pinyin": "Rìběn (guó)",
+   "numbered": "ri4 ben3 guo2",
+   "variants": [
+    "ri4 ben3 guo2",
+    "ri4 ben3"
+   ],
+   "speak": "日本国",
+   "pos": [
+    "专名"
+   ],
+   "en": "Japan",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Japon",
+   "tip": "日 sun + 本 origin: the land of the rising sun."
+  },
+  {
+   "id": "hj1a-n017",
+   "key": "天安门|tian1 an1 men2",
+   "hanzi": "天安门",
+   "pinyin": "Tiān'ān Mén",
+   "numbered": "tian1 an1 men2",
+   "variants": [
+    "tian1 an1 men2"
+   ],
+   "speak": "天安门",
+   "pos": [
+    "专名"
+   ],
+   "en": "Tian'anmen, a famous monument in Beijing",
+   "lesson": 4,
+   "kind": "name",
+   "fr": "Tian'anmen, monument célèbre de Pékin",
+   "tip": "天 heaven + 安 peace + 门 gate: the Gate of Heavenly Peace."
+  },
+  {
+   "id": "hj1a-n018",
+   "key": "田芳|tian2 fang1",
+   "hanzi": "田芳",
+   "pinyin": "Tián Fāng",
+   "numbered": "tian2 fang1",
+   "variants": [
+    "tian2 fang1"
+   ],
+   "speak": "田芳",
+   "pos": [
+    "专名"
+   ],
+   "en": "Tian Fang, name of a Chinese person",
+   "lesson": 11,
+   "kind": "name",
+   "fr": "Tian Fang (nom chinois)",
+   "tip": "田 field + 芳 fragrant."
+  },
+  {
+   "id": "hj1a-n019",
+   "key": "王|wang2",
+   "hanzi": "王",
+   "pinyin": "Wáng",
+   "numbered": "wang2",
+   "variants": [
+    "wang2"
+   ],
+   "speak": "王",
+   "pos": [
+    "专名"
+   ],
+   "en": "Wang, a Chinese family name",
+   "lesson": 5,
+   "kind": "name",
+   "fr": "Wang (nom de famille)",
+   "tip": "王 = king. The most common surname in China."
+  },
+  {
+   "id": "hj1a-n020",
+   "key": "英国|ying1 guo2",
+   "hanzi": "英国",
+   "pinyin": "Yīngguó",
+   "numbered": "ying1 guo2",
+   "variants": [
+    "ying1 guo2"
+   ],
+   "speak": "英国",
+   "pos": [
+    "专名"
+   ],
+   "en": "the United Kingdom",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Royaume-Uni",
+   "tip": "英 yīng sounds like \"Eng(land)\"."
+  },
+  {
+   "id": "hj1a-n021",
+   "key": "张|zhang1",
+   "hanzi": "张",
+   "pinyin": "Zhāng",
+   "numbered": "zhang1",
+   "variants": [
+    "zhang1"
+   ],
+   "speak": "张",
+   "pos": [
+    "专名"
+   ],
+   "en": "Zhang, a Chinese family name",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Zhang (nom de famille)",
+   "tip": "Also the measure word for flat things."
+  },
+  {
+   "id": "hj1a-n022",
+   "key": "张东|zhang1 dong1",
+   "hanzi": "张东",
+   "pinyin": "Zhāng Dōng",
+   "numbered": "zhang1 dong1",
+   "variants": [
+    "zhang1 dong1"
+   ],
+   "speak": "张东",
+   "pos": [
+    "专名"
+   ],
+   "en": "Zhang Dong, name of a Chinese person",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Zhang Dong (nom chinois)",
+   "tip": "张 + 东 east."
+  },
+  {
+   "id": "hj1a-n023",
+   "key": "中国|zhong1 guo2",
+   "hanzi": "中国",
+   "pinyin": "Zhōngguó",
+   "numbered": "zhong1 guo2",
+   "variants": [
+    "zhong1 guo2"
+   ],
+   "speak": "中国",
+   "pos": [
+    "专名"
+   ],
+   "en": "China",
+   "lesson": 6,
+   "kind": "name",
+   "fr": "Chine",
+   "tip": "中 middle + 国 country: the Middle Kingdom."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "hanyu-github-io",
+  "compatibility_date": "2026-10-23",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "."
+  },
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "hanyu86.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.hanyu86.com",
+      "custom_domain": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source": "Hanyu project, hand-written (open). Words that can be swapped in a dialogue for the 'change the details' level. A swap is only used when every line containing the word also contains its English and its pinyin, the same number of times, so the translation and pinyin can be changed with it. 'with' = words tied to this one (寄信 goes with 邮局): if one of them is in the dialogue, the word is not swapped, so the dialogue keeps making sense. 'not' = words that don't go with this one (a cup of beer): it is never brought into a dialogue that has them.",
+  "classes": {
+    "drink": [
+      { "zh": "茶", "pinyin": "chá", "en": "tea" },
+      { "zh": "咖啡", "pinyin": "kāfēi", "en": "coffee" },
+      { "zh": "啤酒", "pinyin": "píjiǔ", "en": "beer", "not": ["杯"] }
+    ],
+    "place": [
+      { "zh": "食堂", "pinyin": "shítáng", "en": "the dining hall", "with": ["吃饭", "吃"] },
+      { "zh": "银行", "pinyin": "yínháng", "en": "the bank", "with": ["取钱", "换钱"] },
+      { "zh": "邮局", "pinyin": "yóujú", "en": "the post office", "with": ["寄信", "信"] },
+      { "zh": "图书馆", "pinyin": "túshūguǎn", "en": "the library", "with": ["看书", "借书"] },
+      { "zh": "商店", "pinyin": "shāngdiàn", "en": "a shop", "with": ["买"] },
+      { "zh": "医院", "pinyin": "yīyuàn", "en": "a hospital", "with": ["病", "大夫", "医生"] },
+      { "zh": "学校", "pinyin": "xuéxiào", "en": "school", "with": ["回"] }
+    ],
+    "nationality": [
+      { "zh": "中国人", "pinyin": "Zhōngguó rén", "en": "Chinese" },
+      { "zh": "美国人", "pinyin": "Měiguó rén", "en": "American" },
+      { "zh": "法国人", "pinyin": "Fǎguó rén", "en": "French" },
+      { "zh": "英国人", "pinyin": "Yīngguó rén", "en": "British" },
+      { "zh": "德国人", "pinyin": "Déguó rén", "en": "German" },
+      { "zh": "日本人", "pinyin": "Rìběn rén", "en": "Japanese" },
+      { "zh": "韩国人", "pinyin": "Hánguó rén", "en": "Korean" },
+      { "zh": "俄国人", "pinyin": "Éguó rén", "en": "Russian" }
+    ],
+    "language": [
+      { "zh": "汉语", "pinyin": "Hànyǔ", "en": "Chinese", "with": ["汉字", "中文", "拼音", "北京", "中国"] },
+      { "zh": "英语", "pinyin": "Yīngyǔ", "en": "English", "with": ["英文"] },
+      { "zh": "法语", "pinyin": "Fǎyǔ", "en": "French" },
+      { "zh": "德语", "pinyin": "Déyǔ", "en": "German" },
+      { "zh": "日语", "pinyin": "Rìyǔ", "en": "Japanese" },
+      { "zh": "韩国语", "pinyin": "Hánguóyǔ", "en": "Korean" },
+      { "zh": "俄语", "pinyin": "Éyǔ", "en": "Russian" },
+      { "zh": "西班牙语", "pinyin": "Xībānyáyǔ", "en": "Spanish" },
+      { "zh": "阿拉伯语", "pinyin": "Ālābóyǔ", "en": "Arabic" }
+    ],
+    "color": [
+      { "zh": "蓝", "pinyin": "lán", "en": "blue" },
+      { "zh": "红", "pinyin": "hóng", "en": "red" },
+      { "zh": "黑", "pinyin": "hēi", "en": "black" },
+      { "zh": "白", "pinyin": "bái", "en": "white" }
+    ]
+  }
+}
