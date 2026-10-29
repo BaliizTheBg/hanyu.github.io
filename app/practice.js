@@ -7,6 +7,8 @@
 
 import { h, icon } from "./study.js";
 import { listenMode } from "./listen.js";
+import { dictionaryPage } from "./dictionary.js";
+import { writingPage } from "./writing.js";
 
 const CHEVRON = '<path d="M9 5l7 7-7 7"/>';
 const BACK = '<path d="M15 5l-7 7 7 7"/>';
@@ -30,9 +32,28 @@ export async function practiceTab(ctx) {
     h("h1", { class: "large-title" }, "Practice"),
     h("div", { class: "group practice-list" },
       row("错", "Words to fix", missed ? "The words you missed" : "Nothing to fix", ctx.openFix, missed || null),
+      row("字", "Dictionary", "Search Chinese, pinyin or English", () => dictionaryPage({ ...ctx, back: () => practiceTab(ctx) })),
+      row("写", "Write characters", "Practise stroke order with your finger", () => writingBooksPage(ctx)),
       row("听", "Listen", "A lesson read aloud", () => lessonsPage(ctx, "listen")),
       row("说", "Dialogues", "Speak a lesson's dialogues", () => lessonsPage(ctx, "dialogues")),
       row("写", "Dictation", "Hear a word, write it on paper", () => lessonsPage(ctx, "dictation")))));
+  window.scrollTo(0, 0);
+}
+
+function writingBooksPage(ctx) {
+  const { app, books } = ctx;
+  const book = books.find((b) => b.id === (viewing ?? books[0].id)) ?? books[0];
+  const back = () => practiceTab(ctx);
+  app.replaceChildren(h("div", { class: "view" },
+    h("button", { class: "back-link", "aria-label": "Practice", onclick: back }, icon(BACK)),
+    h("h1", { class: "large-title" }, "Write characters"),
+    h("div", { class: "segmented", role: "radiogroup", "aria-label": "Book shown" }, ...books.map((b) =>
+      h("button", { role: "radio", "aria-checked": String(b.id === book.id), onclick: () => b.id !== book.id && ((viewing = b.id), writingBooksPage(ctx)) }, b.name))),
+    h("p", { class: "subtitle" }, "Choose a lesson. Draw each stroke in order; the shape can be approximate."),
+    ...book.texts.lessons.map((L) => h("button", { class: "lesson-row", onclick: () => writingPage({ ...ctx, book, lesson: L.lesson, back: () => writingBooksPage(ctx) }) },
+      h("span", { class: "lesson-num" }, String(L.lesson)),
+      h("span", { class: "lesson-text" }, h("span", { class: "lesson-zh hanzi-kai" }, L.zh), h("span", { class: "lesson-en" }, L.en)),
+      icon(CHEVRON)))));
   window.scrollTo(0, 0);
 }
 

@@ -75,6 +75,7 @@ let current = "today";
 let shown = 0;
 const stillOn = (n) => () => n === shown && !tabbar.hidden;
 function show(id) {
+  stopVoice(); // stop current speech and invalidate a delayed voice from the screen we are leaving
   current = id;
   shown += 1;
   tabbar.replaceChildren(...TABS.map(([tid, label]) =>
@@ -137,12 +138,15 @@ const sayOpen = (text) => {
   const turn = (voiceTurn += 1);
   motion.afterMove()
     .then(() => new Promise((r) => setTimeout(r, VOICE_PAUSE)))
-    .then(() => turn === voiceTurn && speaker.speak(text, {}));
+    // Route through say(): the screen may have changed while the OS voice list was loading.
+    // say() checks the turn again after that asynchronous wait, preventing a stale prompt from
+    // starting after the learner has already answered or moved to another screen.
+    .then(() => turn === voiceTurn && say(text));
 };
 const stopVoice = () => ((voiceTurn += 1), speaker.stop());
 const hush = () => (voiceTurn += 1); // a voice still waiting won't play (an answer given before it spoke)
 // the app put in the background: a waiting voice must not play when it comes back
-document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && hush());
+document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && stopVoice());
 const remakeSpeaker = () => (speaker = H.createSpeaker({ voiceName: engine.settings.voice, rate: engine.settings.speechRate }));
 // sync: at launch, back on Today, and when the app comes back to the front; new answers redraw Today
 const sync = () => syncNow(engine, { onReceived: () => {
@@ -180,6 +184,12 @@ async function today() {
     : exam ? "Passed" : "Not set";
 
   app.replaceChildren(h("div", { class: "view" },
+    location.hostname.endsWith(".github.io") ? h("section", { class: "migration-card" },
+      h("b", {}, "Hanyu has moved to hanyu86.com"),
+      h("p", {}, "To keep your progress, open Me → Backup → Save my progress to a file. Then open the new app and choose Me → Backup → Add progress from a file."),
+      h("div", { class: "migration-actions" },
+        h("button", { class: "pill quiet", onclick: () => show("me") }, "Open Me settings"),
+        h("a", { class: "pill", href: "https://hanyu86.com/app/" }, "Open new Hanyu"))) : null,
     installCard(installGuide),
     h("h1", { class: "large-title" }, "Today"),
     h("p", { class: "subtitle" }, date),

@@ -3,7 +3,7 @@
 // in the background, so a new version shows at the next launch.
 // When a file is added to the app, add it to FILES (app/test/sw.test.js checks the list).
 
-const CACHE = "hanyu-11aebae-mvt65un5";
+const CACHE = "hanyu-9fb8f73-mvttnzj4";
 const FILES = [
   "./",
   "index.html",
@@ -24,6 +24,8 @@ const FILES = [
   "fix.js",
   "listen.js",
   "practice.js",
+  "dictionary.js",
+  "writing.js",
   "vendor/qrcode.js",
   "fonts/kai.woff2",
   "cloud.js",
