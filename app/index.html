@@ -9,17 +9,9 @@
   <meta name="apple-mobile-web-app-title" content="Hanyu">
   <meta name="theme-color" content="#0a0a0b">
   <script>
-    // On the GitHub address (needs a VPN in China), someone new is sent to https://hanyu86.com.
-    // Not sent: the installed app (from the Home Screen or Dock), and a browser that already has
-    // Hanyu progress on this device, so the people already on GitHub keep their app and progress.
-    (function () {
-      if (!/\.github\.io$/.test(location.hostname)) return;
-      var installed = (window.matchMedia && matchMedia("(display-mode: standalone)").matches) || navigator.standalone === true;
-      if (installed || !window.indexedDB || !indexedDB.databases) return;
-      indexedDB.databases().then(function (dbs) {
-        if (!dbs.some(function (d) { return d.name === "hanyu"; })) location.replace("https://hanyu86.com/app/");
-      }).catch(function () {});
-    })();
+    // The GitHub-hosted app has been retired. The migration page can export this origin's
+    // IndexedDB progress before the learner imports it into Hanyu86.
+    if (/\.github\.io$/.test(location.hostname)) location.replace(new URL("moved.html", location.href));
   </script>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="apple-touch-icon" href="icons/icon-180.png">
@@ -38,6 +30,8 @@
     </div>
   </main>
   <nav class="tabbar" id="tabbar" hidden></nav>
-  <script type="module" src="ui.js"></script>
+  <script type="module">
+    if (!/\.github\.io$/.test(location.hostname)) import("./ui.js");
+  </script>
 </body>
 </html>

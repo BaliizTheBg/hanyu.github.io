@@ -3,36 +3,12 @@
 // in the background, so a new version shows at the next launch.
 // When a file is added to the app, add it to FILES (app/test/sw.test.js checks the list).
 
-const CACHE = "hanyu-9fb8f73-mvttnzj4";
+const CACHE = "hanyu-retired-20261031";
 const FILES = [
   "./",
   "index.html",
-  "lab.html",
-  "style.css",
-  "main.js",
-  "pack.js",
-  "new.html",
-  "ui.css",
-  "ui.js",
-  "study.js",
-  "book.js",
-  "talk.js",
-  "examtab.js",
-  "me.js",
-  "motion.js",
-  "share.js",
-  "fix.js",
-  "listen.js",
-  "practice.js",
-  "dictionary.js",
-  "writing.js",
-  "vendor/qrcode.js",
-  "fonts/kai.woff2",
-  "cloud.js",
-  "manifest.webmanifest",
+  "moved.html",
   "icons/icon-180.png",
-  "icons/icon-192.png",
-  "icons/icon-512.png",
   "engine/cards.js",
   "engine/conversation.js",
   "engine/engine.js",
@@ -52,15 +28,6 @@ const FILES = [
   "engine/sync.js",
   "engine/time.js",
   "engine/voice.js",
-  "../data/open/characters.json",
-  "../data/open/hsk-2025.json",
-  "../data/open/measure-words.json",
-  "../data/open/strokes.json",
-  "../data/open/substitutions.json",
-  "../packs/hj-1a/texts.json",
-  "../packs/hj-1a/vocab.json",
-  "../packs/hj-1b/texts.json",
-  "../packs/hj-1b/vocab.json",
 ];
 
 self.addEventListener("install", (event) => {
@@ -72,7 +39,12 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys()
       .then((keys) => Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k))))
-      .then(() => self.clients.claim()));
+      .then(() => self.clients.claim())
+      .then(() => self.clients.matchAll({ type: "window", includeUncontrolled: true }))
+      .then((clients) => Promise.all(clients
+        .filter((client) => client.url.startsWith(self.registration.scope))
+        .filter((client) => new URL(client.url).pathname !== new URL("moved.html", self.registration.scope).pathname)
+        .map((client) => client.navigate(new URL("moved.html", self.registration.scope).href).catch(() => null)))));
 });
 
 self.addEventListener("fetch", (event) => {
